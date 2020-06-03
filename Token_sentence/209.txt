@@ -1,0 +1,7 @@
+Satellite remote sensing provides new insight into the large-scale changes within the Arctic sea ice cover.
+In this study, satellite-derived sea ice parameters (thickness and age) were explored to investigate age-dependent Arctic sea ice volume changes.
+Between 2003-2008 (ICESat) and 2011-2015 (CyroSat-2), Arctic Ocean sea ice experienced a net depletion of roughly 4.68 x 10(3) km(3) during autumn (October-November) and about 87% (or 4.11 x 10(3) km(3)) is caused by the removal in multiyear ice (two years and older).
+In spring (February-March), the net ice depletion amounts to 1.46 x 10(3) km(3), with the multiyear ice loss of 3.74 x 10(3) km(3) and seasonal ice increment of 2.24 x 10(3) km(3).
+Among multiyear ice loss, about 74% (autumn) and 93% (spring) of the loss were attributable to the depletion of the oldest ice type (5 years and older).
+Analyses also affirm that the marvelous volume loss of multiyear ice during cold months (October-May) in 2006/2007 and 2011/2012, along with the low replenishment of perennial ice as noted in the following autumns in 2007 and 2012, plays a major role in leading to a younger Arctic sea ice cover.
+Consequently, these processes together favors for the overall substantial volume loss observed in the Arctic sea ice cover.

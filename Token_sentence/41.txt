@@ -1,0 +1,11 @@
+Rail fasteners are critical components in high-speed railway.
+Therefore, they are inspected periodically to ensure the safety of high-speed trains.
+Manual inspection and two-dimensional visual inspection are the commonly used methods.
+However, both of them have drawbacks.
+In this paper, a rigorous high-speed railway fastener inspection approach from structured light sensors is proposed to detect damaged and loose fasteners.
+Firstly, precise and extremely dense point cloud of fasteners are obtained from commercial structured light sensors.
+With a decision tree classifier, the defects of the fasteners are classified in detail.
+Furthermore, a normal vector based center extraction method for complex cylindrical surface is proposed to extract the centerline of the metal clip of normal fasteners.
+Lastly, the looseness of the fastener is evaluated based on the extracted centerline of the metal clip.
+Experiments were conducted on high-speed railways to evaluate the accuracy, effectiveness, and the influence of the parameters of the proposed method.
+The overall precision of the decision tree classifier is over 99.8% and the root-mean square error of looseness check is 0.15 mm, demonstrating a reliable and effective solution for highspeed railway fastener maintenance.

@@ -1,0 +1,10 @@
+Aircraft type recognition plays an important role in remote sensing image interpretation.
+Traditional methods suffer from bad generalization performance, while deep learning methods require large amounts of data with type labels, which are quite expensive and time-consuming to obtain.
+To overcome the aforementioned problems, in this paper, we propose an aircraft type recognition framework based on conditional generative adversarial networks (GANs).
+First, we design a new method to precisely detect aircrafts' keypoints, which are used to generate aircraft masks and locate the positions of the aircrafts.
+Second, a conditional GAN with a region of interest (ROI)-weighted loss function is trained on unlabeled aircraft images and their corresponding masks.
+Third, an ROI feature extraction method is carefully designed to extract multi-scale features from the GAN in the regions of aircrafts.
+After that, a linear support vector machine (SVM) classifier is adopted to classify each sample using their features.
+Benefiting from the GAN, we can learn features which are strong enough to represent aircrafts based on a large unlabeled dataset.
+Additionally, the ROI-weighted loss function and the ROI feature extraction method make the features more related to the aircrafts rather than the background, which improves the quality of features and increases the recognition accuracy significantly.
+Thorough experiments were conducted on a challenging dataset, and the results prove the effectiveness of the proposed aircraft type recognition framework.

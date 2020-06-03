@@ -1,0 +1,6 @@
+A common method for synthesizing turbulent imagery is to model phase perturbations on a wavefront and then propagate the wavefront to the entrance pupil of an imaging system.
+The point spread function (PSF) that results from the wavefront in the pupil is then computed and used to synthesize images by the usual means of convolution.
+In a recent publication, a method was disclosed using sparse and redundant dictionaries of turbulent characteristics to construct PSFs directly in the image plane and simulate image formation without making phase models and computing wavefront propagation.
+However, the dictionary method, as disclosed in the recent publication, is limited to modeling PSFs characterized by the Fried parameter of the data used to construct the dictionary.
+Herein, we demonstrate that a dictionary constructed from data with a given Fried parameter can be scaled to construct turbulent PSFs corresponding to larger and smaller values of the Fried parameter.
+This enables a single dictionary, or a small number of dictionaries, to serve for the simulation of turbulent images over a range of turbulence conditions.

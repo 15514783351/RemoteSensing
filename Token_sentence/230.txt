@@ -1,0 +1,7 @@
+Automatic airport extraction in remote sensing images (RSIs) has been widely applied in military and civil applications.
+An efficient airport extraction framework for RSIs is constructed in this letter.
+In the first step, we put forward a two-way complementary saliency analysis (CSA) scheme that combines vision-oriented saliency and knowledge-oriented saliency for the airport position estimation.
+In the second step, we construct a saliency-oriented active contour model (SOACM) for airport contour tracking, where a saliency orientation term is incorporated into the level-set-based energy functions.
+Under the guidance of saliency feature representations obtained by CSA, the SOACM can acquire well-defined and highly precise object contours.
+Experimental results demonstrate that the proposed extraction framework shows good adaptability in remote sensing scenes, and uniformly achieves high detection rate and low false alarm rate.
+Compared with three state-of-the-art algorithms, our proposal can not only estimate the location of airport targets, but also extract detailed information of the airport contours.

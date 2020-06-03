@@ -1,0 +1,9 @@
+Despite recent advances of deep Convolutional Neural Networks (CNNs) in various computer vision tasks, their potential for classification of multispectral remote sensing images has not been thoroughly explored.
+In particular, the applications of deep CNNs using optical remote sensing data have focused on the classification of very high-resolution aerial and satellite data, owing to the similarity of these data to the large datasets in computer vision.
+Accordingly, this study presents a detailed investigation of state-of-the-art deep learning tools for classification of complex wetland classes using multispectral RapidEye optical imagery.
+Specifically, we examine the capacity of seven well-known deep convnets, namely DenseNet121, InceptionV3, VGG16, VGG19, Xception, ResNet50, and InceptionResNetV2, for wetland mapping in Canada.
+In addition, the classification results obtained from deep CNNs are compared with those based on conventional machine learning tools, including Random Forest and Support Vector Machine, to further evaluate the efficiency of the former to classify wetlands.
+The results illustrate that the full-training of convnets using five spectral bands outperforms the other strategies for all convnets.
+InceptionResNetV2, ResNet50, and Xception are distinguished as the top three convnets, providing state-of-the-art classification accuracies of 96.17%, 94.81%, and 93.57%, respectively.
+The classification accuracies obtained using Support Vector Machine (SVM) and Random Forest (RF) are 74.89% and 76.08%, respectively, considerably inferior relative to CNNs.
+Importantly, InceptionResNetV2 is consistently found to be superior compared to all other convnets, suggesting the integration of Inception and ResNet modules is an efficient architecture for classifying complex remote sensing scenes such as wetlands.

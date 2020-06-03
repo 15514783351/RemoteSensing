@@ -1,0 +1,11 @@
+This paper proposes a novel method based on deformable dictionary learning for detecting the regions of change between multitemporal image pairs.
+We build on our previous work, which constructed a pair of dictionaries.
+The main shortcoming of this method was its dependence on a large amount of training data.
+In practice, there is often a shortage of ground-truthed training images, which limits the expression capability of the resulting dictionaries.
+This paper overcomes this challenge by incorporating the concept of deformation, wherein each atom of a dictionary is no longer a simple image patch, but instead is a flexible image deformation function.
+This enables the creation of more expressive dictionaries, capable of generalizing to a far greater variety of image patterns, while using a far smaller amount of ground-truthed images for supervised dictionary training.
+Deformation similarity is employed for patch matching to find the best set of atoms in the difference image (DI) dictionary for reconstructing image patches for a new input DI.
+Each such atom can be deformed to achieve a better match, thus extending generality while reducing the number of atoms needed in the dictionary.
+Multiple deformed atoms are weighted and combined to hest reconstruct the input DI patch.
+Then, the same set of deformations and weights is projected to the corresponding atoms in the CD dictionary to obtain the output change-detection map.
+Experiments in six realistic synthetic aperture radar data sets demonstrate the robustness and efficiency of the proposed method in comparison with five other state-of-the-art methods from the literature.

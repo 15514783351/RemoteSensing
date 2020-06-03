@@ -1,0 +1,10 @@
+In object-based image analysis (OBIA), object classification performance is jointly determined by image segmentation, sample or rule setting, and classifiers.
+Typically, as a crucial step to obtain object primitives, image segmentation quality significantly influences subsequent feature extraction and analyses.
+By contrast, template matching extracts specific objects from images and prevents shape defects caused by image segmentation.
+However, creating or editing templates is tedious and sometimes results in incomplete or inaccurate templates.
+In this study, we combine OBIA and template matching techniques to address these problems and aim for accurate photovoltaic panel (PVP) extraction from very high resolution (VHR) aerial imagery.
+The proposed method is based on the previously proposed region-line primitive association framework, in which complementary information between region (segment) and line (straight line) primitives is utilized to achieve a more powerful performance than routine OBIA.
+Several novel concepts, including the mutual fitting ratio and best-fitting template based on region-line primitive association analyses, are proposed.
+Automatic template generation and matching method for PVP extraction from VHR imagery are designed for concept and model validation.
+Results show that the proposed method can successfully extract PVPs without any user-specified matching template or training sample.
+High user independency and accuracy are the main characteristics of the proposed method in comparison with routine OBIA and template matching techniques.

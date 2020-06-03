@@ -1,0 +1,10 @@
+Every city is-quoting Plato-divided into two, one city of the poor, the other of the rich.
+In this study we test whether the economic urban divide is reflected in the digital sphere of cities.
+Because, especially in dynamically growing cities, ready-to-use comprehensive data sets on the urban poor, as well as on the digital divide, are not existent, we use proxies: we spatially delimit the urban poor using settlement characteristics derived from remote sensing data.
+The digital divide is targeted by geolocated Twitter data.
+Based on a sample of eight cities across the globe, we spatially test whether areas of the urban poor are more likely to be digital cold spots.
+Over the course of time, we analyze whether temporal signatures in poor urban areas differ from formal environments.
+We find that the economic divide influences digital participation in public life.
+Less residents of morphological slums are found to be digitally oriented ("are digitally left behind") as compared to residents of formal settlements.
+However, among the few twitter users in morphological slums, we find their temporal behavior similar to the twitter users in formal settlements.
+In general, we conclude this discussion, this study exemplifies that the combination of both heterogeneous data sets allows for extending the capabilities of individual disciplines for research towards urban poverty.

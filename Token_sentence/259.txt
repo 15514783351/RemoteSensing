@@ -1,0 +1,9 @@
+Automatic updating of land use/cover change (LUCC) databases using high spatial resolution images (HSRI) is important for environmental monitoring and policy making, especially for coastal areas that connect the land and coast and that tend to change frequently.
+Many object-based change detection methods are proposed, especially those combining historical LUCC with HSRI.
+However, the scale parameter(s) segmenting the serial temporal images, which directly determines the average object size, is hard to choose without experts' intervention.
+And the samples transferred from historical LUCC also need experts' intervention to avoid insufficient or wrong samples.
+With respect to the scale parameter(s) choosing, a Scale Self-Adapting Segmentation (SSAS) approach based on the exponential sampling of a scale parameter and location of the local maximum of a weighted local variance was proposed to determine the scale selection problem when segmenting images constrained by LUCC for detecting changes.
+With respect to the samples transferring, Knowledge Transfer (KT), a classifier trained on historical images with LUCC and applied in the classification of updated images, was also proposed.
+Comparison experiments were conducted in a coastal area of Zhujiang, China, using SPOT 5 images acquired in 2005 and 2010.
+The results reveal that (1) SSAS can segment images more effectively without intervention of experts. (2) KT can also reach the maximum accuracy of samples transfer without experts' intervention.
+Strategy SSAS + KT would be a good choice if the temporal historical image and LUCC match, and the historical image and updated image are obtained from the same resource.

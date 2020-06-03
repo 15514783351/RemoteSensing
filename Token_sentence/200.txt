@@ -1,0 +1,10 @@
+Aerial scene classification is an active and challenging problem in high-resolution remote sensing imagery understanding.
+Deep learning models, especially convolutional neural networks (CNNs), have achieved prominent performance in this field.
+The extraction of deep features from the layers of a CNN model is widely used in these CNN-based methods.
+Although the CNN-based approaches have obtained great success, there is still plenty of room to further increase the classification accuracy.
+As a matter of fact, the fusion with other features has great potential for leading to the better performance of aerial scene classification.
+Therefore, we propose two effective architectures based on the idea of feature-level fusion.
+The first architecture, i.e., texture coded two-stream deep architecture, uses the raw RGB network stream and the mapped local binary patterns (LBP) coded network stream to extract two different sets of features and fuses them using a novel deep feature fusion model.
+In the second architecture, i.e., saliency coded two-stream deep architecture, we employ the saliency coded network stream as the second stream and fuse it with the raw RGB network stream using the same feature fusion model.
+For sake of validation and comparison, our proposed architectures are evaluated via comprehensive experiments with three publicly available remote sensing scene datasets.
+The classification accuracies of saliency coded two-stream architecture with our feature fusion model achieve 97.79%, 98.90%, 94.09%, 95.99%, 85.02%, and 87.01% on the UC-Merced dataset (50% and 80% training samples), the Aerial Image Dataset (AID) (20% and 50% training samples), and the NWPU-RESISC45 dataset (10% and 20% training samples), respectively, overwhelming state-of-the-art methods.

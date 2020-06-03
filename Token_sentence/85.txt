@@ -1,0 +1,7 @@
+The gain-loss approach for greenhouse gas inventories requires estimates of areas of human activity and estimates of emissions per unit area for each activity.
+Stratified sampling and estimation have emerged as a popular and useful statistical approach for estimation of activity areas.
+With this approach, a map depicting classes of activity is used to stratify the area of interest.
+For each map class used as a stratum, map units are randomly selected and assessed with respect to an attribute such as forest/non-forest or forest land cover change.
+Ground observations are generally accepted as the most accurate source of information for these assessments but may be cost-prohibitive to acquire for remote and inaccessible forest regions.
+In lieu of ground observations, visual interpretations of remotely sensed data such as aerial imagery or satellite imagery are often used with the caveat that the interpretations must be of greater quality than the map data.
+An unresolved issue pertains to the effects of interpreter error on the bias and precision of the stratified estimators of activity areas.

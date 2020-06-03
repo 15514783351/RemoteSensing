@@ -1,0 +1,8 @@
+Information about ice thickness and subglacial topography is a key element for ice dynamics modeling and, consequently, for better understanding of current response of glaciers to climatic forcing.
+While there has been a substantial progress in the measurements of glacial surface, ice thickness measurements still suffer from limited coverage and strong interpolation.
+Furthermore, there are some glaciated areas where typical remote sensing techniques provide only limited data due to unfavorable climatic conditions and steep topography.
+A perfect example of such a feature is icefalls dominating landscapes of the maritime Antarctic.
+In order to close that gap, this letter presents a simple method of inferring the subglacial topography based on repeated terrestrial laser scanning of the ice surface and inverse shallow ice approximation modeling.
+Emerald Icefalls, King George Island, were surveyed twice within eight-day period, allowing to derive ice surface velocity field by feature tracking analysis and to estimate ice thickness and the subglacial topography.
+Calculated ice thickness is low, with the mean value of 72 +/- 18 m.
+Therefore, in line with former studies, the overall ice flux of Emerald Icefalls is small despite their relatively high surface ice flow velocities.

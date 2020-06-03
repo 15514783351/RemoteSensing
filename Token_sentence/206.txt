@@ -1,0 +1,10 @@
+Characterized by high concentrations and significant diurnal dynamics, total suspended particulate matter (TSM) in Hangzhou Bay (HZB) can influence the water quality.
+Both cruise sampling and polar-orbiting satellite remote sensing make it difficult to synoptically delineate such matter in coastal regions due to insufficient spatiotemporal resolution.
+However, near-real-time monitoring from the Geostationary Ocean Color Imager (GOCI), the world's first geostationary satellite ocean color sensor, now allows hourly observations of target areas.
+Here, we developed an empirical TSM retrieval algorithm for the GOCI, based on the spectral absorption index (SAI).
+Additionally, validations of the atmospheric correction algorithm and SAI TSM algorithm were conducted, with the GOCI-retrieved normalized water-leaving radiance (Lwn) and TSM well-matched with in situ values.
+Moreover, the diurnal dynamics corresponded to tidal phases, with a maximum-of 5000 mg/L in central HZB.
+The seasonal variations in TSM were also determined by freshwater inputs and sediment loads, with correlation coefficients of -0.77 and 0.84, respectively.
+The increased wind speed in winter enhanced vertical mixing and favored the resuspension of sediment to the upper layer, and therefore TSM was higher in winter than in summer.
+These results highlight the feasibility of using geostationary ocean color remote sensing to monitor short-term and regional oceanic phenomena in coastal waters.
+Furthermore, this study contributes to our understanding of related sediment dynamics and physical biogeochemical processes.

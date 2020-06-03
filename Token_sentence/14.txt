@@ -1,0 +1,12 @@
+Artificial light at night (ALAN) provides a unique footprint of human activities and settlements.
+However, the adverse effects of ALAN on human health and ecosystems have not been well understood.
+Because of a lack of high resolution data, studies of ALAN in China have been confined to coarse resolution, and fine-scale details are missing.
+The fine details of ALAN are pertinent, because the highly dense population in Chinese cities has created a distinctive urban lighting pattern.
+In this paper, we introduced a new generation of high spatial resolution and multi-spectral night-time light imagery from the satellite JL1-3B.
+We examined its effectiveness for monitoring the spatial pattern and discriminating the types of artificial light based on a case study of Hangzhou, China.
+Specifically, local Moran's I analysis was applied to identify artificial light hotspots.
+Then, we analyzed the relationship between artificial light brightness and land uses at the parcel-level, which were generated from GF-2 imagery and open social datasets.
+Third, a machine learning based method was proposed to discriminate the type of lighting sources - between high pressure sodium lamps (HPS) and light-emitting diode lamps (LED) - by incorporating their spectral information and morphology feature.
+The result shows a complicated heterogeneity of illumination characteristics across different land uses, where main roads, commercial and institutional areas were brightly lit while residential area, industrial area and agricultural land were dark at night.
+It further shows that the proposed method was effective at separating light emitted by HPS and LED, with an overall accuracy and kappa coefficient of 83.86% and 0.67, respectively.
+This study demonstrates the effectiveness of JL1-3B and its superiority over previous night-time light data in detecting details of lighting objects and the nightscape pattern, and suggests that JL1-3B and alike could open up new opportunities for the advancement of night-time remote sensing.

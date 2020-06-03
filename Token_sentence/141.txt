@@ -1,0 +1,9 @@
+Matching multi-sensor remote sensing images is still a challenging task due to textural changes and non-linear intensity differences.
+In this paper, a novel matching method is proposed for multi-sensor remote sensing images.
+To establish feature correspondences, an affinity tensor is used to integrate geometric and radiometric information.
+The matching process consists of three steps.
+First, features from an accelerated segment test are extracted from both source and target images, and two complete graphs are constructed with their nodes representing these features.
+Then, the geometric and radiometric similarities of the feature points are represented by the three-order affinity tensor, and the initial feature correspondences are established by tensor power iteration.
+Finally, a tensor-based mismatch detection process is conducted to purify the initial matched points.
+The robustness and capability of the proposed method are tested with a variety of remote sensing images such as Ziyuan-3 backward, Ziyuan-3 nadir, Gaofen-1, Gaofen-2, unmanned aerial vehicle platform, and Jilin-1.
+The experiments show that the average matching recall is greater than 0.5, which outperforms state-of-the-art multi-sensor image-matching algorithms such as SIFT, SURF, NG-SIFT, OR-SIFT and GOM-SIFT.

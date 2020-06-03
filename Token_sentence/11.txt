@@ -1,0 +1,14 @@
+Rugged terrain distorts optical remote sensing signals, and land-cover classification and biophysical parameter retrieval over mountainous regions must account for topographic effects.
+Therefore, topographic correction is a prerequisite for many remote sensing applications.
+In this study, we proposed a semi-physically based and simple topographic correction method for vegetation canopies based on path length correction (PLC).
+The PLC method was derived from the solution to the classic radiative transfer equation, and the influence of terrain on the radiative transfer process within the canopy is explicitly considered, making PLC physically sound.
+The radiative transfer equation was simplified to make PLC mathematically simple.
+Near-nadir observations derived from a Landsat 8 Operational Land Imager (OLI) image covering a mountainous region and wide field-of-view observations derived from simulation using a canopy reflectance model were combined to test the PLC correction method.
+Multi-criteria were used to provide objective evaluation results.
+The performances were compared to that of five other methods: CC, SCS + C, and SE, which are empirical parameter-based methods, and SCS and DS, which are semi-physical methods without empirical parameter.
+All the six methods could significantly reduce the topographic effects.
+However, SCS showed obvious overcorrection for near-nadir observations.
+The correction results from D-S showed an obvious positive bias.
+For near-nadir observations, the performance of PLC was comparable to the well-validated parameter-based methods.
+For wide field-of-view observations, PLC obviously outperformed all other methods.
+Because of the physical soundness and mathematical simplicity, PLC provides an efficient approach to correct the terrain-induced canopy BRDF distortion and will facilitate the exploitation of multi-angular information for biophysical parameter retrieval over mountainous regions.

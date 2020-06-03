@@ -1,0 +1,9 @@
+Active learning (AL) has been shown to be very effective in hyperspectral image (HSI) classification.
+It significantly improves the performance by selecting a small quantity of the most informative training samples to reduce the complexity of classification.
+Multiview AL (MVAL) can make the comprehensive analysis of both object characterization and sampling selection in AL by using various features of multiple views.
+However, the original MVAL cannot effectively exploit the spectral-spatial information by respecting the three-dimensional (3D) nature of the HSI and the query selection strategy in the MVAL is only based on the disagreement of multiple views.
+In this paper, we propose a 3D-Gabor inspired MVAL method for spectral-spatial HSI classification, which consists of two main steps.
+First, in the view generation step, we adopt a 3D-Gabor filter to generate multiple cubes with limited bands and utilize the feature assessment strategies to select cubes for constructing views.
+Second, in the sampling selection step, a novel method is proposed by using both internal and external uncertainty estimation (IEUE) of views.
+Specifically, we use the distributions of posterior probability to learn the internal uncertainty of each independent view, and adopt the inconsistencies between views to estimate the external uncertainty.
+Classification accuracies of the proposed method for the four benchmark HSI datasets can be as high as 99.57%, 99.93%, 99.02%, 98.82%, respectively, demonstrating the improved performance as compared with other state-of-the-art methods.

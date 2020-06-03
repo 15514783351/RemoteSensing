@@ -1,0 +1,10 @@
+The correction of directional effects on satellite-retrieved land surface temperature (LST) is of high relevance for a proper interpretation of spatial and temporal features contained in LST fields.
+This study presents a methodology to correct such directional effects in an operational setting.
+This methodology relies on parametric models, which are computationally efficient and require few input information, making them particularly appropriate for operational use.
+The models are calibrated with LST data collocated in time and space from MODIS (Aqua and Terra) and SEVIRI (Meteosat), for an area covering the entire SEVIRI disk and encompassing the full year of 2011.
+Past studies showed that such models are prone to overfitting, especially when there are discrepancies between the LSTs that are not related to the viewing geometry (e.g., emissivity, atmospheric correction).
+To reduce such effects, pixels with similar characteristics are first grouped by means of a cluster analysis.
+The models' calibration is then performed on each one of the selected clusters.
+The derived coefficients reflect the expected impact of vegetation and topography on the anisotropy of LST.
+Furthermore, when tested with independent data, the calibrated models are shown to maintain the capability of representing the angular dependency of the differences between LST derived from polar-orbiter (MODIS) and geostationary (Meteosat, GOES and Himawari) satellites.
+The methodology presented here is currently being used to estimate the deviation of LST products with respect to what would be obtained for a reference view angle (e.g., nadir), therefore contributing to the harmonization of LST products.

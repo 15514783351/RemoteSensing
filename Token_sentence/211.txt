@@ -1,0 +1,9 @@
+Mapping plants traits on theQinghai-Tibetan Plateau grassland is important for understanding ecosystem functions and how plants respond to global change.
+Detailed trait maps for the complete Qinghai-Tibetan Plateau are missing.
+Here, we addressed this issue by combining Sentinel-2 and Landsat-8 multispectral satellite data with field measurements to map and compare plant traits of meadow and steppe communities across the complete Qinghai-Tibetan Plateau.
+We measured in-situ plant-level traits of CHLorophyll content (CHL), specific plant area (SPA = plant area / plant dry mass), and plant dry matter content (PDMC = plant dry mass / fresh mass).
+We hypothesized that plant-level traits of SPA and PDMC are close to community-weighted means (CWMs) of specific leaf area (SLA) and leaf dry matter content (LDMC) because leaves represent the largest fraction of above-ground biomass in the Qinghai-Tibetan Plateau grasslands.
+Despite vastly different measurement methods, we found that the remotely sensed traits (SPA and PDMC) correlated with literature-derived leaf traits of CWMs of SLA and LDMC.
+Both remotely sensed and field-measured results showed that alpine meadow plants reveal a wider range and higher averages of CHL and SPA but lower PDMC compared with alpine steppe plants.
+These trait differences between vegetation types indicate faster growth of alpine meadow and higher resilience to harsh conditions of alpine steppe, representing differences in adaptation strategies to environmental conditions.
+Our study demonstrates that remote sensing can be used to estimate plant traits in alpine grasslands with potential applications to retrieve functional diversity and correlated ecosystem functions in future studies.

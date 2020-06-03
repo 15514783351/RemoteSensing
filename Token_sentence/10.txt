@@ -1,0 +1,13 @@
+Defoliation by herbivorous insects is a widespread forest disturbance driver, affecting global forest health and ecosystem dynamics.
+Compared with time- and labor-intensive field surveys, remote sensing provides the only realistic approach to mapping canopy defoliation by herbivorous insects over large spatial and temporal scales.
+However, the spectral and structural signatures of defoliation by insects at the individual tree level have not been well studied.
+Additionally, the predictive power of spectral and structural metrics for mapping canopy defoliation has seldom been compared.
+These critical knowledge gaps prevent us from consistently detecting and mapping canopy defoliation by herbivorous insects across multiple scales.
+During the peak of a gypsy moth outbreak in Long Island, New York in summer 2016, we leveraged bi-temporal airborne imaging spectroscopy (IS, i.e., hyperspectral imaging) and LiDAR measurements at 1 m spatial resolution to explore the spectral and structural signatures of canopy defoliation in a mixed oak-pine forest.
+We determined that red edge and near-infrared spectral regions within the IS data were most sensitive to crown-scale defoliation severity.
+LiDAR measurements including B70 (i.e., 70th bincentile height), intensity skewness, and kurtosis were effectively able to detect structural changes caused by herbivorous insects.
+In addition to canopy leaf loss, increased exposure of understory and non-photosynthetic materials contributed to the detected spectral and structural signatures.
+Comparing the ability of individual sensors to map canopy defoliation, the LiDAR-only Ordinary Least-Square (OLS) model performed better than the IS-only model (Adj. R-squared = 0.77, RMSE = 15.37% vs. Adj. Rsquared = 0.63, RMSE = 19.11%).
+The IS + LiDAR model improved on performance of the individual sensors (Adj. R-squared = 0.81, RMSE = 14.46%).
+Our study improves our understanding of spectral and structural signatures of defoliation by herbivorous insects and presents a novel approach for mapping insect defoliation at the individual tree level.
+Additionally, with the current and next generation of spaceborne sensors (e.g., WorldView-3, Landsat, Sentinel-2, HyspIRI, and GEDI), higher accuracy and frequent monitoring of insect defoliation may become more feasible across a range of spatial scales, which are critical for ecological research and management of forest resources including the economic consequences of forest insect infestations (e.g., reduced growth and increased mortality), as well as for informing and testing of carbon cycle models.

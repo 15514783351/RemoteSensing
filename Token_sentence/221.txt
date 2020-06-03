@@ -1,0 +1,9 @@
+The Central Gold Belt (CGB) of Malaysia is a major host to gold deposits.
+Penjom, Raub, Selising and Buffalo reef are major gold mines in CGB.
+The study area, Selinsing gold mine, is located at the northwest of Pahang province on the lineament known as the Raub Bentong Suture.
+Presence of dense vegetation and cloud cover in tropical regions are main obstacles in alteration mapping using satellite imageries.
+In this study, Landsat 8 and ASTER level 1B images were used to map clay minerals and quartz rich zones at Selinsing gold mine and surrounding areas.
+Direct principal component analysis (DPCA), matched filtering (MF) and band ratio were the effective methods used in this study.
+High concentration of clay minerals was detected using band ratio 6/7, DPC2 and MF and ratio 14/12 was carried out to highlight quartz rich zones.
+The results of image processing methods were verified by in situ inspection and X-ray diffraction analyses.
+The results show that, in spite of limited bedrock exposure, the known gold prospects and potential areas of mineralization can be recognized by the methods employed in this study.

@@ -1,0 +1,7 @@
+Rice is one of the most important cereals in the world.
+With the change of agricultural land, it is urgently neemcary to update information about rice planting areas.
+This study aims to map rice planting areas with a field-based approach through the integration of multi-temporal Sentinel-1A and Landsat-8 OLI data in Wuhua County of South China where has many basins and mountains.
+This paper, using multi-temporal SAR and optical images, proposes a methodology for the identification of rice-planting areas.
+This methodology mainly consists of SSM applied to time series SAR images for the calculation of a similarity measure, image segmentation process applied to the pan-sharpened optical image for the searching of homogenous objects, and the integration of SAR and optical data for the elimination of some speckles.
+The study compares the per-pixel approach with the per field approach and the results show that the highest accuracy (91.38%) based on the field-based approach is 1.18% slightly higher than that based on the pixel-based approach for VH polarization, which is brought by eliminating speckle noise through comparing the rice maps of these two approaches.
+Therefore, the integration of Sentinel-1A and Landsat-8 OLI images with a field-based approach has great potential for mapping rice or other crops' areas.

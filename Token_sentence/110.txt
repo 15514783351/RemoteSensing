@@ -1,0 +1,10 @@
+Satellite-observed surface temperatures over heterogeneous urban pixels are generally determined by viewing and illumination angles, as well as by 3-D geometries and component temperature distributions of urban surfaces.
+This paper focuses on developing a Geometric model to simulate Urban Thermal Anisotropy considering overlaps of shadows on the ground for simplified neighborhoods (GUTA-osg).
+A Boolean model and projections for buildings are used to calculate the average fractions of urban components in a field of view.
+Simulation results derived from GUTA-osg are compared with those from the 3-D discrete anisotropic radiative transfer model.
+At view and solar zenith angles lower than 50 degrees, GUTA-osg can be applied to urban scenes of h/w < 2.0 (building-height-to-spacing ratio) with confidence where errors of the estimated fraction of walls and shaded ground are less than 0.1.
+As h/w increases, GUTA-osg performs well when applied to urban scenes with smaller building plan area index values (e.g., lambda(p) < 0.3 for h/w = 2.0-4.0).
+GUTA-osg accurately simulates the anisotropy of airborne measured temperatures, with R-2 > 0.85 and root mean square errors < 0.8 K.
+Biases of the model can result from: 1) the neglect of shadows on walls cast by adjacent buildings and 2) model simplifications, including constant building heights and random distributions of building location and orientation.
+GUTA-osg uses urban morphologic indexes as inputs, and coefficient values can be derived by fitting against multiangular thermal infrared observations.
+The model can be used to adjust the directional temperature to a common viewing geometry.

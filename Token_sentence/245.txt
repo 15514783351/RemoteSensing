@@ -1,0 +1,8 @@
+Detection of objects from satellite optical remote sensing images is very important for many commercial and governmental applications.
+With the development of deep convolutional neural networks (deep CNNs), the field of object detection has seen tremendous advances.
+Currently, objects in satellite remote sensing images can be detected using deep CNNs.
+In general, optical remote sensing images contain many dense and small objects, and the use of the original Faster Regional CNN framework does not yield a suitably high precision.
+Therefore, after careful analysis we adopt dense convoluted networks, a multi-scale representation and various combinations of improvement schemes to enhance the structure of the base VGG16-Net for improving the precision.
+We propose an approach to reduce the test-time (detection time) and memory requirements.
+To validate the effectiveness of our approach, we perform experiments using satellite remote sensing image datasets of aircraft and automobiles.
+The results show that the improved network structure can detect objects in satellite optical remote sensing images more accurately and efficiently.

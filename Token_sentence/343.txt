@@ -1,0 +1,7 @@
+This study evaluates the potential of high resolution hyperspectral airborne imagery to capture within-field variability of durum wheat grain yield (GY) and grain protein content (GPC) in two commercial fields in the Yaqui Valley (northwestern Mexico).
+Through a weekly/biweekly airborne flight campaign, we acquired 10 mosaics with a micro-hyperspectral Vis-NIR imaging sensor ranging from 400-850 nanometres (nm).
+Just before harvest, 114 georeferenced grain samples were obtained manually.
+Using spectral exploratory analysis, we calculated narrow-band physiological spectral indicesnormalized difference spectral index (NDSI) and ratio spectral index (RSI)from every single hyperspectral mosaic using complete two by two combinations of wavelengths.
+We applied two methods for the multi-temporal hyperspectral exploratory analysis: (a) Temporal Principal Component Analysis (tPCA) on wavelengths across all images and (b) the integration of vegetation indices over time based on area under the curve (AUC) calculations.
+For GY, the best R-2 (0.32) were found using both the spectral (NDSIRi, 750 to 840 nm and Rj, +/- 720-736 nm) and the multi-temporal AUC exploratory analysis (EVI and OSAVI through AUC) methods.
+For GPC, all exploratory analysis methods tested revealed (a) a low to very low coefficient of determination (R-2 0.21), (b) a relatively low overall prediction error (RMSE: 0.45-0.49%), compared to results from other literature studies, and

@@ -1,0 +1,14 @@
+The land surface reflectance data are indispensable to generate many other land products.
+Global land surface reflectance data have been routinely produced from remote sensing sensors aboard different satellite platforms.
+However, the original data, especially the daily data, suffer from a large number of spatial gaps, which result from atmospheric contamination and instrument deficiencies.
+This seriously limits their further applications.
+Many composite products with less spatial gaps have been generated to solve the above problem, but they easily sacrifice their temporal resolutions of original data.
+Even worse, they cannot he directly implemented in realistic applications because of the noise and composite seams.
+This paper proposes a temporal-spatial reconstruction method (TSRM) to generate daily gapless and seamless land surface reflectance data.
+The TSRM integrates both temporal and spatial information for recovering different land cover types using three processing steps.
+First, spatial gaps are coarsely filled with multiyear weighted average (Step1).
+After that, all the gaps that are not filled in the first step are interpolated by using harmonic analysis of time series with true value constraint (Step2).
+Finally, the reconstructed results in the last step are seamlessly processed using the Poisson image editing method, and the seamless daily reflectance data set is generated (Step3).
+The Moderate Resolution Imaging Spectroradiometer reflectance data set (MOD09GA and MYD09GA) on two testing areas is selected to verify the performance of the proposed TSRM.
+Experimental results show that the TSRM has good performance with regard to maintaining the temporal and spatial integrity of the daily land surface reflectance data.
+Results on different testing sites also demonstrate that the TSRM preserves spectral integrity with clear seasonal trends for each spectral band.

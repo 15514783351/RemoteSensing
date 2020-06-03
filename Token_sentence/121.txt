@@ -1,0 +1,8 @@
+Satellite remote sensing technology provides the only viable means for global monitoring of atmosphere systems, such as ozone.
+The ozone mapping and profiler suite (OMPS) onboard Suomi-NPP satellite, which was launched in the year 2011, has a primary purpose of measuring ozone.
+Suomi-NPP has been on operation for more than 3 years, and it is crucial to keep the satellite data precise and trusted.
+By using 17 months of satellite and ground-based total ozone column (TOC) data, this study performs an evaluation of OMPS products.
+Ozone monitoring instrument (OMI) data generated from a similar satellite instrument were also used to compare with the OMPS TOC data, and both the TOC products were generated using TOMS version 8.5 (TOMS-V8.5) algorithm.
+The evaluation consists of intercomparisons with groundbased Brewer measurements, similar satellite instruments, and accuracy analysis as a function of time and solar zenith angle.
+Results show that after 3 years of operation, OMPS-derived TOC data still have good correlation (R-2 > 0.99, RMSE = 1.51%) with ground-based measurements.
+The results also give some evidence that the OMPS TOC data have better accuracy than those from OMI using the same algorithm.

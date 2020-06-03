@@ -1,0 +1,10 @@
+Hyperspectral Band Selection (BS) aims to select a few informative and distinctive bands to represent the whole image cube.
+In this paper, an unsupervised BS framework named the band priority index (BPI) is proposed.
+The basic idea of BPI is to find the bands with large amounts of information and low correlation.
+Sequential forward search (SFS) is used to avoid an exhaustive search, and the objective function of BPI consist of two parts: the information metric and the correlation metric.
+We proposed a new band correlation metric, namely, the joint correlation coefficient (JCC), to estimate the joint correlation between a single band and multiple bands.
+JCC uses the angle between a band and the hyperplane determined by a band set to evaluate the correlation between them.
+To estimate the amount of information, the variance and entropy are used as the information metric for BPI, respectively.
+Since BPI is a framework for BS, other information metrics and different mathematic functions of the angle can also be used in the model, which means there are various implementations of BPI.
+The BPI-based methods have the advantages as follows: (1) The selected bands are informative and distinctive. (2) The BPI-based methods usually have good computational efficiencies. (3) These methods have the potential to determine the number of bands to be selected.
+The experimental results on different real hyperspectral datasets demonstrate that the BPI-based methods are highly efficient and accurate BS methods.

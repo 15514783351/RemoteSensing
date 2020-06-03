@@ -1,0 +1,11 @@
+Remote sensing is an indispensable tool for Earth observation over large areal extent.
+Snow cover extent monitoring has been one such application where microwave sensors have been a popular choice due to their sensitivity toward the dielectric property.
+Snow is a dynamic matter since its dielectric state is dependent on climatic factors prevailing locally around it.
+In the literature, the polarization fraction (PF) has been used for landcover characterization.
+In this paper, we utilize the seasonal variation of the PF for mapping snow cover over the Himalayan terrain.
+Temporal variation of the strength in the polarized return due to change in landcover and season is the prime motivation behind this approach.
+In addition, the effect of SAR data acquisition time on mapping algorithms is considered in this work which is seldom discussed in the literature.
+Furthermore, a study is conducted to analyze the seasonal variation in the entropy (H) and the scattering type (a) parameters over the bare snow-covered ground and the forested areas.
+The seasonal response of the terrain in the H/a plane corresponding to specific scattering characteristics is analyzed.
+The applicability of the approach is tested with RADARSAT-2 (FQ28) C-band full polarimetric image pairs over the Manali-Dhundi region, Himachal Pradesh, India, located in the western Hindu-Kush Himalayas.
+The snow cover map is explicitly validated with in situ observatory measurements and optical satellite imagery.

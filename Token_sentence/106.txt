@@ -1,0 +1,8 @@
+Flood inundation probability is critical for situation awareness, flood mitigation, emergency response, and postevent damage assessment.
+Current flood inundation mapping approaches can be categorized into real-time (RT) and near-RT (NRT) processes based on the timing of data acquisition.
+However, the intrinsic limitations of each category largely hamper their applications for flood mapping.
+Taking the 2015 South Carolina flood in downtown Columbia as a case study, this paper proposes a flood inundation reconstruction model by enhancing the NRT normalized difference water index (NDWI) derived from remote sensing imagery with the RT data including stream gauge readings and social media (tweets).
+Splitting into three modules: water height module, global enhancement module, and local enhancement module, the proposed model first incorporates the gauge readings and the NDWI image to reconstruct a macroscale flood probability layer, which is then locally enhanced using the verified flood-related tweets.
+The final output of the model matches well with the U.S.
+Geological Survey inundation map and its surveyed high-water marks.
+Results suggest that by enhancing NRT imagery with RT data sources, the proposed flood inundation probability reconstruction model renders a more robust, spatially enhanced flood probability index for emergency responders to quickly identify areas in need of urgent attention.

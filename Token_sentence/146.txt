@@ -1,0 +1,11 @@
+Lake Tana is the largest lake in Ethiopia, and its lake outflow is the source of the Blue Nile River that provides vital water resources for many livelihoods and downstream/international stakeholders.
+Therefore, it is essential to quantify and monitor the water balance of Lake Tana.
+However, Lake Tana is poorly gauged, with more than 50% of Lake Tana Basin being ungauged from in-situ measurements, making it difficult to quantify the lake inflow from surrounding basins.
+The lack of in-situ measurements highlights the need for the innovative application of satellite remote sensing.
+This study explores how freely accessible satellite remote sensing can be used to complement routine weather data to quantify the water balance of Lake Tana and its surrounding catchments.
+This study particularly investigates whether the outflow from Lake Tana can be estimated with sufficient accuracy as the residual of the lake water balance.
+Monthly inflow into lake was computed as the total runoff from the surrounding catchments; the runoff was estimated as the residual of the land-based catchment water balance using satellite precipitation improved with an integrated downscaling-calibration procedure, satellite evapotranspiration, and a correction term for changes in land total storage (soil moisture storage and deep percolation).
+The outflow from Lake Tana was estimated as the residual of lake water balance by combining satellite-based lake precipitation, changes in water storage, and lake inflow with estimated lake evaporation.
+Evaluation using limited available measurements showed that estimated annual runoff for two gauged subbasins agreed well with measurements, with differences within 4%.
+The estimated annual outflow from Lake Tana was also close to measured outflow, with a difference of 12%.
+However, the estimated monthly runoff from catchments and monthly lake outflow were unsatisfactory, with large errors.

@@ -1,0 +1,7 @@
+Complex gravitational phenomena can require terrestrial remote sensing solutions for monitoring their possible evolution, especially when in situ installations are not possible.
+This study merges terrestrial radar interferometry (TRI) and image cross-correlation (ICC) processing, which can detect complementary motion components, to obtain a 3-dimensional system able to measure the actual surface motion field of a pre-defined target.
+The coupling can be carried out on data acquired from different installations of the devices, and by applying specific transformations of the related coordinate systems.
+The data georeferencing is a critical issue that affects the correct spatial correspondence of the data and a new approach for georeferencing radar data is proposed.
+The result is a spatio-temporal (3 + 1-dimensional) high-resolution representation of the surface kinematics.
+The presented method has been tested for the measurement of the Planpicieux glacier surface kinematics (NW of Italy).
+The error analysis revealed a millimeter accuracy and precision of the measurement and a georeferencing uncertainty of a few metres.

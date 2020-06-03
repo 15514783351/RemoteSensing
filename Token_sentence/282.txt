@@ -1,0 +1,11 @@
+Over the past 20 years, hyperspectral microscopy has grown into a robust field of analysis for a number of applications.
+The visible to near-infrared (VNIR; 400 to 1000 nm) region of the spectrum has demonstrated utility for the characterization of healthy and diseased tissue and of biomolecular indicators at the cellular level.
+Here, we describe the development of a hyperspectral imaging (HSI) microscope that is aimed at material characterization to complement traditional stand-off, earth remote sensing with hyperspectral sensors.
+We combine commercial off the shelf technology to build an HSI microscope to collect spectral data with illumination provided by a tunable laser.
+Hyperspectral imaging microscopy (HIM) facilitates detailed examination of target materials at the subcentimeter spatial scale.
+The custom-built, laser illumination HSI microscope covers the NIR to shortwave infrared (NIR/SWIR; 900 to 2500 nm) solar-reflected spectral range.
+It is combined with a separate VNIR sensor (400 to 900 nm) that utilizes quartz-tungsten-halogen lamps for illumination.
+The combined sensors provide a means to collect >10,000 s of spectra in the full VNIR/SWIR spectral range from both pure substances and precisely engineered linear and nonlinear mixtures.
+The large abundance of spectra allows for a more detailed understanding of the variability and multivariate probability distributions of spectral signatures.
+This additional information aids in understanding the variability observed in ground truth spectra collected from portable spectrometers, and it greatly enhances sample description and metadata content.
+In addition, HIM data cubes can serve as proxies, as "microscenes," for systems engineering applications such as trade studies for HSI acquired by air- and space-borne sensors.

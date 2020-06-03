@@ -1,0 +1,10 @@
+Up-to-date maps of a city's urban structure types (USTs) are very important for effective planning, as well as for different studies and applications.
+We present an approach for the classification of USTs at the level of urban blocks based on high-resolution spaceborne radar imagery.
+Images obtained at the satellite's ascending and descending orbits were used for extracting line and polygon features from each block.
+Most of the attributes considered in the classification concern the geometry of these features, as well as their spatial disposition inside the blocks.
+Furthermore, assuming the UST classes of neighboring blocks are probabilistically dependent, we explored the framework of probabilistic graphical models and propose different context-based classification models.
+These models differ with respect to (i) their type, i.e., Markov or conditional random fields, (ii) their parameterization and (iii) the criterion applied for establishing pairwise neighboring relationships between blocks.
+In our experiments, 1,695 blocks from the city of Munich (Germany) and five representative UST classes were considered.
+A standard classification performed with the Random Forest algorithm achieved an overall accuracy of nearly 70%.
+All context-based classifications achieved overall accuracies up to 7% higher than that.
+The results indicate that denser pairwise block-neighborhood structures lead to better results and that the accuracy improvement is higher when the strength of the contextual influences is proportional to the similarity of the neighboring blocks attributes.

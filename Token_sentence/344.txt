@@ -1,0 +1,15 @@
+The worst forest fire in South Korea occurred in April 2000 on the eastern coast.
+Forest recovery works were conducted until 2005, and the forest has been monitored since the fire.
+Remote sensing techniques have been used to detect the burned areas and to evaluate the recovery-time point of the post-fire processes during the past 18 years.
+We used three indices, Normalized Burn Ratio (NBR), Normalized Difference Vegetation Index (NDVI), and Gross Primary Production (GPP), to temporally monitor a burned area in terms of its moisture condition, vegetation biomass, and photosynthetic activity, respectively.
+The change of those three indices by forest recovery processes was relatively analyzed using an unburned reference area.
+The selected unburned area had similar characteristics to the burned area prior to the forest fire.
+The temporal patterns of NBR and NDVI, not only showed the forest recovery process as a result of forest management, but also statistically distinguished the recovery periods at the regions of low, moderate, and high fire severity.
+The NBR2.1 for all areas, calculated using 2.1 m wavelengths, reached the unburned state in 2008.
+The NDVI for areas with low and moderate fire severity levels became significantly equal to the unburned state in 2009 (p > 0.05), but areas with high severity levels did not reach the unburned state until 2017.
+This indicated that the surface and vegetation moisture conditions recovered to the unburned state about 8 years after the fire event, while vegetation biomass and health required a longer time to recover, particularly for high severity regions.
+In the case of GPP, it rapidly recovered after about 3 years.
+Then, the steady increase in GPP surpassed the GPP of the reference area in 2015 because of the rapid growth and high photosynthetic activity of young forests.
+Therefore, the concluding scientific message is that, because the recovery-time point for each component of the forest ecosystem is different, using only one satellite-based indicator will not be suitable to understand the post-fire recovery process.
+NBR, NDVI, and GPP can be combined.
+Further studies will require more approaches using various terms of indices.

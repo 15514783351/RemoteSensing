@@ -1,0 +1,12 @@
+The regional surface soil heat flux (G(0)) is very important for the large-scale land surface process modeling, and particularly for the regional evapotranspiration estimation.
+Harmonic analysis method (HM) could obtain regional G(0) using remote sensing data.
+However, it has been demonstrated that HM cannot work well during nighttime due to the nonharmonic nature of G(0).
+Encouraged by the half-order method (HO), which can resolve nonharmonic series, this study combined the two methods of HM and HO in order to obtain an accurate estimation of G(0) for full day.
+The combined method was assessed with in-situ measurements and was applied to the Heihe River Basin (HRB) of northwest China using multiremote sensing observations at 30-min intervals.
+The below-canopy soil surface temperature (T-s) is one of the key variables in the model, which can be estimated from canopy temperature (T-e).
+The relationship of T-e and T-s was discussed.
+Results show that the nighttime G(0) improves with coefficient of determination (R-2) from 0.17 to 0.66 by HO method over maize and from 0.09 to 0.81 over grassland, and root mean square error decreases from 24.5 to 16.6 W m(-2), 16.1 to 8.68 W m(-2) over maize and grassland, respectively.
+Regional G(0) for bare soil is larger than the vegetation surface, and values in the middle reach area of HRB are generally higher than the upper reach area because of larger fractional vegetation cover in the upper reach.
+For maize, grassland, and vegetable surfaces (all are dense vegetation in July in this study), the combined method performed better when using T-e (almost coincides with remote sensing measurement land surface temperature) than estimated T-s by a simple empirical formula provided by Murray and Verhoef.
+The combined method gets more accurate diurnal G(0) than individual HM.
+However, a more theoretical relationship of T-e and T-s is required when more accurate G(0) is needed in other studies.

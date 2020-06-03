@@ -1,0 +1,5 @@
+In the article we present an analytic aspect of TLS multi-station least-squares adjustment with the main focus on the datum problem.
+The datum problem is, compared to previously published researches, theoretically analyzed and solved, where the solution is based on nullspace derivation of the mathematical model.
+The importance of datum problem solution is seen in a complete description of TLS multi-station adjustment solutions from a set of all minimally constrained least-squares solutions.
+On a basis of known nullspace, estimable parameters are described and the geometric interpretation of all minimally constrained least squares solutions is presented.
+At the end a simulated example is used to analyze the results of TLS multi-station minimally constrained and inner constrained least-squares adjustment solutions.

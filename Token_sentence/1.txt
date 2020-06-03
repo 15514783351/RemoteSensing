@@ -1,0 +1,7 @@
+The ionospheric delay of global navigation satellite systems (GNSS) signals typically is compensated by adding a correction value to the pseudorange measurement.
+We examine the ionospheric signal distortion beyond a constant delay.
+These effects become increasingly significant with increasing signal bandwidth and hence more critical for the new broadband navigation signals.
+By simulation, we first demonstrate that the signal modulation constellation diagram is particularly susceptible to the influence of the ionosphere already at moderate electron content.
+Using high gain antenna measurements of the Galileo E5 signal, we then verify that the expected influence can indeed be observed and compensated.
+A new method based on a binned maximum likelihood estimator is derived to estimate the total electron content (TEC) from a single frequency high gain antenna measurement of a broadband GNSS signal.
+Results of the estimation process are presented and discussed comparing to common TEC products such as TEC maps and dual-frequency receiver estimates.

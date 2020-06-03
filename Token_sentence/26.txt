@@ -1,0 +1,3 @@
+To evaluate the application potential of hyperspectral imaging, the automated spectral mapping and subpixel classification is used to classify the EO-1 satellite Hyperion data.
+Once the endmembers are extracted from the conventional hyperspectral processing steps (namely, atmospheric correction, noise reduction, pixel purity, and n-dimensional visualization), these endmembers are resolved for constituent rock minerals.
+Subsequently, the image is classified for mineralogy and lithology, and validated with the ground-truth data (prevailing geological map).

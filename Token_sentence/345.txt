@@ -1,0 +1,9 @@
+The availability of precipitation data is the key driver in the application of hydrological models when simulating streamflow.
+Ground weather stations are regularly used to measure precipitation.
+However, spatial coverage is often limited in low-population areas and mountain areas.
+To overcome this limitation, gridded datasets from remote sensing have been widely used.
+This study evaluates four widely used global precipitation datasets (GPDs): The Tropical Rainfall Measuring Mission (TRMM) 3B43, the Climate Forecast System Reanalysis (CFSR), the Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks (PERSIANN), and the Multi-Source Weighted-Ensemble Precipitation (MSWEP), against point gauge and gridded dataset observations using multiple monthly water balance models (MWBMs) in four different meso-scale basins that cover the main climatic zones of Peninsular Spain.
+The volumes of precipitation obtained from the GPDs tend to be smaller than those from the gauged data.
+Results underscore the superiority of the national gridded dataset, although the TRMM provides satisfactory results in simulating streamflow, reaching similar Nash-Sutcliffe values, between 0.70 and 0.95, and an average total volume error of 12% when using the GR2M model.
+The performance of GPDs highly depends on the climate, so that the more humid the watershed is, the better results can be achieved.
+The procedures used can be applied in regions with similar case studies to more accurately assess the resources within a system in which there is scarcity of recorded data available.

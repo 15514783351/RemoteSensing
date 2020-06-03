@@ -1,0 +1,8 @@
+This paper focuses on unsupervised clustering of hyperspectral pixels whose intensity may not be available across certain spectral bands.
+The presence of statistical correlations among pixels that contain data originating from the same material is exploited here to develop a novel regularized correlation analysis framework to perform clustering.
+Kernel learning is integrated in a regularized correlations framework to exploit nonlinear dependencies of pixels acquiring information about similar materials.
+An effective technique is proposed to select the kernel mapping parameters and form pertinent kernel covariance matrices by proper weighted-averaging that takes into account the information content across the available spectral bands.
+The novel correlations framework will return proper sparse clustering matrices whose nonzero entries point to the correlated pixels.
+These matrices will be obtained via a minimization formulation that will be solved via computationally efficient subgradient descent iterations.
+The novel correlations formulation is applied in small-size pixel patches of the original hyperspectral image, while recursively bigger size patches are built that contain information about the same materials.
+Extensive numerical tests on real hyperspectral images reveal that the proposed approach, in spite of being unsupervised, can outperform existing supervised and unsupervised techniques especially in the presence of missing pixels.

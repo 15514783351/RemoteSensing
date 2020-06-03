@@ -1,0 +1,8 @@
+Satellite image denoising is essential for enhancing the visual quality of images and for facilitating further image processing and analysis tasks.
+Designing of self-tunable 2-D finite-impulse response (FIR) filters attracted researchers to explore its usefulness in various domains.
+Furthermore, 2-D FIR Wiener filters which estimate the desired signal using its statistical parameters became a standard method employed for signal restoration applications.
+In this paper, we propose a 2-D FIR Wiener filter driven by the adaptive cuckoo search (ACS) algorithm for denoising multispectral satellite images contaminated with the Gaussian noise of different variance levels.
+The ACS algorithm is proposed to optimize the Wiener weights for obtaining the best possible estimate of the desired uncorrupted image.
+Quantitative and qualitative comparisons are conducted with 10 recent denoising algorithms prominently used in the remote-sensing domain to substantiate the performance and computational capability of the proposed ACSWF.
+The tested data set included satellite images procured from various sources, such as Satpalda Geospatial Services, Satellite Imaging Corporation, and National Aeronautics and Space Administration.
+The stability analysis and study of convergence characteristics are also performed, which revealed the possibility of extending the ACSWF for real-time applications as well.

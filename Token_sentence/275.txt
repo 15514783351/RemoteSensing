@@ -1,0 +1,8 @@
+In this study, the segmented particle swarm optimization (SPSO) algorithm and the concepts of the gradient boosting decision tree algorithm (GBDT) were combined to propose the SPSO adaptive neural network (SANN) method.
+The purpose of this method is to address the inadequacies of the traditional basis function (BP) and radial basis function (RBF) neural networks when solving problems that involve local optima and overfitting.
+Experimental results indicated that, overall, the SANN method is accurate in remote-sensing estimations of aquatic vegetation biomass.
+However, accuracies of estimations were unsatisfactory for certain indicators and sessions when data was taken.
+The estimations were analyzed using three sets of indicators: (i) root mean square error, average relative error, and total relative error; (ii) correlation coefficient and coefficient of determination, and their scatter plots; and (iii) relative error values and their distributions.
+The results clearly showed that the SANN method was superior to the BP neural network as well as the stepwise multiple linear regression analysis (SR).
+However, when the relative errors in biomass estimations by the other two methods were low, the advantages of the SANN method were less pronounced.
+This was particularly true when the relative errors were < 30%, in which case SANN was only marginally better than the other two methods.

@@ -1,0 +1,12 @@
+Unmixing is an important issue of hyperspectral images.
+Most unmixing methods adopt linear mixing models for simplicity.
+However, multiple scattering usually occurs between vegetation and soil in a bilinear scene.
+Thus, nonlinear mixing problems which are difficult to be solved should be taken into consideration under this circumstance.
+In practice, both linear and nonlinear spectral mixtures exist in hyperspectral scenes.
+Considering the characteristics of different regions in images, we propose a hybrid unmixing algorithm for hyperspectral images based on region adaptive segmentation.
+Our method uses a standard K-means clustering algorithm to obtain different regions, including homogeneous regions and detailed regions.
+The model of the homogeneous regions is assumed to be linear, which will be pursued using the method of sparse-constrained nonnegative matrix factorization (NMF), and the mixing in the detailed regions is assumed to be based on a nonlinear model.
+We also propose a new nonlinear unmixing method, called graphregularized semi-NMF, which considers the manifold structure of hyperspectral data as the unmixing method to deal with the detailed regions.
+Finally, by combining the two regions, we obtain the abundance of the whole hyperspectral image.
+The proposed method can not only achieve more precise abundance but also be good at keeping the edge information of the bilinear abundance.
+The experimental results on both synthetic and real data also show that the proposed method is effective for improving the unmixing accuracy of hyperspectral remote-sensing images.

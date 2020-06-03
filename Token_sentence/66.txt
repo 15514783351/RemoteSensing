@@ -1,0 +1,9 @@
+This paper focuses on the use of ultra-high resolution Unmanned Aircraft Systems (UAS) imagery to classify tree species.
+Multispectral surveys were performed on a plant nursery to produce Digital Surface Models and orthophotos with ground sample distance equal to 0.01 m.
+Different combinations of multispectral images, multi-temporal data, and texture measures were employed to improve classification.
+The Grey Level Co-occurrence Matrix was used to generate texture images with different window sizes and procedures for optimal texture features and window size selection were investigated.
+The study evaluates how methods used in Remote Sensing could be applied on ultra-high resolution UAS images.
+Combinations of original and derived bands were classified with the Maximum Likelihood algorithm, and Principal Component Analysis was conducted in order to understand the correlation between bands.
+The study proves that the use of texture features produces a significant increase of the Overall Accuracy, whose values change from 58% to 78% or 87%, depending on components reduction.
+The improvement given by the introduction of texture measures is highlighted even in terms of User's and Producer's Accuracy.
+For classification purposes, the inclusion of texture can compensate for difficulties of performing multi-temporal surveys.

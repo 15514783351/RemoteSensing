@@ -1,0 +1,14 @@
+Vulnerability assessment is one of the prerequisites for risk analysis in disaster management.
+Vulnerability to earthquakes, especially in urban areas, has increased over the years due to the presence of complex urban structures and rapid development.
+Urban vulnerability is a result of human behavior which describes the extent of susceptibility or resilience of social, economic, and physical assets to natural disasters.
+The main aim of this paper is to develop a new hybrid framework using Analytic Network Process (ANP) and Artificial Neural Network (ANN) models for constructing a composite social, economic, environmental, and physical vulnerability index.
+This index was then applied to Tabriz City, which is a seismic-prone province in the northwestern part of Iran with recurring devastating earthquakes and consequent heavy casualties and damages.
+A Geographical Information Systems (GIS) analysis was used to identify and evaluate quantitative vulnerability indicators for generating an earthquake vulnerability map.
+The classified and standardized indicators were subsequently weighed and ranked using an ANP model to construct the training database.
+Then, standardized maps coupled with the training site maps were presented as input to a Multilayer Perceptron (MLP) neural network for producing an Earthquake Vulnerability Map (EVM).
+Finally, an EVM was produced for Tabriz City and the level of vulnerability in various zones was obtained.
+South and southeast regions of Tabriz City indicate low to moderate vulnerability, while some zones of the northeastern tract are under critical vulnerability conditions.
+Furthermore, the impact of the vulnerability of Tabriz City on population during an earthquake was included in this analysis for risk estimation.
+A comparison of the result produced by EVM and the Population Vulnerability (PV) of Tabriz City corroborated the validity of the results obtained by ANP-ANN.
+The findings of this paper are useful for decision-makers and government authorities to obtain a better knowledge of a city's vulnerability dimensions, and to adopt preparedness strategies in the future for Tabriz City.
+The developed hybrid framework of ANP and ANN Models can easily be replicated and applied to other urban regions around the world for sustainability and environmental management.

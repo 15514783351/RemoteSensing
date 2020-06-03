@@ -1,0 +1,10 @@
+Multiscale image segmentation is a fundamental process of object-based image analysis, and the segmentation scale is a key parameter.
+The selection of the optimal scale parameter has attracted widely attentions in recent years, and many methods were proposed for this task.
+However, these methods usually need to set a scale sequence, which depends on the segmentation algorithm.
+When using another segmentation algorithm, the definition of the scale is different, these methods are less effective.
+In this study, we are aiming at developing a general framework for analyzing and estimating the optimal scale parameter for the region-merging segmentation, which is the most widely used approach for generating multiscale objects in remote sensing.
+A stepwise evolution analysis (SEA) framework and its application in optimal scale parameter estimation are proposed.
+In the SEA framework, the evolutions of scale, local variance (LV), and Moran's I (MI) indexes are analyzed step-by-step, and then, be used for automated scale parameterizations.
+Four LV-and MI-metrics-based methods were technically integrated in this framework, and applied to a Quick-Bird and a WorldView-2 image to evaluate the performance.
+The results demonstrated that: The stepwise analysis of a hierarchical region merging provided the distribution information of the scale, which could be used to estimate the key parameters and integrate different scale parameterization methods.
+The traditional LV-and MI-based scale estimation methods could be technically integrated, which showed the powerful ability and great potential in utilizing different scale parameterization methods for the region-merging segmentation.

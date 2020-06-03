@@ -1,0 +1,7 @@
+We present here parameterizations of particulate and phytoplankton absorption coefficients as functions of pigment concentrations (Tchla) in Sognefjord and Trondheimsfjord along the northwestern coast of Norway.
+The total particulate and non-algal optical densities were measured via quantitative filter technique (QFT) in a spectrophotometer with integrating sphere.
+The spectral parameter coefficients A() and E() of the power law describing variations of particulate and phytoplankton absorption coefficients as a function of Tchla, were not only different from those provided for open ocean case 1 waters, but also exhibited differences in the two fjords under investigation.
+Considering the influence of glacial meltwater leading to increased inorganic sediment load in Sognefjord we investigate differences in two different parameterizations, developed by excluding and including inner Sognefjord stations.
+Tchla are modelled to test the parameterizations and validated against data from the same cruise and that from a repeated campaign.
+Being less influenced by non-algal particles parameterizations performed well in Trondheimsfjord and yielded high coefficients of determination (R-2) of modelled vs. measured Tchla.
+In Sognefjord, the modelled vs. measured Tchla resulted in better R-2 with parameter coefficients developed excluding the inner-fjord stations influenced by glacial meltwater influx.

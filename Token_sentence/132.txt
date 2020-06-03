@@ -1,0 +1,5 @@
+A new closed-form expression is derived in this paper for computing the electromagnetic field reflected by two moving parallel interfaces.
+Next, the interfaces velocities and refractive index between interfaces are derived from measurable frequencies and amplitudes embedded in the reflected electromagnetic field.
+As an application, the remote analysis of the shock wave phenomenon in solids is reported and shock wave descriptors are estimated.
+Based on the proposed approach, physical insights on measurement published results are reported.
+Moreover, new measurement data on shocked polymethyl methacrylate material are presented and discussed.

@@ -1,0 +1,9 @@
+Object-based image classification is recognized as one of the best strategies to analyze high spatial resolution remote sensing images.
+This process includes defining scale parameters to form regions sharing similar characteristics such as color, texture, or shape.
+Traditionally, in an object-based supervised classification setting the image is classified only after the segmentation process is completed.
+However, when the imaged objects on the ground are heterogeneous and of different sizes, some resulting segments can be appropriate for classification while others are over or under-segmented.
+This may cause partial failure of the subsequent classification.
+In this paper, we introduce a simultaneous approach based on the interception of the segmentation stage by provisional classification of under-growing segments.
+Our proposal is to optimize the classification process by iteratively updating the labels of previously generated regions only if the estimated posterior probabilities of the winning classes in the new segments increase.
+Experiments with three multispectral datasets acquired by Landsat-5 TM, QuickBird-II, and WorldView-3 in rural and urban areas compare traditional object-based approach based on region growing with the proposed method using well-established classifiers.
+Our results show that the proposed method becomes much less sensitive to the choice of segmentation parameters and reaches similar, or even better, classification accuracies.

@@ -1,0 +1,5 @@
+Water supplies in northeastern Brazil strongly depend on the numerous surface water reservoirs of various sizes there.
+However, the seasonal and long-term water surface dynamics of these reservoirs, particularly the large number of small ones, remain inadequately known.
+Remote sensing techniques have shown great potentials in water bodies mapping.
+Yet, the widespread presence of macrophytes in most of the reservoirs often impedes the delineation of the effective water surfaces.
+Knowledge of the dynamics of the effective water surfaces in the reservoirs is essential for understanding, managing, and modelling the local and regional water resources.

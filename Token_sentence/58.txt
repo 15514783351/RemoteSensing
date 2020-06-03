@@ -1,0 +1,15 @@
+Ship classification in synthetic aperture radar (SAR) images is essential in remote sensing but still full of challenges in the deep learning era.
+The unbalanced dataset and lack of models are two limitations.
+Upsampling with data augmentation and ratio batching are proposed to solve the first problem.
+Upsampling with data augmentation is upsampling by cropping and flipping.
+It can improve the diversity of the dataset.
+Ratio batching is realized by choosing the same amount of ships per class in each minibatch.
+It can make the model converge faster and better.
+To solve the second problem, a new loss function and convolutional neural network model are proposed.
+The new loss function can maximize the intraclass compactness and interclass separation simultaneously.
+Dense residual network has two submodules.
+One is the identity mapping through elementwise summation to reuse old features.
+The other is dense connection through concatenation to exploit new features.
+The designed architecture is suitable for the task of SAR ship classification.
+We use the confusion matrix and accuracy averaged on classes to measure the performance.
+From the experiments, we can find that the proposed ideas have excellent performance especially on the rare classes.

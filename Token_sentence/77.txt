@@ -1,0 +1,11 @@
+Chromophoric dissolved organic matter (CDOM), the key component in aquatic environment, plays an important role in biogeochemical processing.
+In this study, in situ reflectance and water samples were used to develop models for estimating CDOM absorption in a complex freshwater environment in Poyang Lake, China.
+The in situ water reflectance spectra, CDOM absorption spectra and other water-color parameters from 92 samples collected in four representative study areas between 2015 and 2016 were analysed.
+Band ratio models were established to estimate CDOM absorption coefficient at 355 nm [a(g)(355)] based on the correlation analysis between reflectance and a(g)(355).
+The results indicated that the models performed well for estimating a(g)(355) when the 92 samples were divided into two datasets with the threshold of concentration of total suspended matter (TSM) as 10 mg/L.
+The band ratios of R(689)/R(497) and R(767)/R(826) were selected to establish models for retrieval of a(g)(355) in clean water (TSM < 10 mg/L) and turbid water (TSM >= 10 mg/L), respectively.
+The determination coefficients (r(2)) of calibration models for clean and turbid water were 0.70 and 0.73, respectively.
+The percentage root-mean-square errors (%RSME) of validation models for clean and turbid water were 13.2% and 11.6%, respectively.
+The simulated Sentinel-2 and Landsat-8 bands based on reflectance spectra were used to examine potential capability for retrieving CDOM using these sensors.
+The results indicated that Sentinel-2 performed better than Landsat-8 for estimating a(g)(355).
+The Sentinel-2 band ratio of B4/B2 or B5/B2 and B7/B8 or B7/B8A are effective for retrieval of CDOM in clean and turbid water of Poyang Lake, respectively.

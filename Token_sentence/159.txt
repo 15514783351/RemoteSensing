@@ -1,0 +1,13 @@
+Himalayan glacier changes in the context of global climate change have attracted worldwide attention due to their profound cryo-hydrological ramifications.
+However, an integrated understanding of the debris-free and debris-covered glacier evolution and its interaction with glacial lake is still lacking.
+Using one case study in the Gyirong River Basin located in the central Himalayas, this paper applied archival Landsat imagery and an automated mapping method to understand how glaciers and glacial lakes interactively evolved between 1988 and 2015.
+Our analyses identified 467 glaciers in 1988, containing 435 debris-free and 32 debris-covered glaciers, with a total area of 614.09 +/- 36.69 km(2).
+These glaciers decreased by 16.45% in area from 1988 to 2015, with an accelerated retreat rate after 1994.
+Debris-free glaciers retreated faster than debris-covered glaciers.
+As a result of glacial downwasting, supraglacial debris coverage expanded upward by 17.79 km2 (24.44%).
+Concurrent with glacial retreat, glacial lakes increased in both number (+41) and area (+54.11%).
+Glacier-connected lakes likely accelerated the glacial retreat via thermal energy transmission and contributed to over 15% of the area loss in their connected glaciers.
+On the other hand, significant glacial retreats led to disconnections from their proglacial lakes, which appeared to stabilize the lake areas.
+Continuous expansions in the lakes connected with debris-covered glaciers, therefore, need additional attention due to their potential outbursts.
+In comparison with precipitation variation, temperature increase was the primary driver of such glacier and glacial lake changes.
+In addition, debris coverage, size, altitude, and connectivity with glacial lakes also affected the degree of glacial changes and resulted in the spatial heterogeneity of glacial wastage across the Gyirong River Basin.

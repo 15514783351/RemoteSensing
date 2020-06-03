@@ -1,0 +1,19 @@
+The temporal dynamics of optimum stomatal conductance (g(smax)), as well differences between C-3 and C-4 crops, have rarely been considered in previous remote sensing (RS)-based Jarvis-type canopy conductance (G(c)) models.
+To address this issue, a RS-based two-leaf Jarvis-type G(c) model, RST-G(c), was optimized and validated for C-3 and C-4 crops using 19 crop flux sites across Europe, North America, and China.
+RST-G(c) included restrictive functions for air temperature, vapor pressure deficit, and soil water deficit, and it used satellite-retrieved NDVI to formulate the temporal variation of g(smax) defined at a photosynthetic photon flux density (PPFD) of 2000 mu mol m(-2) s(-1) (g(sm, 2000)).
+Results showed that the parameters of RST-G(c) differed between C-3 and C-4 crops.
+RST-G(c) successfully simulated variations in Penman-Monteith (PM)-derived daytime G(c) with R-2 = 0.57 for both C-3 and C-4 crops.
+RST-G(c) was incorporated into a revised evapotranspiration (ET) model and a new gross primary productivity (GPP) model.
+The two models were validated at 19 crop flux sites.
+Daily mean inputs were generally incorporated into a PM approach to model daily transpiration.
+This is inappropriate because available energy and stomatal conductance vary significantly on a diurnal basis, with both non-linearly regulating transpiration rate.
+The PM approach with daily mean inputs produced unreasonable transpiration rate estimates.
+Efforts were made in the revised ET model (denoted as RS-WBPM2), which was modified from the water balance based RS-PM (RS-WBPM) model of Bai et al.
+(2017), to address this issue by calculating transpiration using daytime inputs.
+The photosynthesis-based stomatal conductance model, developed by Ball et al. 
+(1987a) and improved by Leuning (1995) (BBL model), was inverted to calculate GPP using canopy conductance; the inverted model was denoted as IBBL.
+Cross validation showed good agreement between flux tower measurements and modeled ET (R-2 = 0.79, RMSE (root mean standard error) = 20.66 W m(-2) for daily ET and R-2 = 0.87, RMSE = 15.32 W m(-2) for 16-day ET) and GPP (R-2 = 0.83, RMSE = 2.49 gC m(-2) d(-1) for daily GPP and R-2 = 0.86, RMSE = 1.96 gC m(-2) d(-1) for 16-day GPP) for the two models.
+Within-site validations demonstrated the successful performance of the two models at 18 sites (albeit with one outlier).
+Inter-site variations in ET and GPP were also successfully reproduced by the models.
+NDVI-derived g(sm, 2000) outperformed the fixed g(sm, 2000) in both ET and GPP estimates.
+The results imply that the RS-WBPM2 and IBBL models are useful tools for modeling regional and global ET and GPP.

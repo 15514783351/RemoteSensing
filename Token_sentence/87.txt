@@ -1,0 +1,16 @@
+The study demonstrates the application of geospatial technologies to evaluate physical resources of semi-arid watersheds and presents a comprehensive methodology applicable elsewhere.
+The selected Andipatti watershed, located in Theni district in the State of Tamil Nadu (India), is known for agricultural activities: however, haphazard planning, management practices and inadequate investments result in land and water resource degradation.
+Since most of the agricultural lands in developing countries are similar to these conditions, the present study is attempted as a case to develop a framework to assess the land and water resources potential, utilisation level and land suitability for agriculture; and to evolve better management strategies.
+The physical characteristics of the watershed were studied based on in-situ, remotely sensed and secondary data sources.
+Thematic layers were generated with the combination of remote sensing, image processing and GIS techniques.
+In order to characterize and quantify the watershed based on soil erosion and surface runoff rates, the revised universal soil loss equation (RUSLE) and natural resources conservation services curve number (NRCS-CN) were utilized.
+Data on water levels and geochemistry of water samples, collected from 36 dug wells were also utilized for this study.
+Sodium adsorption ratio (SAR) and electrical conductivity, as formulated by the US Salinity Laboratory (USSL) were utilized to examine the suitability of groundwater for irrigation purpose.
+The stone index has been used to assess the productivity of land using profile and textural characteristics of the soil.
+Keeping Food and Agricultural Organisation (FAO) guidelines as a reference, as many as 727 homogenous micro-land units were prepared.
+The physical land qualities and characteristics of each land unit were compared with the requirements of 13 major crops of the study area and suitable crops for each unit were identified.
+The individual suitability classes of all crops were compared using logical analysis and suitability crops for each land unit were determined under irrigated and rain-fed conditions.
+In order to integrate the results of these analyses and to suggest sustainable agricultural development measures, the study area was divided into 44 micro-watersheds.
+The information on land productivity, groundwater quality and existing land use/land cover patterns of the watershed were used to calculate land potential-utilisation index and groundwater potential-utilisation ratio for all micro-watersheds.
+All the results of land and water resources assessment were compared and a proposed land use map was prepared.
+The findings suggest strategies for coping with sustainable agricultural practices for the present study area and provide an integrated methodology for future assessments elsewhere, especially in the developing countries.

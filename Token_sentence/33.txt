@@ -1,0 +1,11 @@
+Indoor building models are essential in many indoor applications.
+These models are composed of the primitives of the buildings, such as the ceilings, floors, walls, windows, and doors, but not the movable objects in the indoor spaces, such as furniture.
+This paper presents, for indoor environments, a novel semantic line framework-based modeling building method using backpacked laser scanning point cloud data.
+The proposed method first semantically labels the raw point clouds into the walls, ceiling, floor, and other objects.
+Then line structures are extracted from the labeled points to achieve an initial description of the building line framework.
+To optimize the detected line structures caused by furniture occlusion, a conditional Generative Adversarial Nets (cGAN) deep learning model is constructed.
+The line framework optimization model includes structure completion, extrusion removal, and regularization.
+The result of optimization is also derived from a quality evaluation of the point cloud.
+Thus, the data collection and building model representation become a united task-driven loop.
+The proposed method eventually outputs a semantic line framework model and provides a layout for the interior of the building.
+Experiments show that the proposed method effectively extracts the line framework from different indoor scenes.

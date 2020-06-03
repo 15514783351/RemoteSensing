@@ -1,0 +1,3 @@
+With the maturation of methods for estimating aboveground forest biomass by remote sensing, researchers increasingly need test data, particularly ground reference data, that are large enough to fine-tune existing approaches and test their robustness under diverse conditions.
+In this context, realistic synthetic datasets present an interesting alternative to costly and limited field data.
+Here, we present a new approach to simulate realistic canopy height and cover type data by combining an individual-tree forest simulator with real LiDAR point clouds of individual trees.

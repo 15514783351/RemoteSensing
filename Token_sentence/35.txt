@@ -1,0 +1,13 @@
+Ground filtering is an essential procedure in almost all LiDAR applications.
+However, most existing ground filtering algorithms require different amounts of user input to manually set up initial parameters, such as terrain relief amplitude and average slope, which is subjective, time consuming, and prone to errors.
+Here, we propose a simple terrain relief index derived from raw airborne LiDAR data to automatically tune the slope-related parameters of ground filtering algorithms.
+The terrain relief index is a ratio between the height difference of the entire point cloud and the maximum above ground level of non ground points.
+The latter variable can be estimated with the maximum local height difference of raw LiDAR data through gridding.
+We validated our method using the benchmark airborne LiDAR datasets provided by the International Society for Photogrammetry and Remote Sensing.
+The results showed a high correlation ((r = 0.876)) between the terrain relief index and the referential terrain relief amplitude.
+The degree of correlation was greater across larger areas ((r = 0.926)) than small areas ((r = 0.861)) regardless of the type of land cover ((e.g., city or forest)).
+The terrain relief index was introduced into two existing filtering algorithms: Cloth Simulation Filtering (CSF) and Progressive Morphological (PM) Filter, by relating the terrain relief index to the cloth rigidness of the CSF and the slope threshold of the PM filter.
+To compare the results, the two algorithms were implemented both with manually tuned parameters and with the parameters derived from the terrain relief index.
+The results showed that there was only a slight discrepancy in average Total Error ((0.1%)) between them in the CSF, which means that the terrain relief index can automatically determine the cloth rigidness without noticeable loss of accuracy.
+The average difference between the slope threshold provided by the terrain relief index and the manually tuned optimal slope threshold was 0.142 rad ((8.136)) for the PM filter, which is acceptable relative to manually parameter setting without any prior knowledge.
+The terrain relief index can estimate the terrain relief amplitude from raw airborne LiDAR data, and the parameter settings suggested in this paper for the filtering algorithm can improve automation.

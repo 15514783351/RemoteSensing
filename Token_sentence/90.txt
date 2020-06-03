@@ -1,0 +1,12 @@
+Remote sensing technology is an essential link in the global monitoring of the ocean surface, and radars are efficient sensors for detecting marine pollution.
+When used operationally by authorities, a tradeoff must usually be made between the covered area and the quantity of information collected by the radar.
+To identify the most appropriate imaging mode, a methodology based on receiver operating characteristic curve analysis has been applied to an original data set collected by two airborne systems operating at L-hand, both characterized by a very low instrument noise floor.
+The data set was acquired during controlled releases of mineral and vegetable oil at sea.
+Various polarization-dependent quantities are investigated, and their ability to detect slick-covered areas is assessed.
+A relative ordering of the main polarimetric parameters is reported in this paper.
+When the sensor has a sufficiently low noise floor, HV is recommended because it provides the strongest slick- sea contrast.
+Otherwise, VV is found to be the most relevant parameter for detecting slicks on the ocean surface.
+Among all the investigated quad-polarimetric settings, no significant added value compared to single-polarized data was found.
+More specifically, it is demonstrated, by increasing the instrument noise level, that the studied polarimetric quantities which combine the four polarimetric channels have performances of detection mainly driven by the instrument noise floor, namely, the noise equivalent sigma zero.
+This result, obtained by progressively adding noise to the raw synthetic aperture radar (SAR) data, indicates that the polarimetric discrimination between clean sea and polluted area results mainly from the differentiated behavior between single-bounce scattering and noise.
+It is thus demonstrated, using SAR data collected with a low instrument noise floor, that there is no deviation from Bragg scattering for radar scattering from ocean surface covered by mineral and vegetable oil.

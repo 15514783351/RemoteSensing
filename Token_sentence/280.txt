@@ -1,0 +1,13 @@
+The Optical TRApezoid Model (OPTRAM) has recently been proposed for estimation of soil moisture using only optical remote sensing data.
+The model relies on a physical linear relationship between the soil moisture content and shortwave infrared transformed reflectance (SIR) and can be parameterized universally (i.e., a single calibration for a given area) based on the pixel distribution within the STR-Normalized Difference Vegetation Index (NDVI) trapezoidal space.
+The main motivation for this study was to evaluate how the universal parameterization of OPTRAM works for long periods of time (e.g., several decades).
+This is especially relevant for uncovering the soil moisture and agricultural drought history in response to climate change in different regions.
+In this study, MODIS satellite observations from 2001 to 2017 were acquired and used for the analysis.
+Cosmic ray neutron (CRN) soil moisture data, collected with the Cosmic-ray Soil Moisture Observing System (COSMOS) at five different sites in the U.S. covering diverse climates, soil types, and land covers, were applied for evaluation of the MODIS-OPTRAM-based soil moisture estimates.
+The OPTRAM soil moisture estimates were further compared to the Soil Moisture Active and Passive (SMAP) (L-band), the Soil Moisture Ocean Salinity (SMOS) (L band), and the Advanced AScatterometer (ASCAT) (C-band) soil moisture retrievals.
+OPTRAM soil moisture data were also analyzed for potential monitoring of agricultural drought through comparison of the OPTRAM-based Soil Water Deficit Index (OPTRAM-SWDI) with the widely-applied Crop Moisture Index (CMI).
+Evaluation results indicate that OPTRAM-based soil moisture estimates provide overall unbiased RMSE and R between 0.050 and 0.085 cm(3) cm(-3) and 0.10 to 0.70, respectively, for all investigated sites.
+The performance of OPTRAM is comparable with the ASCAT retrievals, but slightly less accurate than SMAP and SMOS.
+OPTRAM and the three microvave satellites captured CRN soil moisture temporal dynamics very well for all five investigated sites.
+A close agreement was observed between the OPTRAM-SWDI and CMI drought indices for most selected sites.
+In conclusion, OPTRAM can estimate temporal soil moisture dynamics with reasonable accuracy for a range of climatic conditions (semi-arid to humid), soil types, and land covers, and can potentially be applied for agricultural drought monitoring.

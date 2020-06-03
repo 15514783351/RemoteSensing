@@ -1,0 +1,6 @@
+As the worst natural disaster on record in Dominica and Puerto Rico, Hurricane Maria in September 2017 had a large impact on the vegetation of these islands.
+In this paper, multitemporal Landsat 8 OLI and Sentinel-2 data are used to investigate vegetation damage on Dominica and Puerto Rico by Hurricane Maria, and related influencing factors are analyzed.
+Moreover, the changes in the normalized difference vegetation index (NDVI) in the year 2017 are compared to reference years (2015 and 2016).
+The results show that (1) there is a sudden drop in NDVI values after Hurricane Maria's landfall (decreased about 0.2) which returns to near normal vegetation after 1.5 months; (2) different land cover types have different sensitivities to Hurricane Maria, whereby forest is the most sensitive type, then followed by wetland, built-up, and natural grassland; and (3) for Puerto Rico, the vegetation damage is highly correlated with distance from the storm center and elevation.
+For Dominica, where the whole island is within Hurricane Maria's radius of maximum wind, the vegetation damage has no obvious relationship to elevation or distance.
+The study provides insight into the sensitivity and recovery of vegetation after a major land-falling hurricane, and may lead to improved vegetation protection strategies.

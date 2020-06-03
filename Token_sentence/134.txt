@@ -1,0 +1,12 @@
+Spatial distribution and dynamics of intertidal habitats are integral elements of the Wadden Sea ecosystem, essential for the preservation of ecosystem functions and interlocked with geomorphological processes.
+Protection and monitoring of the Wadden Sea is mandatory and remote sensing is required to survey the extensive, often inaccessible tidal area.
+Mainly airborne techniques are carried out for decades.
+High-resolution satellite-borne sensors now enable new possibilities with satellite synthetic aperture radar (SAR) offering high availability of acquisitions during low water time due to independence from daylight and cloud cover.
+More than 100 TerraSAR-X images from 2009 to 2016 were used to examine the reproduction of intertidal habitats and macrostructures from the flats south of the island of Norderney and comparative areas in the Lower Saxony Wadden Sea.
+As a non-specific, generic approach to distinguish various and variable surface types continuously influenced by tidal dynamics, visual analysis was chosen which was supported by extensive in situ data.
+This technically unsophisticated access enabled us to identify mussel beds, fields of shell-detritus, gully structures, mud fields, and bedforms, the latter detected in the upper flats of every East Frisian island.
+Based on the high frequency of TerraSAR-X recordings for the Norderney area, a bedform shift was observed in a time-series from 2009 to 2015.
+For the same period, the development of a mud field with an adjoining depression was traced.
+Beside seasonal variations of the mud field, the formation of a mussel bed settling in the depression was imaged over the years.
+This study exemplifies the relevance of TerraSAR-X imagery for Wadden Sea remote sensing.
+Further development of classification methods for current SAR data together with open access availability should contribute to large-scale surveys of intertidal surface structures of geomorphic or biogenic origin and improve monitoring and long-term ecological research in the Wadden Sea and related tidal areas.

@@ -1,0 +1,13 @@
+Remote sensing studies of vegetation phenology increasingly benefit from freely available satellite imagery acquired with high temporal frequency at fine spatial resolution.
+Particularly for heterogeneous landscapes this is good news, given the drawback of medium-resolution sensors commonly used for phenology retrieval (e.g., MODIS) to properly represent the fine-scale spatial variability of vegetation types.
+The Sentinel-2 mission acquires spectral data globally at 10 to 60 m resolution every five days.
+To illustrate the mission's potential for studying vegetation phenology, we retrieved phenological parameters for the Dutch barrier island Schiermonnikoog for a full season of Sentinel-2A observations in 2016.
+Overlapping orbits resulted in two acquisitions per 10 days, similar to what is achieved globally since the launch of Sentinel-2B.
+For eight locations on the island's salt marsh we compared greenness chromatic coordinate (GCC) series derived from digital repeat RGB-cameras with vegetation index series derived from Sentinel-2 (NDVI and GCC).
+For each series, a double hyperbolic tangent model was fitted and thresholds were applied to the modelled data to estimate start-, peak-, and end-of-season (SOS/PS/EOS).
+Variability in Sentinel-2 derived SOS, when taken as the midpoint between minimum and peak NDVI, was well-explained by camera GCC-based SOS (R-2 = 0.74, MSD = 8.0 days, RMSD = 13.0 days).
+However, EOS estimates from camera GCC series were on average almost two months before NDVI-based estimates.
+This could partially be explained by the observed exponential relationship between GCC and NDVI, as well as by the combined effect of viewing angle differences and the presence of nonphotosynthetic elements in the vegetation canopy.
+A two-layer canopy radiative transfer model incorporating reduced chlorophyll levels in the upper layer provided a physically-based explanation of the viewing angle effect.
+Finally, we applied the phenology retrieval approach to NDVI series for all pixels of the island in order to map spatial patterns of phenology at fine resolution.
+Our results demonstrate the potential of the Sentinel-2 mission for providing spatially-detailed retrievals of phenology.

@@ -1,0 +1,11 @@
+A city mapping is essential to various applications such as planning, transport management, vehicle navigation, intervention in natural disasters, etcaEuro broken vertical bar.
+For convenience and efficiency, such applications are integrated in a Geographical Information System (GIS) (Bendouda and Berrached, in Etude et r,alisation d'UREGIS un SIG pour la gestion du r,seau routier urbain, Magister Thesis, University of Sciences and Technology of Oran Algeria 2009).
+GIS Map needs real time automatic updating and revisions of the road network databases.
+However, due to the extreme complexity of the urban environment, there are currently many methods involving the extraction of roads by means of automatic or semi-automatic approaches in rural and sub-urban areas; but in urban environment the majority of these methods failed, due to the complexity of this environment and the complex appearance of the road in the remotely sensed image.
+In this paper, we introduce a new approach to extract road network in urban area from low resolution satellite images.
+The proposed method is a modified version of the dynamic programming method for semi-automatic extraction of road network, based on the F* algorithm.
+The preliminary step is the seeding of points belonging to roads.
+F* detects the segments that may belong to a road by optimizing certain criteria.
+Given the complexity of urban areas and the existence of different road categories, we propose an improved version of the classical algorithm F* called PR-F*(Parallel Research-F*).
+It detects the road segments automatically in many directions.
+The obtained results are evaluated in terms of quality with respect to completeness and correctness.

@@ -1,0 +1,8 @@
+Aerial infrared point target detection under nonstationary background clutter is a crucial yet challenging issue in the field of remote sensing.
+This paper presents a novel omnidirectional multiscale morphological method for aerial point target detection based on a dual-band model.
+Considering that the clutter noise conforms to the Gaussian distribution, the single-band detection model under the Neyman-Pearson (NP) criterion is established first, and then the optimal fused probability of detection under the dual-band model is deduced according to the And fusion rule.
+Next, the omnidirectional multiscale morphological Top-hat algorithm is proposed to extract all the possible targets distributing in every direction, and the local difference criterion is employed to eliminate the residual background edges further.
+The dynamic threshold-to-noise ratio (TNR) is adjusted to obtain the optimal probability of detection under the constant false alarm rate (CFAR) criterion.
+Finally, the dim point target is extracted after dual-band data correlation.
+The experimental result demonstrates that the proposed method achieves a high probability of detection and performs well with respect to suppressing complex background when compared with common algorithms.
+In addition, it also has the advantage of low complexity and easy implementation in real-time systems.

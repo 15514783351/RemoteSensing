@@ -1,0 +1,7 @@
+Glaciers in the Tibetan Plateau (TP) play a crucial role in regulating agriculture irrigation, river discharge and the regional/global climate system.
+However, mass balance records of TP glaciers have remained scarce due to challenging mountainous terrain and harsh weather conditions, which limits our understanding of the influence of melting glaciers on local water resources and responses to climate change.
+Here, we present and assess an albedo-based method to derive annual mass balance for three glaciers in the interior TP from Moderate Resolution Imaging Spectroradiometer (MODIS) albedo data during 2000-2016.
+A strong linear correlation (R-2 = 0.941, P < 0.001) is found between annual minimum-averaged glacier-wide albedo (AMGA) values and annual mass balance measurements on the Xiao Dongkemadi glacier.
+Furthermore, the 17-year-long annual mass balance series of the Xiao Dongkemadi glacier and the Geladandong mountain region glaciers, and the Purogangri ice cap are reconstructed for the first time, with a mass loss rate of 535 +/- 63 mm w.e.a(-1), 243 +/- 66 mm w.e.a(-1) and 113 +/- 68 mm w.e.a(-1), respectively.
+The results are verified by geodetic estimates, with relative error ranging from 4.55% to 11.80%, confirming that the albedo-based method can be used to estimate specific mass budgets for interior TP glaciers.
+A strong correlation between the mass balance series and air temperature infers that increasing summer air temperature may be one of main reasons for glacier shrinkage of the three studied glaciers.

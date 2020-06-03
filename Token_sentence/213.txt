@@ -1,0 +1,8 @@
+Estimating the carbon stock of forests, and further studying their spatiotemporal variations is an important prerequisite for assessing forest carbon sequestration capability.
+This paper simulated aboveground carbon (AGC) of bamboo forest in Zhejiang Province, China, during 2003-2014 based on the combination of an improved BIOME-BGC (BioGeochemical Cycles) model and bamboo forest map extracted from moderate resolution imaging spectroradiometer data, and analyzed the characteristic and impact factors of the AGC spatiotemporal variations based on the geostatistical method.
+The modeled AGC density significantly correlated with the plot data from continuous forest resource inventory, and led to an average correlation coefficient and normalized root mean square error (NRMSE) of 0.81% and 17.15%, respectively.
+The stands with high AGC density were distributed in the mountainous areas in the northwest, southwest, and northeast of the province, while those with low AGC density were located in the basin, high altitude areas, and coastal areas.
+During the study period, the AGC density and total AGC storage increased from 12.02 to 18.15 Mg C ha(-1) and 9.22 to 16.41 Tg, respectively.
+The spatial heterogeneity of AGC was revealed by an exponential semi-variance model, and characterized by significant autocorrelation.
+The dominant factors contributing to the spatial heterogeneity of AGC were structure relevant factors, especially meteorological and terrain factors.
+The autocorrelation range of AGC in 2003 was 24.90 km, but decreased dramatically after that, indicating that the influence of external factors (i.e., management measures) on AGC increased gradually.

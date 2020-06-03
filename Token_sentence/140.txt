@@ -1,0 +1,9 @@
+Quantitative Precipitation Estimates (QPEs) obtained from remote sensing or ground-based radars could complement or even be an alternative to rain gauge readings.
+However, to be used in operational applications, a validation process has to be carried out, usually by comparing their estimates with those of a rain gauges network.
+In this paper, the accuracy of three QPEs are evaluated for three extreme precipitation events in the last decade in the southeast of the Iberian Peninsula.
+The first QPE is PERSIANN-CCS (Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks - Cloud Classification System) , a satellite-based QPE.
+The second and the third are QPEs from a meteorological radar with Doppler capabilities that works in the C band.
+Pixel-to-point comparisons are made between the values offered by the QPEs and those obtained by two networks of rain gauges.
+The results obtained indicate that all the QPEs were well below the rain gauge values in extreme rainfall time slots.
+There seems to be a weak linear association between the value of the discrepancies and the precipitation value of the QPEs.
+The main conclusion, assuming the information from the rain gauges as ground truth, is that neither PERSIANN-CCS nor radar, without empirical calibration, are acceptable QPEs for the real-time monitoring of meteorological extremes in the southeast of the Iberian Peninsula.

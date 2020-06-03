@@ -1,0 +1,11 @@
+Aquaculture makes a crucial contribution to global food security and protein intake and is a basis for many livelihoods.
+Every second fish consumed today is produced in aquaculture systems, mainly in land-based water ponds situated along the coastal areas.
+Satellite remote sensing enables high-resolution mapping of pond aquaculture, facilitating inventory analyses to support sustainable development of the planet's valuable coastal ecosystems.
+Free, full and open data from the Copernicus earth observation missions opens up new potential for the detection and monitoring of aquaculture from space.
+High-resolution time series data acquired by active microwave instruments aboard the Sentinel-1 satellites and fully automated, object-based image analysis allow the identification of aquaculture ponds.
+In view of the diversity and complexity in the production of aquaculture products, yield and production varies greatly among species.
+Although national statistics on aquaculture production exist, there is a large gap of pond-specific aquaculture production quantities.
+In this regard, earth observation-based mapping and monitoring of pond aquaculture can be used to estimate production and has great potential for global production projections.
+For the deltas of the Mekong River, Red River, Pearl River, and Yellow River, as one of the world's most significant aquaculture production regions, we detected aquaculture ponds from high spatial resolution Sentinel-1 Synthetic Aperture Radar (SAR) data.
+We collected aquaculture production and yield statistics at national, regional and local levels to link earth observation-based findings to the size, number and distribution of aquaculture ponds with production estimation.
+With the SAR derived mapping product, it is possible for the first time to assess aquaculture on single pond level at a regional scale and use that information for spatial analyses and production estimation.

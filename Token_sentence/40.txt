@@ -1,0 +1,8 @@
+Point cloud segmentation groups points with similar attributes with respect to geometric, colormetric, radiometric, and/or other information to support Terrestrial Laser Scanning (TLS) data processing such as feature extraction, classification, modeling, analysis, and so forth.
+In this paper we propose a segmentation method consisting of two main steps.
+First, a novel feature extraction approach, NORmal VAriation ANAlysis (Norvana), eliminates some noise points and extracts edge points without requiring a general (and error prone) normal estimation at each point.
+Second, region growing groups the points on a smooth surface to obtain the segmentation result.
+For efficiency, both steps exploit the angular grid structure storing each TLS scan that is often neglected in many segmentation algorithms, which are primarily developed for unorganized point clouds.
+Additionally, unlike the existing methods exploiting the angular grid structure that can only be applied to a single scan, the proposed method is able to segment multiple registered scans simultaneously.
+The algorithm also takes advantage of parallel programming for efficiency.
+In the experiment, both qualitative and quantitative evaluations are performed through two datasets whilst the robustness and efficiency of the proposed method are analyzed and discussed.

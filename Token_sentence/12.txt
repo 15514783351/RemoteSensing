@@ -1,0 +1,10 @@
+Near-surface specific humidity (q(a)) and air temperature (T-a) over the global ocean are important meteorological variables, but they cannot be retrieved directly from remote sensing.
+Many efforts have been made to develop algorithms that derive q(a) and T-a from multisensor microwave and/or infrared observations using in situ measurements as training datasets.
+However, uncertainty remains large in the resultant q(a) and T-a retrievals.
+In this study, 147 moored surface buoys are used to examine how buoy measured q(a) and T-a are related to satellite microwave brightness temperature (Tb) on the spatial scale from the warm/humid tropics to the cold/dry high latitudes.
+It is found that the Tb - q(a) and Tb - T-a relations are structured along two distinct, near-linear bands, with the primary band in the warm/humid regime and a secondary (weaker) band in the cold/dry regime.
+The step-like transition (or separation) between the two regimes occurs at 8-10 g kg(-1) for q(a) and 14-17 degrees C for T-a.
+The evidence suggests that one algorithm may not be sufficient to extract q(a) and T-a from Tb in all regimes.
+Therefore, a high-latitude enhancement is added to the global algorithm so that the q(a) and T-a retrievals in the dry/cold regime can be specifically addressed.
+The new algorithms are applied to 11 microwave sensors, including SSM/I, SSMIS, and AMSU-A, from 1988 to 2016.
+Based on the 475,717 buoy collocations during the 29-year period, the retrieved q(a) and T-a have root-mean-square differences of 0.82 g kg(-1) and 0.51 degrees C, respectively.

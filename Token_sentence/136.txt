@@ -1,0 +1,5 @@
+This study examined the relationship between foliar isoprene emissions, light use efficiency and photochemical reflectance index (PRI) throughout the canopy profile and explored the contribution of xanthophyll cycle pigments versus other carotenoid pigments to the isoprene/PRI relationship.
+Foliar isoprene emissions within the canopy profile were measured in a high-density poplar plantation in Flanders (Belgium) during the 2016 growing season.
+The results confirmed that PRI was a promising estimator of isoprene emissions at canopy level.
+Interestingly, xanthophyll cycle pigments contributed more to isoprene biosynthesis than chlorophyll and drove the isoprene/PRI relationship.
+The simple independent pigment index and novel defined indices, such as the hyperspectral isoprene index and simple hyperspectral isoprene index, showed promising results and could be suitable estimators of isoprene emissions due to their strong relationship with the xanthophyll pool.

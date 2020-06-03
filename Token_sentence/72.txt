@@ -1,0 +1,8 @@
+The availability of a large amount of remote sensing data made Earth Observation increasingly accessible and detailed.
+High temporal and spatial resolution sensors are responsible for making available data sets of time series in unprecedented proportions.
+Within this context, the use of efficient segmentation algorithms of remote sensing imagery represents an important role in this scenario, because they provide homogeneous regions in space-time and hence simplify the data set.
+In addition, the spatio-temporal segmentation can bring a new way of interpreting data by means of analyzing contiguous regions in time.
+This letter describes a method for image segmentation applied to time series of the Earth Observation data.
+We adapted the traditional region growing method to detect homogeneous regions in space and time.
+Study cases were conducted by considering the dynamic time warping algorithm as the homogeneity criterion to grow regions.
+Tests on high temporal resolution image sequences from Moderate Resolution Imaging Spectroradiometer and Landsat-8 Operational Land Imager vegetation indices and comparisons with other distance measurements provided satisfactory outcomes.

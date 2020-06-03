@@ -1,0 +1,10 @@
+In this paper, we present the results of eight years of continuous monitoring with a ground-based, interferometric, real-aperture radar of two unstable mountain blocks at Tafjord on the western coast of Norway.
+A real-time, interferometric, ground-based radar has the capability to provide high accuracy range measurements by using the phase of the transmitted signal, thus achieving sub-millimeter accuracy when a sufficient signal-to-noise level is present.
+The main challenge with long term monitoring is the variations in radio refractivity caused by changes in the atmosphere.
+The range variations caused by refractive changes in the atmosphere are corrected using meteorological data.
+We use triangular corner reflectors as references to improve the signal-to-clutter ratio and improve the accuracy of the measurements.
+We have also shown that by using differential interferometry, a significant part of the variation caused by radio refractivity variations is removed.
+The overall reduction in path length variation when using differential interferometry varies from 27 to 164 times depending on the radar-to-reflector path length.
+The measurements reveal cyclic seasonal variations, which are coherent with air temperature.
+The results show that radar measurements are as accurate as data from in situ instruments like extensometers and crack meters, making it possible to monitor inaccessible areas.
+The total measured displacement is between 1.2 mm and 4.7 mm for the two monitored mountain blocks.

@@ -1,0 +1,12 @@
+Imaging spectroscopy is a powerful tool for mapping chemical leaf traits at the canopy level.
+However, covariance with structural canopy properties is hampering the ability to predict leaf biochemical traits in structurally heterogeneous forests.
+Here, we used imaging spectroscopy data to map canopy level leaf nitrogen (N) and phosphorus concentrations (P-mass) of a temperate mixed forest.
+By integrating predictor variables derived from airborne laser scanning (LiDAR), capturing the biophysical complexity of the canopy, we aimed at improving predictions of N-mass and P-mass.
+We used partial least squares regression (PLSR) models to link community weighted means of both leaf constituents with 245 hyperspectral bands (426-2425 nm) and 38 LiDAR-derived variables.
+LiDAR-derived variables improved the model's explained variances for N-mass (R-cv(2) 0.31 vs. 0.41, % RSMEcv 3.3 vs. 3.0) and P-mass (R-cv(2) 0.45 vs. 0.63, % RSMEcv 15.3 vs. 12.5).
+The predictive performances of N-mass models using hyperspectral bands only, decreased with increasing structural heterogeneity included in the calibration dataset.
+To test the independent contribution of canopy structure we additionally fit the models using only LiDAR-derived variables as predictors.
+Resulting values ranged from 0.26 for N-mass to 0.54 for 13,P-mass indicating considerable covariation between biochemical traits and forest structural properties.
+N-mass was negatively related to the spatial heterogeneity of canopy density, whereas Pm, was negatively related to stand height and to the total cover of tree canopies.
+In the specific setting of this study, the importance of structural variables can be attributed to the presence of two tree species, featuring structural and biochemical properties different from co-occurring species.
+Still, existing functional linkages between structure and biochemistry at the leaf and canopy level suggest that canopy structure, used as proxy, can in general support the mapping of leaf biochemistry over broad spatial extents.

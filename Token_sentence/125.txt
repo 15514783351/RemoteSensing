@@ -1,0 +1,7 @@
+The Moderate Resolution Imaging Spectroradiometer (MODIS) instruments have successfully operated for more than 18 and 16 years, respectively, on-board the NASA's Earth Observing System Terra and Aqua spacecraft.
+Both Terra and Aqua MODIS have significantly contributed to the advance of global Earth remote sensing applications with a broad range of science products that have been continuously produced since the beginning of each mission and freely distributed to users worldwide.
+MODIS collects data in 20 reflective solar bands (RSB) and 16 thermal emissive bands (TEB), covering wavelengths from 0.41 to 14.4 mu m.
+Its level IB (L1B) data products, which provide the input for the MODIS high-level science products, include the top of the atmosphere reflectance factors for the RSB, radiances for both the RSB and TEB, and associated uncertainty indices (UI) at a pixel-by-pixel level.
+This paper provides a brief review of MODIS L1B calibration algorithms, including a number of improvements made in recent years.
+It presents an update of sensor calibration uncertainty assessments with a focus on several new contributors resulting from on-orbit changes in sensor characteristics, approaches developed to address these changes, and the impact due to on-orbit changes on the L1B data quality.
+Also discussed are remaining challenges and potential improvements to be made to continuously maintain sensor calibration and data quality, particularly those related to the quality of MODIS LIB uncertainty.

@@ -1,0 +1,11 @@
+Methods to obtain accurate phenotypic data of the seedling stage of maize are receiving ever-increasing research attention because such data are very important for crop growth and for estimating crop yield.
+To obtain such data, we propose herein an algorithm that uses computer vision to accurately recognize maize seedlings from a digital image.
+First, the red-green-blue (RGB) images acquired by a manned ground vehicle (MGV) and an unmanned aerial vehicle (UAV) are transformed into grayscale image to clarify the details of the images, and the Otsu threshold-segmentation method, which is based on threshold optimization, is used to separate the maize seedlings from the soil background.
+Next, the external pressure method is used to segment the results of skeleton extraction.
+After removing the skeleton burr by using the skeleton-deburring method based on saliency theory, the principal component analysis is used to determine the direction of the principal axis of the maize-seedling skeleton.
+The principal axis is then introduced as a reference to identify the direction angle of the principle axis in binary images.
+This process allows us to obtain from RGB images the multiple plant parameters that characterize the maize seedling stage.
+To verify these statistical computer-generated results, we compare them with field measurements of the maize plots.
+The result of applying the proposed algorithm to the MGV and UAV data sets correlate strongly (R = 0.77-0.86) with the manually collected data.
+An average of 0.014 s is required to calculate the number of maize seedlings in a plot from two images showing different vegetation coverage, which shows that the proposed algorithm is computationally efficient.
+These results indicate that the proposed method provides accurate phenotypic data on maize seedlings.

@@ -1,0 +1,11 @@
+In the process of object-based change detection (OBCD), scale is a significant factor related to extraction and analyses of subsequent change data.
+To address this problem, this paper describes an object-based approach to urban area change detection (CD) using rotation forest (RoF) and coarse-to-fine uncertainty analyses of multi-temporal high-resolution remote sensing images.
+First, highly homogeneous objects with consistent spatial positions are identified through vector-raster integration and multi-scale fine segmentation.
+The multi-temporal images are stacked and segmented under the constraints of a historical land use vector map using a series of optimal segmentation scales, ranging from coarse to fine.
+Second, neighborhood correlation image analyses are performed to highlight pixels with high probabilities of being changed or unchanged, which can be used as a prerequisite for object-based analyses.
+Third, based on the coarse-to-fine segmentation and pixel-based pre-classification results, change possibilities are calculated for various objects.
+Furthermore, changed and unchanged objects identified at different scales are automatically selected to serve as training samples.
+The spectral and texture features of each object are extracted.
+Finally, uncertain objects are classified using the RoF classifier.
+Multi-scale classification results are combined using a majority voting rule to generate the final CD results.
+In experiments using two pairs of real high-resolution remote sensing datasets, our proposed approach outperformed existing methods in terms of CD accuracy, verifying its feasibility and effectiveness.

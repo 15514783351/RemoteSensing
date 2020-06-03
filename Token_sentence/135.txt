@@ -1,0 +1,5 @@
+SAR sensors are usually used in the offshore domain to detect marine oil slicks which allows the authorities to guide cleanup operations or prosecute polluters.
+As radar imagery can be used any time of day or year and in almost any weather conditions, the use and programming of such remote sensing data is usually favored over optical imagery.
+Nevertheless, images collected in the optical domain provide access to key information not accessible today by SAR instruments, such as the thickness or the amount of pollutant.
+To address this knowledge gap, a methodology based on the joint use of a scattering model (U-WCA) and remote sensing data collected by a low frequency (e.g., L-band) imaging radar over controlled release of mineral oil spill is reported in this paper.
+The proposed method allows estimation of the concentration of pollutant within an oil-in-water mixture as well as the temporal variation of this quantity due to weathering processes.

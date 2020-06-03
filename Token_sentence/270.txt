@@ -1,0 +1,13 @@
+Satellite altimetry is an important tool for monitoring water levels over oceans and inland water bodies, particularly over poorly gauged or ungauged areas.
+This study uses satellite altimetry (Jason-2/3 and Envisat) to derive water levels of the Great Brahmaputra River (GBR) originating from the Tibetan Plateau.
+Although the width of the river channels of the Lower Brahmaputra River (LBR) is similar to 1 km, the Upper Brahmaputra River (UBR) (which is part of the Yarlung Zangbo River of China) and the Middle Brahmaputra River (MBR) located in high-mountain regions have river widths that are generally less than 400 m.
+This poses considerable challenges for existing retracking algorithms to obtain accurately retrieved water levels.
+In this study, an improved approach for deriving water levels in high-mountain regions with complex terrain is proposed, comprising (1) an improved footprint selection and (2) an improved waveform retracking, called the 50% Threshold and Ice-1 Combined algorithm (TIC).
+It was applied to river channels of varying widths, ranging from 200 m in the UBR to more than 1 km in the LBR.
+Results show an increase in both the accuracy and sampling of water levels.
+Most of the derived water levels at 13 virtual stations (VSs) along the GBR agree reasonably well with gauged water levels (for VSs in the UBR) or published results (for VSs in the LBR).
+The standard deviation of the difference between the TIC-derived water levels and gauged data at the VSs ranges from 0.3 m to 0.8 m with the highest improvement percentage relative to the unretracked ranges reaching 80% in the UBR.
+In addition, the developed approach increases water level sampling by reasonably demarcating the buffer zone for footprint selection, thereby generating more water levels in the time series than the published results for VSs in the LBR.
+However, 3 out of the 13 virtual stations show poor performance for Envisat, primarily due to the extremely narrow river channels.
+Furthermore, TIC can potentially be applied to estimate water levels near ground tracks of altimetric missions, even where there is no crossover between the river and the track.
+It could also be applied to other altimetric missions, which would further contribute to monitoring water levels and potentially river discharge in high-mountain regions with narrow river channels.

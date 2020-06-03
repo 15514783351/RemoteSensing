@@ -1,0 +1,11 @@
+The Landsat archives have been made freely available in 2008, allowing the production of high resolution built-up maps at the regional or global scale.
+In this context, most of the classification algorithms rely on supervised learning to tackle the heterogeneity of the urban environments.
+However, at a large scale, the process of collecting training samples becomes a huge project in itself.
+This leads to a growing interest from the remote sensing community toward Volunteered Geographic Information (VGI) projects such as OpenStreetMap (OSM).
+Despite the spatial heterogeneity of its contribution patterns, OSM provides an increasing amount of information on the earth's surface.
+More interestingly, the community has moved beyond street mapping to collect a wider range of spatial data such as building footprints, land use, or points of interest.
+In this paper, we propose a classification method that makes use of OSM to automatically collect training samples for supervised learning of built-up areas.
+To take into account a wide range of potential issues, the approach is assessed in ten Sub-Saharan African urban areas from various demographic profiles and climates.
+The obtained results are compared with: (1) existing high resolution global urban maps such as the Global Human Settlement Layer (GHSL) or the Human Built-up and Settlements Extent (HBASE); and (2) a supervised classification based on manually digitized training samples.
+The results suggest that automated supervised classifications based on OSM can provide performances similar to manual approaches, provided that OSM training samples are sufficiently available and correctly pre-processed.
+Moreover, the proposed method could reach better results in the near future, given the increasing amount and variety of information in the OSM database.

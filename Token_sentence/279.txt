@@ -1,0 +1,12 @@
+Harmful algal blooms (HABs) present a potential danger for human health and commercial activities, especially in coastal regions.
+Observing systems increasingly rely on remote sensors to monitor and possibly predict the locations and intensity of such blooms.
+Here we present a novel approach for detecting HABs of Alexandrium fundyense in the Bay of Fundy, Canada.
+A. fundyense is considered toxic for individuals who consume shellfish when cell abundances adjacent to shellfish harvesting areas are as low as 200 cells.L-1, making it difficult to use direct remote sensing techniques to assess the threat in the early stages of the development of the bloom.
+Using in situ A. fundyense cell abundance measurements, together with satellite observations of sea-surface temperature and the occurrence of diatom-dominated phytoplankton populations, a warning system was developed based on three levels of alerts: green (low abundance of A. fundyense), orange (possible threat of A. fundyense) and red (high probability of A. fundyense concentrations that would result in shellfish toxicity above safe levels for human consumption).
+Combined information on diatom phenology and variations in sea-surface temperature are key to the timing of A. fundyense blooms: our data reveal that the termination of the diatom spring bloom, associated with the warming of the water, can trigger an increase in A. fundyense cell abundance.
+The objective criteria for a HAB warning system was developed and tested in the Bay of Fundy using two different datasets: one to develop the algorithm (data collected between 1998 and 2007) and one to assess its performance (data collected in 2011).
+The warning system is based on the cautionary principle that a false negative (warning not issued when it should have been) is far more serious than a false positive (warning issued when it should not have been).
+The overall success of the algorithm when tested on the validation dataset is about 70% using a threshold of 150 A. fundyense cells.L-1, with a low occurrence of false negative red alerts (< 8%).
+The satellite data -based warning can be used to optimize an in situ monitoring system, which can be designed to be more intensive when the warning status is orange or red.
+This study demonstrates that combined satellite information on phytoplankton phonology and sea-surface temperature can help predict low abundances of toxic A. fundyense cells.
+It also highlights the importance of an integrated approach combining satellite and in situ observations to monitor HABs.

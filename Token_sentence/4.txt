@@ -1,0 +1,7 @@
+The Operational Land Imager (OLI) onboard Landsat-8 satellite can provide remote sensing reflectance (R-rs) of aquatic environments with high spatial resolution (30 m), allowing for benthic habitat mapping and monitoring of bathymetry and water column optical properties.
+To facilitate these applications, accurate sensor-derived R-rs is required.
+In this study, we assess atmospheric correction schemes, including NASA's NIR-SWIR approach, Acolite's NIR and SWIR approaches and the cloud-shadow approach.
+We provide the first comprehensive evaluation for Landsat-8 R-rs retrievals in optically shallow coral reefs, along with an investigation of Landsat-8 R-rs products in a temperate turbid embayment.
+The obtained Landsat-8 R-rs data products are evaluated with concurrent in situ hyperspectral R-rs measurements.
+Our analyses show that the NASA and the cloud-shadow approaches generated reliable R-rs products across shallow coral reefs and optically deep waters.
+This evaluation suggests that high quality R-rs products are achievable from the Landsat-8 satellite in optically shallow environments, which supports further application of Landsat-8 type measurements for coral reef studies.

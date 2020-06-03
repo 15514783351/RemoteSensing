@@ -1,0 +1,8 @@
+The hills of Uttarakhand witness forest fire every year during the summer season and the number of these fire events is reported to have increased due to increased anthropogenic disturbances as well as changes in climate.
+These fires cause significant damage to the natural resources which can be mapped and monitored using satellite images by virtue of its synoptic coverage of the landscape and near real time monitoring.
+This study presents burnt area assessment caused by the fire episode of April 2016 to the forest vegetation.
+Digital classification of satellite images was done to extract the burnt area which was found to be 3774.14 km(2), representing 15.28% of the total forest area of the state.
+It also gives an account of cumulative progression of forest fire in Uttarakhand using satellite images of three dates viz. 23rd, 27th May and 2nd June, 2016.
+Results were analyzed at district, administrative and forest division level using overlay analysis.
+Separate area statistics were given for different categories of biological richness, forest types and protected areas affected by forest fire.
+The burnt area assessment can be used in mitigation planning to prevent drastic ecological impacts of the forest fire on the landscape.

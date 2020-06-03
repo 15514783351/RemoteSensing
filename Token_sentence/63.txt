@@ -1,0 +1,10 @@
+Perforation, dissection, fragmentation, shrinkage and attrition in ecosystems take place due to urbanization.
+In this study, where and when temporal and spatial heterogeneity occurs is tried to be explained by taking human intervention in landscape pattern and processes in and around the city of Denizli into account and how this heterogeneity affects habitat conditions within the scope of landscape ecology.
+Landscape pattern metrics were estimated in order to reveal the change in habitats and present the properties of the landscape.
+30 pattern indicators on class and pattern levels, which are important to show human-environment interaction, were analyzed in order to indicate the features of the landscape such as area, side, shape and dispersion.
+To this end, LANDSAT TM/7-ETM/8-OLI satellite images of 1987 and 2013 were classified for laying the foundations of the analysis.
+Analyses showed that between 1987 and 2013, complicated shape features, increase in edge habitats, de-growth in core areas and eventually fragmentation in landscape have been dominant.
+Heterogenic structure in landscape has increased.
+This points not to the self-functioning of the landscape, but to the domination of human intervention over the landscape.
+Particularly, due to urban growth and sprawl, fragmentation, isolation and habitat loss in croplands have increased.
+This study sets forth the usefulness of remote sensing, GIS and landscape metrics in understanding how urban dynamics and ecosystems change in developing urban politics.

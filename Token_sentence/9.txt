@@ -1,0 +1,14 @@
+Remote sensing data are most useful if they are available with sufficient precision, accuracy, spatiotemporal and spectral sampling, as well as continuity across decades.
+The Landsat and Sentinel series, as well other satellites are currently covering significant parts of this observational trade space.
+It can be expected that growing demands and budget constraints will require new capabilities in orbit that can address as many observables as possible with a single instrument.
+Recent optical performance improvements of imaging spectrometers make them true alternatives to traditional multispectral imagers.
+However, they are much more adaptable to a wide range of Earth observation needs due to the combination of continuous high spectral sampling with spatial sampling consistent with previous sensors (e.g., Landsat).
+Unfortunately, there is a knowledge gap in demonstrating that imaging spectroscopy data can substitute for multi-spectral data while sustaining the long-term record.
+Thus, the objective of this analysis is to test the hypothesis that imaging spectroscopy data compare radiometrically with multi-spectral data to within 5%.
+Using a coincident Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) flight with over-passing Operational Land Imager (OLI) data on Landsat 8, we document a procedure for simulating OLI multi-spectral bands from AVIRIS data, evaluate influencing factors on the observed radiance, and assess the difference in top-of-atmosphere radiance as compared to OLI.
+The procedure for simulating OLI data include spectral convolution, accounting for the minimal atmospheric effects between the two sensors, and spatial resampling.
+The remaining differences between the simulated and the real OLI data result mainly from differences in sensor calibration, surface bi-directional reflectance, and spatial sampling.
+The median relative radiometric difference for each band ranges from - 8.3% to 0.6%.
+After bias-correction to minimize potential calibration discrepancies, we find no more than a 1.2% relative difference.
+This analysis therefore successfully demonstrates that imaging spectrometer data can contribute to Landsat-type or other multi-spectral data records.
+It also shows that cross-calibration from a spectrometer to a radiometer can be easily performed as a result of the imaging spectrometer high spectral sampling and its ability to recreate multi-spectral response functions.

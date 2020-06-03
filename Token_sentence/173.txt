@@ -1,0 +1,11 @@
+The accuracy of three satellite models of primary production (PP) of varying complexity was assessed against 95 in situ C-14 uptake measurements from the North East Atlantic Ocean (NEA).
+The models were run using the European Space Agency (ESA), Ocean Colour Climate Change Initiative (OC-CCI) version 3.0 data.
+The objectives of the study were to determine which is the most accurate PP model for the region in different provinces and seasons, what is the accuracy of the models using both high (daily) and low (eight day) temporal resolution OC-CCI data, and whether the performance of the models is improved by implementing a photoinhibition function?
+The Platt-Sathyendranath primary production model (PPPSM) was the most accurate over all NEA provinces and, specifically, in the Atlantic Arctic province (ARCT) and North Atlantic Drift (NADR) provinces.
+The implementation of a photoinhibition function in the PPPSM reduced its accuracy, especially at lower range PP.
+The Vertical Generalized Production Model-VGPM (PPVGPM) tended to over-estimate PP, especially in summer and in the NADR.
+The accuracy of PPVGPM improved with the implementation of a photoinhibition function in summer.
+The absorption model of primary production (PPAph), with and without photoinhibition, was the least accurate model for the NEA.
+Mapped images of each model showed that the PPVGPM was 150% higher in the NADR compared to PPPSM.
+In the North Atlantic Subtropical Gyre (NAST) province, PPAph was 355% higher than PPPSM, whereas PPVGPM was 215% higher.
+A sensitivity analysis indicated that chlorophyll-a (Chl a), or the absorption of phytoplankton, at 443 nm (a(ph) (443)) caused the largest error in the estimation of PP, followed by the photosynthetic rate terms and then the irradiance functions used for each model.

@@ -1,0 +1,15 @@
+Damage to agricultural crops due to water-logging is becoming more frequent in this era of global climate change.
+In this study, we investigated the effect of water-logging on winter wheat growth (LAI and aboveground biomass) and yield at a parcel scale using high spatial resolution satellite data.
+For this purpose, a dynamic mapping of winter wheat LAI and biomass during growth under water-logging conditions was implemented.
+In addition, yield mapping and yield loss estimation were also carried out to arrive at the potential impacts of water-logging on both winter wheat growth and grain yield.
+Two varieties of winter wheat were investigated (Yang Mai 14 and Yang Mai 18) at tillering, jointing to booting and flowering.
+Field conditions were representative of water-logging treatment (contrast check (CK), waterlogging (WL) and flooding (FL)).
+A total of eight high spatial resolution optical satellite images, including WorldView-2, WorldView-3, Pleiades-1A, SPOT-6, GeoEye-1 and SPOT-7 were obtained at time points concurrent with eight temporal field observations.
+Seven widely used vegetation indices (VIs) were utilized as independent variables for LAI, biomass and yield estimation.
+Optimal estimation models were selected according to coefficient of determination (R-2), correlation coefficient (R) and root mean square error (RMSE) for subsequent mapping of LAI, biomass and yield.
+Results show that the power model, having EVI as the independent variable, had the highest accuracy for biomass estimation (R-2 of 0.78 and RMSE of 0.076 kg/m(2)) while the exponential model with NDVI is the optimal model for LAI estimation (with 0.74 in R-2 and 0.64 in RMSE).
+GNDVI is the optimal VI for yield mapping, with 0.563 in R-cv (cross validated R) and 843.76 kg/hm(2 )in RMSEcv (cross validated RMSEcv).
+As for the assessment of waterlogging damage on winter wheat growth, FL showed a more serious impact than that of WL, based on results of the dynamic mapping of biomass and LAI at the same development stages.
+Water-logging from jointing to booting showed a more serious damage impact with respect to biomass and yield than that at the tillering and flowering stages.
+Our results have demonstrated the potential of multi-source and high spatial resolution remotely-sensed optical data for quantifying the impact of water-logging on winter wheat growth and grain yield at parcel scales, a research direction that has rarely been reported in agricultural remote sensing literature.
+This study thus provides a fundamental basis and the possibility for crop yield loss evaluation, water-logging monitoring, and for the design of mitigation strategies that would benefit even small-holder and subsistence farmers.

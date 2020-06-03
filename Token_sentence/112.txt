@@ -1,0 +1,11 @@
+In cities, vegetation temperature is important for quantifying water use, microclimates, and water and energy fluxes, as demonstrated by urban climate models and in situ studies.
+Remote sensing is capable of observing land surface temperatures (LST) across a city; however, its ability to quantify vegetation canopy temperatures is limited because of LST variability resulting from urban surface heterogeneity, differences in vegetation fraction and non-vegetated material, and the coarse resolution of available thermal imagery.
+This study is a large-scale analysis of urban surface composition and temperature variability across the Los Angeles, USA, metropolitan area (4466 km(2)).
+Sub-pixel fractions of two plant functional types (tree and turfgrass) and four urban materials (impervious surface, commercial roof, non-photosynthetic vegetation, and soil) were quantified using hyperspectral imagery (Airborne Visible/Infrared Imaging Spectrometer).
+Fractional cover gradients of plant types and non-vegetated materials were developed using 1.7 million pixels, from which we modeled LST changes using simultaneously collected thermal imagery (MODIS-ASTER Airborne Simulator).
+Vegetation LST variability was mapped by subtracting modeled LST from observed LST and investigated relative to building density and vegetation management.
+Overall, LST varied significantly among plant functional types and urban material types.
+Across heterogeneous mixtures, LST and vegetation fraction exhibited a negative, linear relationship, with the slopes of LST change showing significant differences between trees and turfgrass.
+The map of vegetation LST variability had a standard deviation of 3.5 degrees C, indicating significant variability across Los Angeles independent of vegetation type or fractional cover.
+Building density was observed to affect tree and turfgrass LST differently, while a negative relationship was observed between vegetation LST and irrigation (R-2 = 0.55).
+Our results show that an LST signal of vegetation function, distinct from that of vegetation fractional cover, can be observed and modeled at city-scales in fractional mixture analysis, indicating potential for improved understanding of urban microclimates.

@@ -1,0 +1,10 @@
+A methodology for the measurement of height in water reservoirs is developed.
+It is based on Sentinel 2 imagery and aerial LiDAR data.
+The methodology is automatized using Matlab software and focused on image processing techniques (equalization, binarization, and edge detection) combined with LiDAR data processing (near neighbour search and height averaging).
+It is applied in a region of interest selected by the user characterized by a water-land interface.
+Results are validated in the As Conchas water reservoir (Spain) using an in situ sensing system provided by the Hydrographic Mino-Sil Confederation.
+The duration of the experiment was one year.
+The Sentinel 2 bands B2, B3, B4, and B8 were tested during this study.
+The best results for water height evaluation were obtained for band B8 (842 nm) with an error of 0.20 m and a standard deviation of 0.17 m.
+The time resolution of the technique depends on the Sentinel 2 revisit time.
+The time resolution and height accuracy could be improved using complementary satellite systems.

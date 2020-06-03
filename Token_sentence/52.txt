@@ -1,0 +1,10 @@
+The availability of remote sensing images of various resolutions has enabled the incorporation of landscape structures in land-cover mapping.
+Despite the effectiveness of landscape metrics in quantifying landscape structures, they are inadequate in characterizing three elements: spatial neighborhoods, spatial dependencies, and semantic dependencies.
+Moreover, methods for mining the regularity of landscape-structure heterogeneity ((i.e., spatial variations in landscape structures)) are still limited, particularly for applications in urban land-cover mapping.
+This study hence proposes a novel approach with the aims to (1) characterize landscape structures considering the above three elements; (2) mine the regularity of landscape-structure heterogeneity; and (3) apply landscape-structure information as contexts to improve urban land-cover mapping.
+To achieve the first aim, landscape-structure features including pair-wise spatial relationships and neighborhood-based landscape metrics are defined.
+To accomplish the second aim, a clustering technique and a landscape infographic are used to cluster landscape structures and visualize landscape-structure types, respectively.
+Finally, a hierarchical classifier based on the feedforward multi-layer perceptron is developed for the third aim.
+Experiments are conducted in a heterogeneous urban environment in Beijing, China.
+The results show that the proposed approach, which considers 34 landscape-structure features and 19 landscape-structure types, achieves a classification accuracy improvement of 6.43% compared with the approaches without considering landscape-structure information.
+This study therefore demonstrates the effectiveness of incorporating landscape-structure features and landscape-structure types in improving urban land-cover mapping.

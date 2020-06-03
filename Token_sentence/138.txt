@@ -1,0 +1,8 @@
+Fogo volcano erupted in 2014-2015 producing an extensive lava flow field in the summit caldera that destroyed two villages, Portela and Bangaeira.
+The eruption started with powerful explosive activity, lava fountains, and a substantial ash column accompanying the opening of an eruptive fissure.
+Lava flows spreading from the base of the eruptive fissure produced three arterial lava flows.
+By a week after the start of the eruption, a master lava tube had already developed within the eruptive fissure and along the arterial flow.
+In this paper, we analyze the emplacement processes based on observations carried out directly on the lava flow field, remote sensing measurements carried out with a thermal camera, SO2 fluxes, and satellite images, to unravel the key factors leading to the development of lava tubes.
+These were responsible for the rapid expansion of lava for the -7.9 km length of the flow field, as well as the destruction of the Portela and Bangaeira villages.
+The key factors leading to the development of tubes were the low topography and the steady magma supply rate along the arterial lava flow.
+Comparing time-averaged discharge rates (TADR) obtained from satellite and Supply Rate (SR) derived from SO2 flux data, we estimate the amount and timing of the lava flow field endogenous growth, with the aim of developing a tool that could be used for hazard assessment and risk mitigation at this and other volcanoes.

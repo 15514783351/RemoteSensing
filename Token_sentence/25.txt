@@ -1,0 +1,6 @@
+Hyperspectral remote sensing images present rich information on the characteristics of different physical materials.
+Utilizing the rich information, classifiers can distinguish these different materials.
+The minimum distance technique, which is commonly used in classification, is sensitive to the distance metric, especially in high-dimensional space.
+In this letter, we study the effect of the p-norm distance metric on the minimum distance technique and propose a supervised-learning p-norm distance metric to optimize the value of p.
+In the experimental study, we take the minimum distance and the k-nearest neighbor classifiers as examples to test the proposed supervised-learning p-norm distance metric.
+The results suggest that the supervised-learning p-norm distance metric can improve the performance of a classifier for hyperspectral remote sensing image classification.

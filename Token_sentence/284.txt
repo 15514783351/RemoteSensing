@@ -1,0 +1,18 @@
+UAVs are fast emerging as a remote sensing platform to complement satellite based remote sensing.
+Agriculture and ecology is one of the important applications of UAV remote sensing, also known as low altitude remote sensing (LARS).
+This work demonstrates the use and potential of LARS in agriculture, particularly small holder open field agriculture.
+Two UAVs are used for remote sensing.
+The first UAV is a fixed wing aircraft with a high spatial resolution visible spectrum also known as RGB camera as a payload.
+The second UAV is a quadrotor UAV with an RGB camera interfaced to an on-board single board computer as the payload.
+LARS was carried out to acquire aerial high spatial resolution RGB images of different farms.
+Spectral-spatial classification of high spatial resolution RGB images for detection, delineation and counting of tree crowns in the image is presented.
+Supervised classification is carried out using extreme learning machine (ELM), a single hidden layer feed forward network neural network classifier.
+ELM was modelled for RGB values as input feature vectors and binary (tree and non-tree pixels) output class.
+Due to similarities in spectral intensities, some of the non-tree pixels were classified as tree pixels and in order to remove them, spatial classification was performed on the image.
+Spatial classification was carried out using thresholded geometrical property filtering techniques.
+Threshold values chosen for carrying out spatial classification were analysed to obtain optimal values.
+Finally in the delineation and counting, the connected tree crowns were segmented using Watershed algorithm performed on the image after marking individual tree crowns using Distance Transform method.
+Five representative UAV images captured at different altitudes with different crowns of banana plant, mango trees and coconut trees were used to demonstrate the performance of the proposed method.
+The performance was compared with the traditional KMeans spectral-spatial method of clustering.
+Results and comparison of performance parameters of KMeans spectral-spatial and ELM spectral-spatial classification methods are presented.
+Results indicate that ELM performed better than KMeans.

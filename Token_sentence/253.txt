@@ -1,0 +1,9 @@
+High spatial resolution (HSR) remote sensing images provide detailed geometric information about land cover.
+As a result, it is possible to detect more subtle changes with the help of HSR images.
+However, due to the increased spatial resolution and the limited spectral information, it is difficult to identify the real changes only through the spectral feature of the image.
+To fully explore the spectral-spatial information and improve the change detection performance for HSR images, this paper proposes the hybrid conditional random field (HCRF) model, which combines the traditional random field method with an object-based technique.
+In the proposed method, the spectral discriminative information of a single pixel is extracted by the unary potential, which is modeled using a soft clustering method to make an initial separation of changed and unchanged pixels.
+The pairwise potential then considers the contextual information of adjacent pixels to favor spatial smoothing.
+An object term is also introduced in the HCRF model to keep the homogeneity of changed objects.
+By the use of these approaches, the oversmoothing problem of the random field-based methods and the detection error caused by the segmentation strategy in the objectbased methods can be relieved.
+The proposed method was tested on three HSR image data sets and outperformed the compared state-of-the-art techniques.

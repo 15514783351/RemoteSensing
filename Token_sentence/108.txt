@@ -1,0 +1,9 @@
+Pansharpening regards the fusion of a high-spatial resolution panchromatic image with a low-spatial resolution multispectral image.
+One of the most debated topics about pansharpening is related to the quality assessment of fused products.
+Two main assessment procedures are usually exploited in the literature: the reduced resolution validation and the full-resolution (FR) validation.
+The former has the advantage to be accurate, but the hypothesis of invariance among scales has to be assumed.
+The latter overcomes this limitation but paying it with a lower accuracy.
+In this paper, we will focus on the FR assessment proposing an approach for estimating an overall quality index at FR by using multiscale FR measurements.
+The problem is recast into the sequential Bayesian framework exploiting a Kalman filter to find its solution.
+The proposed procedure for quality evaluation has been tested on four real data sets acquired by the Pleiades, the GeoEye-1, the WorldView-3, and the WorldView-4 sensors assessing the quality of 19 pansharpened methods.
+The proposed approach has demonstrated its superiority with respect to the benchmark consisting of state-of-the-art quality assessment procedures.

@@ -1,0 +1,7 @@
+Deep learning is a powerful technique for the analysis of remote sensing imagery.
+For applications that require real-time processing on mobile platforms, a low power consumption processing unit is advantageous.
+The human brain is remarkably powerful at image recognition tasks while operating at very low power consumption levels.
+Neuromorphic computing designs aim to achieve energy efficiency through the use of spiking neurons and low-precision synapses to perform data processing.
+We demonstrate here the classification of red, green, blue and depth and hyperspectral data sets using a neuromorphic processing unit (IBM TrueNorth Neurosynaptic System).
+The convolutional neural-network architecture of the classifier network has been adapted to fit the neuromorphic architecture.
+The results on overhead imagery and hyperspectral imagery data show that neuromorphic platforms can achieve the state-of-theart performance in semantic labeling with significantly (approximate to 1000x) lower power consumption than traditional GPU-based solutions.

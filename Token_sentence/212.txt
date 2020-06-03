@@ -1,0 +1,7 @@
+Commonly used destriping techniques in remote sensing applications have underlying Fourier transform process which tends to alter heavily the digital number values of surface features; thus, impacting its subsequent use in any image classification scheme.
+In this paper, we develop a novel destriping technique in the wavelet domain where statistical measures namely, standard deviation, signal-to-noise ratio, and entropy of the image and stripes are integrated in the wavelet filter design.
+Wavelet transform essentially keeps spatial information of the stripes in the transformed domain; thus, allowing a wavelet to filter stripes at different scales with minimal effect on image pixels relating to the surface features.
+We further propose a novel s for an environmental application, where a destriped band in the wavelet domain is included in image classification for forest encroachment mapping.
+The technique is implemented on IRS-1D LISS-III data for the mapping of forest encroachment in the Andaman and Nicobar Island, India, wherein the short wave infrared (SWIR) band is destriped and included in the image classification based on the linear support vector machine method.
+Statistical accuracy in terms of Kappa values for the resultant classified images by 1) including striped SWIR, 2) excluding SWIR, and 3) using destriped SWIR band are 0.97, 0.98, and 1, respectively.
+Z-tests indicate that the thematic map with destriped SWIR band is statistically significantly better than the other two maps.

@@ -1,0 +1,10 @@
+One of the main problems of optical remote sensing is clouds and cloud shadows caused by specific atmospheric conditions during data acquisition.
+These features limit the usage of acquired images and increase the difficulty in data analysis, such as normalized difference vegetation index values, misclassification, and atmospheric correction.
+Accurate detection and reliable cloning of cloud and cloud shadow features in satellite images are very useful processes for optical remote sensing applications.
+In this study, an automated cloud removal algorithm to generate cloud and cloud shadow free images from multitemporal Landsat-8 images is introduced.
+Cloud and cloud shadow areas are classified by using process-based rule set developed by using spectral and spatial features after applying simple linear iterative clustering superpixel segmentation algorithm to the image to find cloud pixel groups easily and correctly.
+Segmentation-based cloud detection method gives better results than pixel-based for detection of cloud and cloud shadow patches.
+After detection of clouds and cloud shadows, cloud-free images are created by cloning cloudless regions from multitemporal dataset.
+Spectral and structural consistency are preserved by considering spectral features and seasonal effects while cloning process.
+Statistical similarity tests are applied to find best cloud-free image to use for cloning process.
+Cloning results are tested with the structural similarity index metric to evaluate the performance of cloning algorithm.

@@ -1,0 +1,13 @@
+A flow duration curve (FDC) provides a comprehensive description of the hydrological regime of a catchment and its knowledge is fundamental for many water-related applications (e.g., water management and supply, human and irrigation purposes, etc.).
+However, relying on historical streamflow records, FDCs are constrained to gauged stations and, thus, typically available for a small portion of the world's rivers.
+The upcoming Surface Water and Ocean Topography satellite (SWOT; in orbit from 2021) will monitor, worldwide, all rivers larger than 100 m in width (with a goal to observe rivers as small as 50 m) for a period of at least three years, representing a potential groundbreaking source of hydrological data, especially in remote areas.
+This study refers to the 130 km stretch of the Po River (Northern Italy) to investigate SWOT potential in providing discharge estimation for the construction of FDCs.
+In particular, this work considers the mission lifetime (three years) and the three satellite orbits (i.e., 211, 489, 560) that will monitor the Po River.
+The aim is to test the ability to observe the river hydrological regime, which is, for this test case, synthetically reproduced by means of a quasi-2D hydraulic model.
+We consider different river segmentation lengths for discharge estimation and we build the FDCs at four gauging stations placed along the study area referring to available satellite overpasses (nearly 52 revisits within the mission lifetime).
+Discharge assessment is performed using the Manning equation, under the assumption of a trapezoidal section, known bathymetry, and roughness coefficient.
+SWOT observables (i.e., water level, water extent, etc.) are estimated by corrupting the values simulated with the quasi-2D model according to the mission requirements.
+Remotely-sensed FDCs are compared with those obtained with extended (e.g., 20-70 years) gauge datasets.
+Results highlight the potential of the mission to provide a realistic reconstruction of the flow regimes at different locations.
+Higher errors are obtained at the FDC tails, where very low or high flows have lower likelihood of being observed, or might not occur during the mission lifetime period.
+Among the tested discretizations, 20 km stretches provided the best performances, with root mean absolute errors, on average, lower than 13.3%.

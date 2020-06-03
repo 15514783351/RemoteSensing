@@ -1,0 +1,10 @@
+There is an urgent need for zoning the dust sources, as the first step to control dust storms.
+Hence, this study aimed to identify the exact interior sources of dust in Khuzestan Province (Iran), using a hybrid method of remote sensing, GIS and sedimentology.
+To this end, the spatial data of pedology, landuse, climate, slope and sedimentology were used as the constraint layers and vegetation, land surface temperature and soil moisture were used as the major layers.
+The major layers were extracted by performing the necessary computational process on the image of the Landsat 8 satellite.
+Constraint layers were used to eliminate the regions without dust production potential.
+In the next step, the major layers were weighted applying the paired comparison and fuzzy analytic hierarchy process methods.
+Then, the final integration of the layers took place by multiplying each major layer in the respective weight, and the map of the dust sources in the region was prepared.
+To validate the results, field trips were done for 180 points of the sources which indicate the high accuracy of the identified regions.
+The results revealed that 9% of the area in Khuzestan Plain equal to 350,000 ha is regarded as the source of dust production.
+Moreover, according to the results, it can be said that satellite images, especially those with efficient resolutions such as Landsat 8 products, are suitable basis data for extracting indicators (temperature, humidity and vegetation) of the dust sources.

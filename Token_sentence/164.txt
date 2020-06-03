@@ -1,0 +1,8 @@
+Modeling vegetation gross primary productivity (GPP) is crucial to understanding the land-atmosphere interactions and, hence, the global carbon cycle.
+While studies have demonstrated that satellite-based models could well simulate intra-annual variation of vegetation GPP, there is a need to understand our ability to capture interannual GPP variability.
+This study compares the spatiotemporal performance of six satellite-based models in regional modeling of annual GPP for deciduous broadleaf forests across the eastern United States.
+The 2001-2012 average annual gross primary productivities (AAGPPs) derived from different models have mismatched spatial patterns with divergent changing trends along both latitude and longitude.
+Evaluation using flux tower data indicates that some models could have considerable biases on a yearly basis.
+All tested models, despite performing well on the 8-day basis because of the underlying strong seasonality in vegetation productivity, fail to capture interannual variation of GPP across sites and years.
+Our study identifies considerable modeling uncertainties on a yearly basis even for an extensively studied biome of deciduous broadleaf forest at both site and large scales.
+Improvements to the current satellite-based models have to be made to capture interannual GPP variation in addition to intra-annual variation.

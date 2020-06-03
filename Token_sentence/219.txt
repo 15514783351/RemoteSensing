@@ -1,0 +1,7 @@
+Ocean Heat Content (OHC) and Ocean Mean temperature (OMT) products at seven different depths between 50 and 700 m along with Tropical Cyclone Heat Potential (TCHP) are hosted at Bhuvan website of National Remote Sensing Centre (NRSC) for activities carried out under the National Information System for Climate and Environment Studies (NICES) program.
+These products are generated using Sea Surface Temperature (SST) and Sea Surface Height Anomaly (SSHA) over the north Indian Ocean between 40-120A degrees E and 0-30A degrees N on daily basis.
+These products have been generated till the availability of Tropical Rainfall Monitoring Mission Microwave Imager (TMI) SST.
+Since TMI SST is no longer available beyond April 2015, Advanced Microwave Scanning Radiometer 2 (AMSR2) derived SST is considered to continue generation of the OHC and related products.
+The AMSR2 derived products are found well related with TMI based estimations (R-2 > 0.99) at all the depth levels of 50, 100, 150, 200, 300, 500, and 700 m depth.
+We have also observed a good relationship for TCHP and OMT products.
+The maximum Root Mean Square Error of 7.9 kJ/cm(2) for OHC at 700 m depth and low scatter index (< 0.005) indicate good quality of OHC products generated with AMSR2 based SST.

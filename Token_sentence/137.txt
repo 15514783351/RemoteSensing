@@ -1,0 +1,9 @@
+In this study, we apply high-resolution Sentinel-2A imagery to assist in the monitoring of the southwestern Spanish coast during its first year of data.
+The aim is to test suitability of MultiSpectral Imager (MSI) at higher resolution (10 m) for mapping Total Suspended Solids (TSS).
+Several field campaigns are carried out to collect TSS at three different sites in the Guadalquivir estuary, Cadiz Bay and Conil port.
+A regional multi-conditional remote sensing algorithm with a switching method that automatically selects the most sensitive TSS vs. water reflectance relationship is developed to estimate TSS concentration while avoiding saturation effects.
+An existing semi-analytical algorithm is calibrated by means of a cross-validation procedure based on both red 664 nm (r = 0.8, NRMSE of 25.06%) and near-infrared (NIR) 865 nm (r = 0.98, NRMSE of 10.28%) parts of the spectrum, showing the MSI sensor's great potential to estimate TSS even though it was not designed for aquatic remote sensing.
+The first year of data reveals improved monitoring along the coastal region at unprecedented resolution with accuracy to detect the Estuarine Turbidity Maximum (ETM).
+ACOLITE and POLYMER Atmospheric Correction strategies are applied over this coastal region (no in-situ data on water reflectance).
+The results confirm that the flexible POLYMER algorithm can address intense sun-glint effects.
+These findings encourage further research of water quality studies relying on both operational Sentinel-2A and Sentinel-2B, with great implications to improve the understanding of turbid coastal and inland water environments.

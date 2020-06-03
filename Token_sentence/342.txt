@@ -1,0 +1,8 @@
+Satellite-based retrievals offer the most cost-effective way to comprehensively map the surface albedo of the Earth, a key variable for understanding the dynamics of radiative energy interactions in the atmosphere-surface system.
+Surface albedo retrievals have commonly been designed separately for each different spaceborne optical imager.
+Here, we introduce a novel type of processing framework that combines the data from two polar-orbiting optical imager families, the Advanced Very High-Resolution Radiometer (AVHRR) and Moderate Resolution Imaging Spectroradiometer (MODIS).
+The goal of the paper is to demonstrate that multisensor albedo retrievals can provide a significant reduction in the sampling time required for a robust and comprehensive surface albedo retrieval, without a major degradation in retrieval accuracy, as compared to state-of-the-art single-sensor retrievals.
+We evaluated the multisensor retrievals against reference in situ albedo measurements and compare them with existing datasets.
+The results show that global land surface albedo retrievals with a sampling period of 10 days can offer near-complete spatial coverage, with a retrieval bias mostly comparable to existing single sensor datasets, except for bright surfaces (deserts and snow) where the retrieval framework shows degraded performance because of atmospheric correction design compromises.
+A level difference is found between the single sensor datasets and the demonstrator developed here, pointing towards a need for further work in the atmospheric correction, particularly over bright surfaces, and inter-sensor radiance homogenization.
+The introduced framework is expandable to include other sensors in the future.

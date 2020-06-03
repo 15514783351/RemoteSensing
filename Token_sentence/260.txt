@@ -1,0 +1,7 @@
+Climate and land use/cover change are among the most pervasive issues facing the Southeastern United States, including the Savannah River basin in South Carolina and Georgia.
+Land use directly affects the natural environment across the Savannah River basin and it is important to analyze these impacts.
+The objectives of this study are to: 1) determine the classes and the distribution of land cover in the Savannah River basin; 2) identify the spatial and the temporal change of the land cover that occurs as a consequence of land use change in the area; and 3) discuss the potential effects of land use change in the Savannah River basin.
+The land cover maps were produced using random forest supervised classification at four time periods for a total of thirteen common land cover classes with overall accuracy assessments of 79.18% (1999), 79.41% (2005), 76.04% (2009), and 76.11% (2015).
+The major land use change observed was due to the deforestation and reforestation of forest areas during the entire study period.
+The change detection results using the normalized difference vegetation index (NDVI) indicated that the proportion areas of the deforestation were 5.93% (1999-2005), 4.63% (2005-2009), and 3.76% (2009-2015), while the proportion areas of the reforestation were 1.57% (1999-2005), 0.44% (2005-2009), and 1.53% (2009-2015).
+These results not only indicate land use change, but also demonstrate the advantage of utilizing Google Earth Engine and the public archive database in its platform to track and monitor this change over time.

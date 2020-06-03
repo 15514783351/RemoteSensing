@@ -1,0 +1,14 @@
+Information about changes in the population sizes of wild animals is extremely important for conservation and management.
+Wild animal populations have been estimated using statistical methods, but it is difficult to apply such methods to large areas.
+To address this problem, we have developed several support systems for the automated detection of wild animals in remote sensing images.
+In this study, we applied one of the developed algorithms, the computer-aided detection of moving wild animals (DWA) algorithm, to thermal remote sensing images.
+We also performed several analyses to confirm that the DWA algorithm is useful for thermal images and to clarify the optimal conditions for obtaining thermal images (during predawn hours and on overcast days).
+We developed a method based on the algorithm to extract moving wild animals from thermal remote sensing images.
+Then, accuracy was evaluated by applying the method to airborne thermal images in a wide area.
+We found that the producer's accuracy of the method was approximately 77.3% and the user's accuracy of the method was approximately 29.3%.
+This means that the proposed method can reduce the person-hours required to survey moving wild animals from large numbers of thermal remote sensing images.
+Furthermore, we confirmed the extracted sika deer candidates in a pair of images and found 24 moving objects that were not identified by visual inspection by an expert.
+Therefore, the proposed method can also reduce oversight when identifying moving wild animals.
+The detection accuracy is expected to increase by setting suitable observation conditions for surveying moving wild animals.
+Accordingly, we also discuss the required observation conditions.
+The discussions about the required observation conditions would be extremely useful for people monitoring animal population changes using thermal remote sensing images.

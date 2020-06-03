@@ -1,0 +1,9 @@
+Rangelands are critical working landscapes and are the focus of considerable conservation planning efforts globally.
+A key conservation challenge in these landscapes is that high interannual variability in both climatic conditions and land use greatly limits the utility of outdated or static vegetation maps for management decision-making.
+One potential solution to this problem lies in remote sensing-derived information; however, prospective users must have continuous and timely access to vegetation products tailored to their needs.
+Google Earth Engine (GEE) can overcome the many storage, processing, and visualization barriers associated with creating ready-to-use remote sensing products for the public.
+While GEE provides a platform for building tools to analyze data and share results with users in near real-time for adaptive management, monitoring products need to (1) provide accurate and stable estimates over time and (2) align with management goals and the ecology of the rangeland system in question.
+Here, we assess estimates of vegetation cover and above-ground biomass at two dominant phenological time periods (summer/green and fall/brown), as modeled from the Landsat 7 and Landsat 8 Climatic Data Record (CDR) product.
+Using a best-subset regression modeling approach, we modeled vegetation cover and biomass, finding that the best predictors vary by season, corresponding to vegetation phenology.
+We also found that sensor-specific models decreased the relative differences between mapped cover and biomass estimates when comparing Landsat 7 and Landsat 8 scenes one day apart in the summer and fall.
+Ultimately, we developed an automated model selection process driven by sensor and vegetation greenness that can run in GEE to monitor and analyze vegetation amounts across the grazing season for adaptive management.

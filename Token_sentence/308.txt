@@ -1,0 +1,9 @@
+In recent decades, road extraction from very high-resolution (VHR) remote sensing images has become popular and has attracted extensive research efforts.
+However, the very high spatial resolution, complex urban structure, and contextual background effect of road images complicate the process of road extraction.
+For example, shadows, vehicles, or other objects may occlude a road located in a developed urban area.
+To address the problem of occlusion, this study proposes a semiautomatic approach for road extraction from VHR remote sensing images.
+First, guided image filtering is employed to reduce the negative effects of nonroad pixels while preserving edge smoothness.
+Then, an edge-constraint-based weighted fusion model is adopted to trace and refine the road centerline.
+An edge-constraint fast marching method, which sequentially links discrete seed points, is presented to maintain road-point connectivity.
+Six experiments with eight VHR remote sensing images (spatial resolution of 0.3 m/pixel to 2 m/pixel) are conducted to evaluate the efficiency and robustness of the proposed approach.
+Compared with state-of-the-art methods, the proposed approach presents superior extraction quality, time consumption, and seed-point requirements.

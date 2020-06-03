@@ -1,0 +1,8 @@
+Convolutional neural networks (CNNs) have been increasingly used in remote sensing scene classification/recognition.
+The conventional CNNs are sensitive to the rotation of the image scene, which will inevitably result in the misclassification of remote sensing scene images that belong to the same category.
+In this work, we equip the networks with a new pooling strategy, concentric circle pooling, to alleviate the above problem.
+The new network structure, called CCP-net can generate a concentric circle-based spatial-rotation-invariant representation of an image, hence improving the classification accuracy.
+The square kernel is adopted to approximate the circle kernels in concentric circle pooling, which is much more efficient and suitable for CNNs to propagate gradients.
+We implement the training of the proposed network structure with standard back-propagation, thus CCP-net is an end-to-end trainable CNNs.
+With these advantages, CCP-net should in general improve CNN-based remote sensing scene classification methods.
+Experiments using two publicly available remote sensing scene datasets demonstrate that using CCP-net can achieve competitive classification results compared with the state-of-art methods.

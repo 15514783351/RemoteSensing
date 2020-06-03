@@ -1,0 +1,10 @@
+This study focuses on tracing the error sources of the latest global satellite mapping of precipitation for global precipitation measurement (GPM-GSMaP) over the Tibetan Plateau by the corresponding satellite information flag provided by the retrieval system.
+We investigated the characteristics of GPM-GSMaP estimates from 11 passive microwave sensors (including 7 imagers and 4 sounders) and 1 geo-infrared data source integrating the morphing technique (i.e., morph).
+Assessment results show that imagers are generally superior to sounders and morph.
+Among the seven types of imagers, the Tropical Rainfall Measuring Mission Microwave Imager, which rarely underestimates heavy rain events, exhibits the best performance with total bias of -8.8%.
+In contrast, the worst performance is found in the special sensor microwave imager/sounder on defense meteorological satellite program (DMSP)-F19 with the largest bias of approximately 39.8%.
+The GPM Microwave Imager shows acceptable accuracy in detecting heavy rain, but it tends to overestimate light and moderate rain.
+Compared to the imagers, all the sounders produced larger biases (>120%), although they show lower probability of missing rainfall events.
+Particularly, the AMSU-A/MHS(i.e., Advanced Microwave Sounding Unit-A; Microwave Humidity Sounder) on national oceanic and atmospheric administration (NOAA) satellites (i.e., NOAA-18 and -19) display higher biases than those on meteorological operational satellite (MetOp) satellites (i.e., MetOp-A and -B), with dramatic overestimation up to 168.4%.
+Additionally, the error components of morph show a similar pattern to those of sounders, except for substantial underestimation of heavy rain events.
+The approach of tracing error reported here can enable both GPM-GSMaP users and developers to better understand the error sources of precipitation retrievals.

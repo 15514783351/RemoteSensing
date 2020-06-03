@@ -1,0 +1,12 @@
+A detailed and state-of-the-art landslide inventory map including precise landslide location is greatly required for landslide susceptibility, hazard, and risk assessments.
+Traditional techniques employed for landslide detection in tropical regions include field surveys, synthetic aperture radar techniques, and optical remote sensing.
+However, these techniques are time consuming and costly.
+Furthermore, complications arise for the generation of accurate landslide location maps in these regions due to dense vegetation in tropical forests.
+Given its ability to penetrate vegetation cover, high-resolution airborne light detection and ranging (LiDAR) is typically employed to generate accurate landslide maps.
+The object-based technique generally consists of many homogeneous pixels grouped together in a meaningful way through image segmentation.
+In this paper, in order to address the limitations of this approach, the final decision is executed using Dempster-Shafer theory (DST) rule combination based on probabilistic output from object-based support vector machine (SVM), random forest (RF), and K-nearest neighbor (KNN) classifiers.
+Therefore, this research proposes an efficient framework by combining three object-based classifiers using the DST method.
+Consequently, an existing supervised approach (i.e., fuzzy-based segmentation parameter optimizer) was adopted to optimize multiresolution segmentation parameters such as scale, shape, and compactness.
+Subsequently, a correlation-based feature selection (CFS) algorithm was employed to select the relevant features.
+Two study sites were selected to implement the method of landslide detection and evaluation of the proposed method (subset "A" for implementation and subset "B" for the transferrable).
+The DST method performed well in detecting landslide locations in tropical regions such as Malaysia, with potential applications in other similarly vegetated regions.

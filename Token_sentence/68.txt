@@ -1,0 +1,6 @@
+The utilization of the complementary information, the color feature, and the intensity-texture feature, in hue, saturation, and intensity space is limited in the change detection of multispectral images.
+A kernel fusing the complementary information of the color feature and the intensity-texture features is proposed.
+To construct the fusion kernel, color kernel and intensity-texture kernel are constructed based on Gaussian radial basis function kernel.
+Then, the kernel cross-modal factor analysis method is used to provide transformations of the kernels and the fusion kernel is obtained by multiple kernel fusion, thus achieving the capture of the complementary information.
+In this way, the obtained fusion kernel highlights the changed areas and its boundary using the color features, and meanwhile provides texture-intensity change information.
+Experiments on real multispectral images demonstrate the effectiveness of the fusion kernel, and illustrate that it can get smoother homogeneous areas, obtain more accurate edge locations, and provide strong noise immunity for multispectral image change detection.

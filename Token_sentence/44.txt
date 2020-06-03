@@ -1,0 +1,10 @@
+High spatial resolution hyperspectral imagery has shown considerable potential for deriving accurate land cover maps in urban areas.
+In this paper, a new classification framework for mapping land cover in urban environments using high spatial resolution hyperspectral data was proposed.
+The proposed classification scheme was applied to map urban land cover using APEX data in the city of Baden, Switzerland.
+We first used the NDWI and NDVI indices to separate the land cover in the scene into three main classes: water, vegetation and non-vegetated surface.
+Then we partitioned the scene into many superpixels and applied classification using a SVM separately on the vegetation and non-vegetated surfaces.
+Soil was classified both in vegetation and non-vegetated surface, and these two soil results were merged in the final classification map.
+Shadows were initially classified in shaded vegetation surfaces and shaded non-vegetated surfaces, and then they were further classified into meaningful land cover categories.
+Our experimental results demonstrate that the proposed classification framework is well suited for mapping land cover in urban environments using high resolution hyperspectral data.
+Although the proposed method performs better than traditional methods in terms of soil classification accuracy, our findings emphasize that the soil class should be interpreted with caution in urban land cover maps derived from remote sensing data, even when high spatial resolution hyperspectral data are used.
+Results from this study also demonstrate that although shaded surfaces are generally classified as a single category in urban environments, in high resolution hyperspectral data, the shadows can be further classified into meaningful land cover classes with an acceptable accuracy.

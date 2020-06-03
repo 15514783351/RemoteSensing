@@ -1,0 +1,13 @@
+Crop sowing date information is important for driving crop models and estimating crop yield.
+However, data on sowing dates are often scarce for both developed and developing countries, making remote sensing approaches to map sowing date an attractive approach.
+Yet the relative merits of different satellite sensors and metrics to estimate sowing date have not been well studied.
+We assess and compare the accuracies and uncertainties of satellite-derived sowing date estimates using different metrics (inflection point and threshold approaches) and satellite sensors that cover the range in the electromagnetic spectrum (optical, fluorescence, and radar).
+We validate these estimates using a county-level dataset derived from area-weighted field-level reported sowing dates for maize and soybean in the US states of Iowa, Illinois, and Indiana, and conduct our analysis both at the county level and at the aggregated tri-state region.
+We specifically use the Enhanced Vegetation Index (EVI) from Moderate Resolution Imaging Spectroradiometer (MODIS), solar-induced fluorescence (SIF) from Global Ozone Monitoring Experiment-2 (GOME-2) and Ku-band backscattering from QuikSCAT (dB).
+We also compare the inflection point method and the threshold approach that defines sowing date as a specific threshold value (10%, 30% and 50%) between the minimum and maximum value in a logistic-curve smoothed phonology.
+We find that satellite-based estimate of sowing dates from all methods and sensors shows a wide range of predictive power at the county level, with R-2 ranging between 0.15 and 0.90, with significant variation across sensors.
+SIF has excellent prediction for more counties than the other sensors, but EVI performs more consistently with moderate to good prediction for the greatest bulk of counties among all sensors, while dB's predicted sowing dates are negatively correlated with observed dates for most counties.
+For each sensor, aggregation to the regional level produces time series of predicted sowing dates that more successfully capture linear time trends and inter-annual variability.
+Adjusting for spring temperatures and crop areal coverage significantly improves the accuracies of the estimated sowing dates at both the county and regional scales.
+Among the combinations of the three satellite products and four metrics, we find using SIF and/or EVI and the 30% threshold metric have the highest accuracies in terms of reproducing inter-annual variability and minimizing RMSE at regional scales.
+This study provides a systematic assessment of using different satellite sensors and metrics to estimate county- to regional scale crop sowing dates, which has important implications for mapping sowing date in data-limited regions across the globe.

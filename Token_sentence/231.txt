@@ -1,0 +1,7 @@
+Due to the inevitable existence of clouds and their shadows in optical remote sensing images, certain ground-cover information is degraded or even appears to be missing, which limits analysis and utilization.
+Thus, cloud removal is of great importance to facilitate downstream applications.
+Motivated by the sparse representation techniques which have obtained a stunning performance in a variety of applications, including target detection, anomaly detection, and so on; we propose a two-pass robust principal component analysis (RPCA) framework for cloud removal in the satellite image sequence.
+First, a plain RPCA is applied for initial cloud region detection, followed by a straight-forward morphological operation to ensure that the cloud region is completely detected.
+Subsequently, a discriminative RPCA algorithm is proposed to assign aggressive penalizing weights to the detected cloud pixels to facilitate cloud removal and scene restoration.
+Significantly superior to currently available methods, neither a cloud-free reference image nor a specific algorithm of cloud detection is required in our method.
+Experiments on both simulated and real images yield visually plausible and numerically verified results, demonstrating the effectiveness of our method.

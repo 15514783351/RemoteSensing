@@ -1,0 +1,10 @@
+Monitoring and measuring the conditions of the earth surface play important role in the domain of global change research.
+In this direction, various methodologies exist for land cover classification of remote sensing images.
+Neural network (NN) is one such system that has the ability to classify land cover of remote sensing images, but most often its accuracy deteriorates with the level of uncertainty.
+Granular NN (GNN), that incorporates information granulation operation to NN, is one of the solutions to address this issue.
+However, complexity of the remote sensing dataset demands for a GNN with changeable granular structure (shape and size of granules) based on the requirement.
+In this study, our objective is to develop a GNN with adaptive granular structure for the classification of remote sensing images.
+An architecture of this adaptive GNN (AGNN) evolves according to the information present in the incoming labeled pixels.
+As a result, the AGNN improves the classification performance compared to other similar models.
+Performance of the model has been tested with hyperspectral and multispectral remote sensing images.
+Superiority of the proposed model to other similar methods has been verified with performance measurement metrics, such as overall accuracy, users accuracy, producers accuracy, dispersion score, and kappa coefficient.

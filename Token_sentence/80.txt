@@ -1,0 +1,11 @@
+Phenological events of tree leaves from initiation to senescence is generally influenced by temperature and water availability.
+Detection of newly grown leaves (NGL) is useful in the diagnosis of growth of trees, tree stress and even climatic change.
+Utilizing very high resolution UAV images, this paper examines the feasibility of NGL detection using hyperspectral detection algorithms and anomaly detectors.
+The issues of pixel resolution and hard decision thresholding in deriving accurate NGL maps are also explored.
+Results showed that the blind-detection algorithms RXDs are not suitable for NGL detection due to the spectra similarity between NGL and both mature leaves and grass, while brighter pixels, such as those produced by soil and concrete materials, are more easily recognized as anomaly in contrast to forest.
+Matching filter (MF) based detectors are, however, able to accurately detect NGL over forest stands and are even more effective in the sense of achieving satisfactory true positives and true negatives while providing minimal false alarms.
+Of the tested partial knowledge MF algorithms, the covariance matched filter based distance (KMFD) detector performed very well with overall accuracy (OA) 0.97 and kappa coefficient ((k) over cap) 0.60 on a natural resolution of 6.75 cm image.
+When a variety of mature-leaf nonobjective targets are included in the detection, the orthogonal subspace projector (OSP) tends to suppress NGL pixels as an unwanted signature and this leads to poor detection.
+Conversely, the target constrained interference minimized filter (TCIMF) detector is still able to effectively detect NGL with a satisfactory OA and (k) over cap through effective matching filter of the target signature as the hard-decision threshold is subject to a level of 5% or 1% probability of false alarms.
+From decimeter resolution satellite images, the KMFD and TCIMF detectors are capable of achieving an accuracy of OA = 0.94 and (k ) over cap= 0.56 or OA = 0.87 and (k) over cap= 0.48 for images with a resolution of 33.75 cm or 67.50 cm respectively.
+This indicates that hyperspectral target detection techniques have great potential in NGL detection via high spatial resolution satellite multispectral images.

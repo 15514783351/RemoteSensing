@@ -1,0 +1,7 @@
+The history of the development of works on the creation of the elemental base of adaptive optics for a solar Russian telescope is briefly described.
+We consider separate issues of the development of the wavefront sensor (WFS) based on the Shack-Hartmann correlation sensor to provide measurements under conditions of strong turbulence.
+The parameters of the WFS are calculated on the basis of long-term observations of meteorological characteristics and optical measurements of the Fried parameter.
+A special adjusting device with a block of fast rasters changing is developed.
+The use of rasters of various dimensions is provided in the WFS.
+The sensor uses the original algorithm for determining the maximum of the correlation function.
+The effect on the accuracy of measuring the phase distortions of turbulence occurring in the rooms of the telescope itself is analyzed.

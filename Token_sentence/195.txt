@@ -1,0 +1,14 @@
+Quantifying emissions from crop residue burning is crucial as it is a significant source of air pollution.
+In this study, we first compared the fire products from two different sensors, the Visible Infrared Imaging Radiometer Suite (VIIRS) 375 m active fire product (VNP14IMG) and Moderate Resolution Imaging Spectroradiometer (MODIS) 1 km fire product (MCD14ML) in an agricultural landscape, Punjab, India.
+We then performed an intercomparison of three different approaches for estimating total particulate matter (TPM) emissions which includes the fire radiative power (FRP) based approach using VIIRS and MODIS data, the Global Fire Emissions Database (GFED) burnt area emissions and a bottom-up emissions approach involving agricultural census data.
+Results revealed that VIIRS detected fires were higher by a factor of 4.8 compared to MODIS Aqua and Terra sensors.
+Further, VIIRS detected fires were higher by a factor of 6.5 than Aqua.
+The mean monthly MODIS Aqua FRP was found to be higher than the VIIRS FRP; however, the sum of FRP from VIIRS was higher than MODIS data due to the large number of fires detected by the VIIRS.
+Besides, the VIIRS sum of FRP was 2.5 times more than the MODIS sum of FRP.
+MODIS and VIIRS monthly FRP data were found to be strongly correlated (r(2) = 0.98).
+The bottom-up approach suggested TPM emissions in the range of 88.19-91.19 Gg compared to 42.0-61.71 Gg, 42.59-58.75 Gg and 93.98-111.72 Gg using the GFED, MODIS FRP, and VIIRS FRP based approaches, respectively.
+Of the different approaches, VIIRS FRP TPM emissions were highest.
+Since VIIRS data are only available since 2012 compared to MODIS Aqua data which have been available since May 2002, a prediction model combining MODIS and VIIRS FRP was derived to obtain potential TPM emissions from 2003-2016.
+The results suggested a range of 2.56-63.66 (Gg) TPM emissions per month, with the highest crop residue emissions during November of each year.
+Our results on TPM emissions for seasonality matched the ground-based data from the literature.
+As a mitigation option, stringent policy measures are recommended to curtail agricultural residue burning in the study area.

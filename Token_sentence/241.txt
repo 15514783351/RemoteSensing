@@ -1,0 +1,11 @@
+Vegetation in river floodplains has important functions for biodiversity, but can also have a negative influence on flood safety.
+Floodplain vegetation is becoming increasingly heterogeneous in space and time as a result of river restoration projects.
+To document the spatio-temporal patterns of the floodplain vegetation, the need arises for efficient monitoring techniques.
+Monitoring is commonly performed by mapping floodplains based on single-epoch remote sensing data, thereby not considering seasonal dynamics of vegetation.
+The rising availability of unmanned airborne vehicles (UAV) increases monitoring frequency potential.
+Therefore, we aimed to evaluate the performance of multi-temporal high spatial-resolution imagery, collected with a UAV, to record the dynamics in floodplain vegetation height and greenness over a growing season.
+Since the classification accuracy of current airborne surveys remains insufficient for low vegetation types, we focussed on seasonal variation of herbaceous and grassy vegetation with a height up to 3 m.
+Field reference data on vegetation height were collected six times during one year in 28 field plots within a single floodplain along the Waal River, the main distributary of the Rhine River in the Netherlands.
+Simultaneously with each field survey, we recorded UAV true colour and false-colour imagery from which normalized digital surface models (nDSMs) and a consumer-grade camera vegetation index (CGCVI) were calculated.
+We observed that: (1) the accuracy of a UAV-derived digital terrain model (DTM) varies over the growing season and is most accurate during winter when the vegetation is dormant, (2) vegetation height can be determined from the nDSMs in leaf on conditions via linear regression (RSME = 0.17-0.33 m), (3) the multitemporal nDSMs yielded meaningful temporal profiles of greenness and vegetation height and (4) herbaceous vegetation shows hysteresis for greenness and vegetation height, but no clear hysteresis was observed for grassland vegetation.
+These results show the high potential of using UAV-borne sensors for increasing the classification accuracy of low floodplain vegetation within the framework of floodplain monitoring.

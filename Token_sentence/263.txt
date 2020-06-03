@@ -1,0 +1,8 @@
+In dryland systems, the flood pulse is the driving force in system dynamics but is highly variable in flow volume and landscape inundation features.
+Remote sensing can provide critical information fundamental to evaluating and forecasting flow behavior and population vulnerability; however, training and classifying an extensive time series of images is labor intensive, limiting the usefulness of these approaches in evaluating flood pulse dynamics and landscape interactions.
+Here, we provide an alternative approach that relies on only one set of "pooled" training samples for time series image classification and analysis.
+We test this approach by mapping the flood pulse in a time series of moderate resolution imaging spectroradiometer (MODIS) images from the Chobe River Basin of Botswana for the years 2014 to 2016.
+MODIS MOD09A1 images collected during the flooding season (February to July) were converted to Kauth-Thomas components, then sampled to form a training pool.
+Images were then classified using these pooled training samples.
+Results indicated that classification accuracies obtained using pooled training were statistically indistinguishable from classifications obtained from conventional training.
+Application of the method to another year's data (2013) also yielded comparably accurate results, suggesting that the training pool method remains robust when applied to image data other than that used to create the training pool.

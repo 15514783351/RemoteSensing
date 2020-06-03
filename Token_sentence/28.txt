@@ -1,0 +1,5 @@
+Accurate land cover classification and detection of objects in high-resolution electro-optical remote sensing imagery (RSI) have long been a challenging task.
+Recently, important new benchmark data sets have been released which are suitable for land cover classification and object detection research.
+Here, we present state-of-the-art results for four benchmark data sets using a variety of deep convolutional neural networks (DCNN) and multiple network fusion techniques.
+We achieve 99.70%, 99.66%, 97.74%, and 97.30% classification accuracies on the PatternNet, RSI-CB256, aerial image, and RESISC-45 data sets, respectively, using the Choquet integral with a novel data-driven optimization method presented in this letter.
+The relative reduction in classification errors achieved by this data driven optimization is 25%-45% compared with the single best DCNN results.

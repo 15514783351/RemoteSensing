@@ -1,0 +1,15 @@
+Aerosols can absorb and scatter surface solar radiation (SSR), which is called the aerosol radiative forcing effect (ARF).
+Great efforts have been made for the estimation of the aerosol optical depth (AOD), SSR and ARF using meteorological measurements and satellite observations.
+However, the accuracy, and spatial and temporal resolutions of these existing AOD, SSR and ARF models should be improved to meet the application requirements, due to the uncertainties and gaps of input parameters.
+In this study, an optimized back propagation (BP) artificial neural network (Genetic_BP) was developed for improving the estimation of the AOD values.
+The retrieved AOD values using the Genetic_BP model and meteorological measurements at China Meteorological Administration (CMA) stations were used to calculate SSR and bottom of the atmosphere (BOA) ARF (ARFB) using Yang's Hybrid model (YHM).
+The result show that the Genetic_BP could be used for estimating AOD values with high accuracy (R = 0.866 for CASNET (China Aerosol Remote Sensing Network) stations and R = 0.865 for AERONET (Aerosol Robotic Network) stations).
+The estimated SSR also showed a good agreement with SSR measurements at 96 CMA radiation stations, with RMSE, MAE, R and R-2 of 29.27%, 23.77%, 0.948, and 0.899, respectively.
+The estimated ARFB values are also highly correlated with the AERONET ARFB ones with RMSE, MAE, R and R-2 of -35.47%, -25.33%, 0.843, and 0.711, respectively.
+Finally, the spatial and temporal variations of AOD, SSR, and ARFB values over Mainland China were investigated.
+Both AOD and SSR values are generally higher in summer than in other seasons.
+The ARFB are generally stronger in spring and summer than in other seasons.
+The ranges for the monthly mean AOD, SSR and ARFB values over Mainland China are 0.183-0.333, 10.218-24.196 MJ m(-2) day(-1) and -2.986 to -1.244 MJ m(-2) day(-1), respectively.
+The Qinghai-Tibetan Plateau has always been an area with the highest SSR, the lowest AOD and the weakest ARFB.
+In contrast, the Sichuan Basin has always been an area with low SSR, high AOD, and strong ARFB.
+The newly proposed AOD model may be of vital importance for improving the accuracy and computational efficiency of AOD, SSR and ARFB estimations for solar energy applications, ecological modeling, and energy policy.

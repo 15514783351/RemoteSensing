@@ -1,0 +1,12 @@
+Convolutional neural network (CNN) models achieve state-of-the-art performance for natural image semantic segmentation.
+An approach for extracting vegetation from Gaofen-2 (GF-2) remote sensing imagery based on the CNN model is presented.
+We constructed a convolutional encoder neural networks (CENN) consisting of two layers.
+The first layer has two sets of convolutional kernels for extracting the features of farmland and woodland, respectively.
+The second layer consists of two encoders that use nonlinear functions to encode the learned features and map the encoding results to the corresponding category number.
+In the training stage, samples of farmland, woodland, and other lands are categorically used to train the CENN.
+After training is accomplished, the CENN would acquire enough ability to accurately extract farmland and woodland from GF-2 imagery.
+The CENN was trained on 36 GF-2 images and tested on three other GF-2 images.
+We compared the proposed method to a deep belief network, a fully convolutional network, and a DeepLab model using the same images.
+The experiments demonstrate that the proposed approach improves upon the accuracy of existing approaches.
+The average precision, recall, and kappa coefficient of the proposed approach were 0.91, 0.87, and 0.86, respectively.
+Thus, the proposed approach is proven to effectively extract vegetation from GF-2 imagery.

@@ -1,0 +1,9 @@
+Global-scale surface soil moisture products are currently available from multiple remote sensing platforms.
+Footprint-scale assessments of these products are generally restricted to limited number of densely-instrumented validation sites.
+However, by taking active and passive soil moisture products together with a third independent soil moisture estimates via land surface modeling, triple collocation (TC) can be applied to estimate the correlation metric of satellite soil moisture products (versus an unknown ground truth) over a quasi-global domain.
+Here, an assessment of Soil Moisture Active Passive (SMAP), Soil Moisture Ocean Salinity (SMOS) and Advanced SCATterometer (ASCAT) surface soil moisture retrievals via TC is presented.
+Considering the potential violation of TC error assumptions, the impact of active-passive and satellite-model error cross correlations on the TC-derived inter-comparison results is examined at in situ sites using quadruple collocation analysis.
+In addition, confidence intervals for the TC-estimated correlation metric are constructed from moving-block bootstrap sampling designed to preserve the temporal persistence of the original (unevenly-sampled) soil moisture time series.
+This study is the first to apply TC to obtain a robust global-scale cross-assessment of SMAP, SMOS and ASCAT soil moisture retrieval accuracy in terms of anomaly temporal correlation.
+Our results confirm the overall advantage of SMAP ((with a global average anomaly correlation of 0.76)) over SMOS ((0.66)) and ASCAT ((0.63)) that has been established in several recent regional, ground-based studies.
+SMAP is also the best-performing product over the majority of applicable land pixels (52%), although SMOS and ASCAT each shows advantage in distinct geographic regions.

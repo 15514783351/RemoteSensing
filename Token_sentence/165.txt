@@ -1,0 +1,9 @@
+The velocity of ice flow in the Antarctic is a crucial factor to determine ice discharge and thus future sea level rise.
+Feature tracking has been widely used in optical and radar imagery with fine resolution to retrieve flow parameters, although the primitive result may be contaminated by noise.
+In this paper, we present a series of modified post-processing steps, such as SNR thresholding by residual, complex Butterworth filters, and triple standard deviation truncation, to improve the performance of primitive results, and apply it to MODIS-based Mosaic of Antarctica (MOA) datasets.
+The final velocity field result displays the general flow pattern of the peripheral Antarctic.
+Seventy-eight out of 97 streamlines starting from seed points are smooth and continuous.
+The RMSE with 178 manually selected tie points is within 60 m.a(-1).
+The systematic comparison with Making Earth System Data Records for Use in Research Environments (MEaSUREs) datasets in seven drainages shows that the results regarding high magnitude and large-scale ice shelf are highly reliable; absolute mean and median difference are less than 18 m.a(-1), while the result of localized drainage suffered from too much tracking error.
+The relative differences from manually selected and random points are controlled within 8% when speed is beyond 500 m.a(-1), but bias and uncertainty are pronounced when speed is lower than that.
+The result through our accuracy control strategy highlights that coarse remote-sensed images such as Moderate Resolution Imaging Spectrophotometer (MODIS) can still offer the capability for comprehensive and long-term continental ice sheet surface velocity mapping.

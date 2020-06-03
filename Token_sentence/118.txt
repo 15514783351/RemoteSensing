@@ -1,0 +1,13 @@
+Leaf area index (LAI) is an important forest structural parameter that can be used to characterize various biophysical processes such as photosynthesis, evapotranspiration, and carbon flux.
+Accurate monitoring of LAI therefore is crucial for efficient management of managed and natural vegetation ecosystems.
+Remote sensing techniques have proved useful in the quantification and monitoring of LAI in different vegetation types; however, most of the focus has been on vegetation with relatively large LAI ranges.
+This study aimed to investigate the utility of airborne light detection and ranging (lidar) data to estimate narrow-range LAI (min = 0.71, max = 1.56, mean = 1.08 +/- 0.18) of intensively-managed Eucalyptus grandis plantations.
+The secondary aim of the study was to assess the effect of lidar point density on LAI retrieval.
+Reference LAI was quantified in 15 m radius sample plots (n = 46) using hemispherical photography.
+Akaike Information Criterion (AIC) regression was used to build candidate models that estimate LAI from lidar-derived height and density metrics.
+The correlations were investigated at different point densities, including the original (> 6 points/m(2)) and reduced density levels (0.25-5 points/m(2)).
+Candidate models returned adjusted coefficient of determination ((adj, R-2)) ranging between 0.65-0.83 (RMSE 7.0-10.0% of observed mean) depending on the number of predicting metrics included in the models.
+A model that had two non-collinear metrics was selected as a compromise model ((adj, R-2) = 0.67; RMSE = 9.7%); this model was comparable to the best model, which had many collinear metrics.
+Estimation accuracies were similar for lidar densities of the original, 2-5 points/m(2) and less accurate for 0.25-1 point/m(2).
+These findings demonstrated the capability of lidar in estimating observed LAI with low range and variation.
+The study also suggests the efficacy of moderate lidar point densities acquired at relatively low-cost surveys in attaining acceptable LAI estimation accuracy.

@@ -1,0 +1,10 @@
+Characterizing offshore areas for marine conservation faces impediment from logistics and costs of in situ data collection.
+This study leveraged the high spatial and temporal coverage provided by remote-sensing ocean colour products, and the concept of biogeographical classification to delineate areas in the pelagic environment with application to marine conservation.
+Satellite-derived and modelled biogeophysical data were used to delineate an area of biological and physical homogeneity spatially consistent with the static boundaries of the Scotian Slope Ecologically and Biologically Significant Area (EBSA), off eastern Canada.
+We used iterative cluster analysis applied to an archive (2004-2014) that consisted of remotely-sensed Chlorophyll a, sea-surface temperature, and primary production derived from the Moderate resolution Imaging Spectroradiometer (MODIS), and simulated mixed layer depth to define "dynamic" boundaries of the EBSA at bi-weekly, seasonal and annual resolutions.
+The final cluster extended further east than the static EBSA in summer and fall, indicating that characteristics of the static EBSA environment persist beyond the current boundaries in these seasons.
+In winter and spring, the final areas derived by our analysis was smaller than the static EBSA, but again showed extension beyond the current eastern boundary.
+Both ice and cloud cover affecting remotely-sensed data and the extent of water column mixing were important in determining the size of the final cluster.
+The dynamic cluster east of the original static boundary incorporated an area of lower Chlorophyll a and water column primary production in the spring, but higher values in the autumn relative to the static area.
+Overall physical and biological characteristics of the static and dynamic EBSA considered in this research were similar within and across years.
+This methodology incorporates ocean-colour data and modelled estimates of multiple biological and physical characteristics to objectively refine areas of ecological interest at a spatial scale relevant for the management of marine conservation areas.

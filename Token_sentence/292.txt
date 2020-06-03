@@ -1,0 +1,11 @@
+The empirical line (EL) calibration method is commonly used for atmospheric correction of remotely sensed spectral images and recovery of surface reflectance.
+The current EL-based methods are applicable to calibrate only single images.
+Therefore, the use of the EL calibration is impractical for imaging campaigns, where many (partially overlapped) images are acquired to cover a large area.
+In addition, the EL results are unconstrained and an undesired reflectance with negative values or larger than 100% can be obtained.
+In this paper, we use the standard EL model to formulate a new generalized empirical line (GEL) model.
+Based on the GEL, we present a novel method for simultaneous and constrained calibration of multiple images.
+This new method allows for calibration through multiple image constrained empirical line (MIcEL) and three additional calibration modes.
+Given a set of images, we use the available ground targets and automatically extracted tie points between overlapping images to calibrate all the images in the set simultaneously.
+Quantitative and visual assessments of the proposed method were carried out relatively to the off-the-shelf method quick atmospheric correction (QUAC), using real hyperspectral images and field measurements.
+The results clearly show the superiority of MIcEL with respect to the minimization of the difference between the reflectance values of the same object in different overlapping images.
+An assessment of the absolute accuracy, with respect to 11 field measurement points, shows that the accuracy of MIcEL, with an average mean absolute error (MAE) of similar to 11%, is comparable with respect to the QUAC.

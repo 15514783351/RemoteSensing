@@ -1,0 +1,17 @@
+The nearshore coastal ocean is one of the most dynamic and biologically productive regions on our planet, supporting a wide range of ecosystem services.
+It is also one of the most vulnerable regions, increasingly exposed to anthropogenic pressure.
+In the context of climate change, monitoring changes in nearshore coastal waters requires systematic and sustained observations of key essential climate variables (ECV), one of which is sea surface temperature (SST).
+As temperature influences physical, chemical and biological processes within coastal systems, accurate monitoring is crucial for detecting change.
+SST is an ECV that can be measured systematically from satellites.
+Yet, owing to a lack of adequate in situ data, the accuracy and precision of satellite SST at the coastline are not well known.
+In a prior study, we attempted to address this by taking advantage of in situ SST measurements collected by a group of surfers.
+Here, we make use of a three year time-series (2014-2017) of in situ water temperature measurements collected using a temperature logger (recording every 30 min) deployed within a kelp forest (approximate to 3 m below chart datum) at a subtidal rocky reef site near Plymouth, UK.
+We compared the temperature measurements with three other independent in situ SST datasets in the region, from two autonomous buoys located approximate to 7 km and approximate to 33 km from the coastline, and from a group of surfers at two beaches near the kelp site.
+The three datasets showed good agreement, with discrepancies consistent with the spatial separation of the sites.
+The in situ SST measurements collected from the kelp site and the two autonomous buoys were matched with operational Advanced Very High Resolution Radiometer (AVHRR) EO SST passes, all within 1 h of the in situ data.
+By extracting data from the closest satellite pixel to the three sites, we observed a significant reduction in the performance of AVHRR at retrieving SST at the coastline, with root mean square differences at the kelp site over twice that observed at the two offshore buoys.
+Comparing the in situ water temperature data with pixels surrounding the kelp site revealed the performance of the satellite data improves when moving two to three pixels offshore and that this improvement was better when using an SST algorithm that treats each pixel independently in the retrieval process.
+At the three sites, we related differences between satellite and in situ SST data with a suite of atmospheric variables, collected from a nearby atmospheric observatory, and a high temporal resolution land surface temperature (LST) dataset.
+We found that differences between satellite and in situ SST at the coastline (kelp site) were well correlated with LST and solar zenith angle; implying contamination of the pixel by land is the principal cause of these larger differences at the coastline, as opposed to issues with atmospheric correction.
+This contamination could be either from land directly within the pixel, potentially impacted by errors in geo-location, or possibly through thermal adjacency effects.
+Our results demonstrate the value of using benthic temperature loggers for evaluating satellite SST data in coastal regions, and highlight issues with retrievals at the coastline that may inform future improvements in operational products.

@@ -1,0 +1,13 @@
+In-situ monitoring of lake water quality in synergy with satellite remote sensing represents the latest scientific trend in many water quality monitoring programs worldwide.
+This study investigated the suitability of the Operational Land Imager (OLI) instrument onboard the Landsat 8 satellite platform in accurately estimating key water quality parameters such as chlorophyll-a and nutrient concentrations.
+As a case study the largest freshwater body of Greece (Trichonis Lake) was used.
+Two Landsat 8 images covering the study site were acquired on 30 October 2013 and 30 August 2014 respectively.
+Near concurrent in-situ observations from two water sampling campaigns were also acquired from 22 stations across the lake under study.
+In-situ measurements (nutrients and chlorophyll-a concentrations) were statistically correlated with various spectral band combinations derived from the Landsat imagery of year 2014.
+Subsequently, the most statistically promising predictive models were applied to the satellite image of 2013 and validation was conducted using in-situ data of 2013 as reference.
+Results showed a relatively variable statistical relationship between the in-situ and reflectances (R logchl-a: 0.58, R NH4+: 0.26, R chl-a: 0.44).
+Correlation coefficient (R) values reported of up to 0.7 for ammonium concentrations and also up to 0.5 and up to 0.4 for chl-a concentration and chl-a concentrations respectively.
+These results represent a higher accuracy of Landsat 8 in comparison to its predecessors in the Landsat satellites series, as evidenced in the literature.
+Our findings suggest that Landsat 8 has a promising capability in estimating water quality components in an oligotrophic freshwater body characterized by a complete absence of any quantitative, temporal and spatial variance, as is the case of Trichonis lake.
+Yet, even with the presence of a lot of ground information as was the case in our study, a quantitatively accurate estimation of water quality constituents in coastal/inland waters remains a great challenge.
+The launch of sophisticated spaceborne sensing systems, such as that of Landsat 8, can assist in improving our ability to estimate freshwater lake properties from space.

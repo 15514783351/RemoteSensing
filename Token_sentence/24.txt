@@ -1,0 +1,8 @@
+As an unsupervised learning tool, autoencoder has been widely applied in many fields.
+In this letter, we propose a new robust unmixing algorithm that is based on stacked nonnegative sparse autoencoders (NNSAEs) for hyperspectral data with outliers and low signal-to-noise ratio.
+The proposed stacked autoencoders network contains two main steps.
+In the first step, a series of NNSAE is used to detect the outliers in the data.
+In the second step, a final autoencoder is performed for unmixing to achieve the endmember signatures and abundance fractions.
+By taking advantage from nonnegative sparse autoencoding, the proposed approach can well tackle problems with outliers and low noise-signal ratio.
+The effectiveness of the proposed method is evaluated on both synthetic and real hyperspectral data.
+In comparison with other unmixing methods, the proposed approach demonstrates competitive performance.

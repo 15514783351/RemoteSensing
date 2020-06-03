@@ -1,0 +1,6 @@
+Because of the internal malfunction of satellite sensors and poor atmospheric conditions such as thick cloud, the acquired remote sensing data often suffer from missing information, i.e., the data usability is greatly reduced.
+In this paper, a novel method of missing information reconstruction in remote sensing images is proposed.
+The unified spatial-temporal-spectral framework based on a deep convolutional neural network (CNN) employs a unified deep CNN combined with spatial-temporal-spectral supplementary information.
+In addition, to address the fact that most methods can only deal with a single missing information reconstruction task, the proposed approach can solve three typical missing information reconstruction tasks: 1) dead lines in Aqua Moderate Resolution Imaging Spectroradiometer hand 6; 2) the Landsat Enhanced Thematic Mapper Plus scan line corrector-off problem; and 3) thick cloud removal.
+It should he noted that the proposed model can use multisource data (spatial, spectral, and temporal) as the input of the unified framework.
+The results of both simulated and real-data experiments demonstrate that the proposed model exhibits high effectiveness in the three missing information reconstruction tasks listed above.

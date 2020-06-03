@@ -1,0 +1,11 @@
+The Mediterranean Sea exhibits a strong basin and regional scale phytoplankton variability correlated to its semi-enclosed nature, complex orography and the variety of physical and chemical processes that regulate its productivity.
+Herein, using 17 years of ocean-color composites, we investigate differences in the regional patterns of interannual variability in satellite-derived chlorophyll (Chl), a proxy for phytoplankton biomass.
+A neural network classification, based on the Self-Organizing Maps (SOM) analysis in the time domain, is used to reveal regions of similar temporal variability of Chl in the Mediterranean Sea.
+Characteristic temporal patterns extracted by the SOM analysis show different scales of variation that can be related to already identified oceanographic features and biogeochemical variability in the Mediterranean Sea.
+Clear differences are noticed between regions located in the Western basin and Adriatic Sea, where rivers, winter mixing and winds are known to drive variations in primary production at regional scale and regions located in the Eastern basin, represented by a large and rather homogeneous region.
+Using the SOM-defined characteristic temporal patterns of Chl, we analyzed the regional influence of the North Atlantic Oscillation (NAO) and El Nino Southern Oscillation (ENSO) in the long-term (> 1 year) Chl variability.
+Our results indicate that NAO has more influence in the Chl variations occurring in regions located in the Western basin whereas ENSO exhibits higher impact on the central Mediterranean and Eastern basin during its positive phase.
+Both NAO and ENSO show non-stationary coherence with Mediterranean Chl.
+The analysis also reveals a sharp regime shift occurring in 2004-2007, when NAO changed from positive to negative values.
+This shift particularly affected the winter phytoplankton biomass and it is indicative of climate driven ecosystem-level changes in the Mediterranean Sea.
+Our results stablish a regional connection between interannual phytoplankton variability exhibited in different regions of the Mediterranean Sea and climate variations.

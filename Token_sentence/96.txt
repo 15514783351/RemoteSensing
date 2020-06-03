@@ -1,0 +1,6 @@
+This paper presents a multidisciplinary research on the thermodynamic and geophysical effects of crude oil released underneath thin sea ice, and further evaluates the ability of a combined frequency- and time-domain approach toward its detection.
+To this end, a controlled oil release experiment in an artificially grown sea ice mesocosm was performed during the winter of 2017 at the Sea-Ice Research Environmental Facility located at the University of Manitoba.
+Ice cores extracted during the evolution of the sea ice prior and post oil injection allowed the investigation of the profile's properties and the oil distribution.
+Furthermore, chemical composition and microstructure analysis were performed via a gas chromatography-time-offlight mass spectrometry and X-ray, respectively.
+The time-series radar signature of the profile was measured utilizing ground penetration radar at 500 MHz and a C-band scatterometer.
+For this experiment, it was shown that the retrieval of the oil presence underneath the young sea ice layer was feasible, provided that the measured data were utilized simultaneously in a unified cost function.

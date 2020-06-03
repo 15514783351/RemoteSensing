@@ -1,0 +1,13 @@
+In forestry studies, remote sensing has been widely used to monitor deforestation and estimate biomass, and it has contributed to forest carbon stock management.
+A major problem when estimating biomass from optical and SAR remote sensing images is the saturation effect.
+As a solution, PolInSAR offers a high coverage height map that can be transformed into a biomass map.
+Temporal decorrelation may affect the accuracy of PolInSAR and may also have an effect on the accuracy of the biomass estimates.
+In this study, we compared three different height estimation models: the Random-Volume-over-Ground (RVoG), Random-Motion-over-Ground (RMoG), and Random-Motion-over-Ground-Legendre (RMoG) models.
+The RVoG model does not take into account the temporal decorrelation, while the other two compensate for temporal decorrelation but differ in structure function.
+The comparison was done on 214 field plots of the 10 m radius of the BioSAR2010 campaign.
+Different models relating PolInSAR height and biomass were developed by using polynomial, exponential, power series, and piece-wise linear regression.
+Different strategies for training and test subset selection were followed to obtain the best possible regression models.
+The study showed that the RMoGmodel provided the most accurate biomass predictions.
+The relation between RMoGs height and biomass is well expressed by the exponential model with an average RMSE equal to 48 ton value equal to 0.62.
+The relative errors for estimated biomass were equal to 46% for the RVoG model, to 37% for the RMoG, and to 30% for the RMoG model.
+We concluded that taking the temporal decorrelation into account for estimating tree height has a significant effect on providing accurate biomass estimates.

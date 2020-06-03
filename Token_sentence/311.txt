@@ -1,0 +1,12 @@
+This work communicates the discovery of a sandy buried 10.5 km diameter near-circular structure in the eastern part of the Great Sahara in North Africa.
+Rimaal, meaning sand in Arabic, is given as the name for this structure since it is largely concealed beneath the Sahara Aeolian sand.
+Remote sensing image fusion and transformation of multispectral data (from Landsat-8) and synthetic aperture radar (from Sentinel-1 and ALOS PALSAR), of dual wavelengths (C and L-bands) and multi-polarization (HV, VV, HH, and HV), were adopted in this work.
+The optical and microwave hybrid imagery enabled the combining of surface spectral properties and subsurface roughness information for better understanding of the Rimaal structure.
+The long wavelength of the radar, in particular, enabled the penetration of desert sands and the revealing of the proposed structure.
+The structure exhibits a clear outer rim with traces of concentric faults, an annular flat basin and an inner ring surrounding remnants of a highly eroded central peak.
+Radar imagery clearly shows the interior wall of the structure is incised with radial pattern gullies that originate at or near the crater periphery, implying a much steeper rim wall in the past.
+In addition, data reveals a circumferential of a paleoriver course that flows along a curved path parallel to the crater's western margin indicating the plausible presence of a concentric ring graben related to the inferred structure.
+The defined crater boundary is coincident with a shallow semi-circular-like basin in the SRTM elevation data.
+The structure portrays considerable modifications by extensive long-term Aeolian and fluvial erosion.
+Residing in the Cretaceous Nubian Sandstone formation suggests an old age of 65 Ma for the structure.
+If proven to be of an impact origin, the Rimaal structure could help in understanding the early evolution of the landscape of the Eastern Sahara and holds promise for hosting economically valuable ore deposits and hydrocarbon resources in the region.

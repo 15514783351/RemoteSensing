@@ -1,0 +1,10 @@
+Land surface temperature (LST) is one of the most important parameters in land surface processes.
+Although satellite-derived LST can provide valuable information, the value is often limited by cloud contamination.
+In this paper, a two-step satellite-derived LST reconstruction framework is proposed.
+First, a multi-temporal reconstruction algorithm is introduced to recover invalid LST values using multiple LST images with reference to corresponding remotely sensed vegetation index.
+Then, all cloud contaminated areas are temporally filled with hypothetical clear-sky LST values.
+Second, a surface energy balance equation-based procedure is used to correct for the filled values.
+With shortwave irradiation data, the clear-sky LST is corrected to the real LST under cloudy conditions.
+A series of experiments have been performed to demonstrate the effectiveness of the developed approach.
+Quantitative evaluation results indicate that the proposed method can recover LST in different surface types with mean average errors in 3-6K.
+The experiments also indicate that the time interval between the multi-temporal LST images has a greater impact on the results than the size of the contaminated area.

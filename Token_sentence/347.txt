@@ -1,0 +1,8 @@
+Benchmark datasets are essential for developing and evaluating remote sensing image retrieval (RSIR) approaches.
+However, most of the existing datasets are single-labeled, with each image in these datasets being annotated by a single label representing the most significant semantic content of the image.
+This is sufficient for simple problems, such as distinguishing between a building and a beach, but multiple labels are required for more complex problems, such as RSIR.
+This motivated us to present a new benchmark dataset termed MLRSIR that was labeled from an existing single-labeled remote sensing archive.
+MLRSIR contained a total of 17 classes, and each image had at least one of 17 pre-defined labels.
+We evaluated the performance of RSIR methods ranging from traditional handcrafted feature-based methods to deep-learning-based ones on MLRSIR.
+More specifically, we compared the performances of RSIR methods from both single-label and multi-label perspectives.
+These results presented the advantages of multiple labels over single labels for interpreting complex remote sensing images, and serve as a baseline for future research on multi-label RSIR.

@@ -1,0 +1,8 @@
+An accurate flood detection method is essential for obtaining areas of irrigated rice fields affected by flooding.
+This paper aims to distinguish between rice fields with flooding and rice fields with agronomic inundation using MODerate resolution Imaging Spectroradiometer (MODIS) 8 day 500 m spatial resolution (MOD09A1) imageries over irrigated rice fields with complex cropping patterns in West Java.
+Over the past decade, Enhanced Vegetation Index (EVI) <= 0.1 derived from moderate resolution remote sensing imageries has been used for detecting flooding in irrigated rice fields.
+Without additional farming information, this paper argues that EVI <= 0.1 cannot estimate flood areas correctly, given the existence of both hazardous flooding and non-hazardous agronomic inundation in irrigated rice fields.
+Adding a threshold of 40-day duration representing land preparation and transplanting activities enables EVI <= 0.1 to distinguish between agronomic inundation and flooding in irrigated rice fields.
+The difference in the Start of Season (SOS) between the wet planting season 2013/2014 and long-term average (2000-2015) shows that the Overall Accuracy (OA) and F1 scores are 75.96% and 81.74%, respectively.
+The confusion matrix using the respondents' reports shows OA of 80.5% and Kappa of 60.16%.
+The quality of flood maps is partly influenced by environmental processes, human decisions, and mixed pixels.

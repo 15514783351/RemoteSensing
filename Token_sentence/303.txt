@@ -1,0 +1,7 @@
+Geospatial object detection from high spatial resolution (HSR) remote sensing imagery is a heated and challenging problem in the field of automatic image interpretation.
+Despite convolutional neural networks (CNNs) having facilitated the development in this domain, the computation efficiency under real-time application and the accurate positioning on relatively small objects in HSR images are two noticeable obstacles which have largely restricted the performance of detection methods.
+To tackle the above issues, we first introduce semantic segmentation-aware CNN features to activate the detection feature maps from the lowest level layer.
+In conjunction with this segmentation branch, another module which consists of several global activation blocks is proposed to enrich the semantic information of feature maps from higher level layers.
+Then, these two parts are integrated and deployed into the original single shot detection framework.
+Finally, we use the modified multi-scale feature maps with enriched semantics and multi-task training strategy to achieve end-to-end detection with high efficiency.
+Extensive experiments and comprehensive evaluations on a publicly available 10-class object detection dataset have demonstrated the superiority of the presented method.

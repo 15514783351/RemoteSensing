@@ -1,0 +1,9 @@
+The proximity of seagrass meadows to centers of human activity makes them vulnerable to a variety of habitat degrading insults.
+Physical scarring has long been recognized as an important but difficult-to-quantify source of habitat fragmentation and seagrass loss.
+We present a pixel-based algorithm to detect seafloor propeller seagrass scars in shallow water that promises to automate the detection and measurement of scars across the submarine landscape. (1)We applied the algorithm to multispectral and panchromatic images captured at the Deckle Beach, Florida using the WorldView-2 commercial satellite.
+The algorithm involves four steps using spectral and spatial information from radiometrically calibrated multispectral and panchromatic images.
+First, we fused multispectral and panchromatic images using a principal component analysis (PCA)-based pan-sharpening method to obtain multispectral pan-sharpened bands.
+In the second step, we enhanced the image contrast of the pan-sharpened bands for better scar detection.
+In the third step, we classified the contrast enhanced image pixels into scar and non-scar categories based on a sparse coding algorithm that produced an initial scar map in which false positive scar pixels were also present.
+In the fourth step, we applied post-processing techniques including a morphological filter and local orientation to reduce false positives.
+Our results show that the proposed method may be implemented on a regular basis to monitor changes in habitat characteristics of coastal waters.

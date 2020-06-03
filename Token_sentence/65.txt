@@ -1,0 +1,9 @@
+Approximately 1000 Canadian Hydrographic Service (CHS) charts cover Canada's oceans and navigable waters.
+Many charts use information collected with techniques that predate the more advanced technologies available to Hydrographic Offices (HOs) today.
+Furthermore, gaps in survey data, particularly in the Canadian Arctic where only 6% of waters are surveyed to modern standards, are also problematic.
+Through a Canadian Space Agency (CSA) Government Related Initiatives Program (GRIP) project, CHS is exploring remote sensing techniques to assist with the improvement of Canadian navigational charts.
+Projects exploring optical/Synthetic Aperture Radar (SAR) shoreline extraction and change detection, as well as optical Satellite-Derived Bathymetry (SDB), are currently underway.
+This paper focuses on SDB extracted from high-resolution optical imagery, highlighting current results as well as the challenges and opportunities CHS will encounter when implementing SDB within its operational chart production process.
+SDB is of particular interest to CHS due to its ability to supplement depths derived from traditional hydrographic surveys.
+This is of great importance in shallow and/or remote Canadian waters where achieving wide-area depth coverage through traditional surveys is costly, time-consuming and a safety risk to survey operators.
+With an accuracy of around 1 m, SDB could be used by CHS to fill gaps in survey data and to provide valuable information in dynamic areas.

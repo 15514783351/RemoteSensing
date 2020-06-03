@@ -1,0 +1,14 @@
+Antarctica is a region of the world where climate change is visible in the rapid melting of glaciers.
+This is particularly evident in marginal zones, where the pace of glacial retreat has systematically accelerated.
+The effective mapping of these changes is possible with the use of remote sensing methods.
+This study assesses changes in glacier margin positions between 1979 and 2018 in the Antarctic Specially Protected Area 128 (ASPA-128) on King George Island, South Shetland Islands, Antarctica.
+In 1979, 19.8 km(2) of the study area was glaciated.
+Over the following 39 years, an area of 6.1 km(2) became ice-free, impacting local ecosystems both on land and in Admiralty Bay.
+The reduction in glacier extent was different in time and depended on the glacier type.
+Land-terminating glaciers had the fastest retreat rates below 200 m a.s.l. and were influenced mostly by surface melting.
+The reduction of tidewater glaciers occurred primarily in areas below 100 m a.s.l., with the most pronounced ice extent decreases occurring below 50 m a.s.l.
+The observed rates of front retreat suggest that glacier retreat rates were fastest between 1989-2001 and 2007-2011, with reduced retreat rates between 2001 and 2007.
+During the last 7 years, the lowest rate of regression was recorded in the entire analysed period (1979-2018).
+Changes in the areal extent of glaciers were compared with the climate record available for King George Island.
+The observed fluctuations in glacier retreat rates could be correlated to oscillations in annual Positive Degree-Days.
+The spatial analyses were based on aerial photographs (1956, 1979), theodolite measurements (1989), GPS survey (2001, 2007), and satellite images (2011, 2018).

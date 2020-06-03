@@ -1,0 +1,12 @@
+In recent years, differential carrier phase-based relative positioning (or "baseline determination") with precision at the millimeter and submillimeter levels has been demonstrated for the GRACE, TanDEM-X and Swarm missions in offline processing.
+Specific features of such missions have included the use of spacecraft of similar shapes placed in almost identical orbits as well as the use of consistent geodetic-class GPS receivers.
+These elements have proven to be advantageous for the computation of baseline solutions with such precision levels.
+Particularly, they have allowed to fully leverage the use of differential GPS techniques, including the estimation and use of carrier phase integer ambiguities.
+Similarly, the aforementioned spacecraft and orbit characteristics have made it possible to tightly constrain the relative dynamics of formations in the generation of reduced-dynamic solutions.
+Other than the former examples, prospective formation-flying mission proposals, such as SAOCOM-CS and PICOSAR, may comprise spacecraft with very different characteristics, including dissimilar GPS/GNSS receivers.
+Such cases may no longer provide favorable conditions for relative orbit determination strategies.
+As an alternative, absolute orbit solutions may be computed individually for each spacecraft and used for the generation of precise baseline products.
+This study aims at the assessment of the potential of single-receiver ambiguity fixing for the generation of precise baseline solutions.
+Results using flight data from the GRACE, TanDEM-X and Swarm missions exhibit baseline accuracy better than 5 mm (3D RMS) for a one-month test period in June 2016.
+As such, the presented solutions may be considered for prospective formation-flying remote sensing missions with baseline precision requirements at the subcentimeter level.
+Likewise, the method is considered of particular interest for future multi-spacecraft formations and swarms that require efficient determination of a large number of individual baselines.

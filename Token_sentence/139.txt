@@ -1,0 +1,8 @@
+The k(d)(490) is a vertical light attenuation coefficient and an important parameter for water quality.
+The k(d) estimates are often based on empirical and semi-analytical algorithms, designed for oceanic and coastal waters.
+However, there is a lack of information about the performances of these models to inland waters dominated by chromophoric dissolved organic matter (CDOM).
+Therefore, to contribute to this investigation, nine empirical models based on the blue-to-green and blue-to-red ratios and chlorophyll-a (Chl-a) concentration were evaluated, as well as three semi-analytical models using bands from the Operational Land Imager (OLI)/Landsat-8.
+The errors (mean absolute percentage error, MAPE > 80%) presented by the empirical models confirmed that the blue-to-green ratio failed in retrieving k(d)(490) in an environment dominated by CDOM.
+Similar failures occurred with the models using the Chl-a concentration (MAPE similar to 60%) as input.
+A semi-analytical approach showed the lowest error (MAPE = 41.04%) in the estimate of the inherent optical properties for complex waters in order to reduce the errors above.
+After retrieval of k(d)(490) using the semi-analytical model, seasonal patterns were observed, and high values of k(d)(490) were detected in the dry season possibly due to the increase of the concentration of the optically-significant substances (OSS).

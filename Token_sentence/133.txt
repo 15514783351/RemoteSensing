@@ -1,0 +1,7 @@
+In the last 10 years, development in robotics, computer vision, and sensor technology has provided new spectral remote sensing tools to capture unprecedented ultra-high spatial and high spectral resolution with unmanned aerial vehicles (UAVs).
+This development has led to a revolution in geospatial data collection in which not only few specialist data providers collect and deliver remotely sensed data, but a whole diverse community is potentially able to gather geospatial data that fit their needs.
+However, the diversification of sensing systems and user applications challenges the common application of good practice procedures that ensure the quality of the data.
+This challenge can only be met by establishing and communicating common procedures that have had demonstrated success in scientific experiments and operational demonstrations.
+In this review, we evaluate the state-of-the-art methods in UAV spectral remote sensing and discuss sensor technology, measurement procedures, geometric processing, and radiometric calibration based on the literature and more than a decade of experimentation.
+We follow the journey' of the reflected energy from the particle in the environment to its representation as a pixel in a 2D or 2.5D map, or 3D spectral point cloud.
+Additionally, we reflect on the current revolution in remote sensing, and identify trends, potential opportunities, and limitations.

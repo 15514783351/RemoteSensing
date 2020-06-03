@@ -1,0 +1,11 @@
+Extraction of leaf area index (LAI) is an important prerequisite in numerous studies related to plant ecology, physiology and breeding.
+LAI is indicative for the performance of a plant canopy and of its potential for growth and yield.
+In this study, a novel method to estimate LAI based on RGB images taken by an unmanned aerial system (UAS) is introduced.
+Soybean was taken as the model crop of investigation.
+The method integrates viewing geometry information in an approach related to gap fraction theory.
+A 3-D simulation of virtual canopies helped developing and verifying the underlying model.
+In addition, the method includes techniques to extract plot based data from individual oblique images using image projection, as well as image segmentation applying an active learning approach.
+Data from a soybean field experiment were used to validate the method.
+The thereby measured LAI prediction accuracy was comparable with the one of a gap fraction-based handheld device (R-2 of 0.92, RMSE of 0.42 m M-2(-2)) and correlated well with destructive LAI measurements (R-2 of 0.89, RMSE of 0.41 m(2) m(-2)).
+These results indicate that, if respecting the range (LAI <= 3) the method was tested for, extracting LAI from UAS derived RGB images using viewing geometry information represents a valid alternative to destructive and optical handheld device LAI measurements in soybean.
+Thereby, we open the door for automated, high-throughput assessment of LAI in plant and crop science.

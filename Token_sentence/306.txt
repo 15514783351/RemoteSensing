@@ -1,0 +1,11 @@
+Monitoring Land Surface Temperature (LST) from satellite remote sensing requires an accurate correction of the atmospheric effects.
+Although thermal remote sensing techniques have advanced significantly over the past few decades, to date, single-band pixel-by-pixel atmospheric correction of full thermal images is unsolved.
+In this work, we introduce a new Single-Band Atmospheric Correction (SBAC) tool that provides pixel-by-pixel atmospheric correction parameters regardless of the pixel size.
+The SBAC tool uses National Centers of Environmental Prediction (NCEP) profiles as inputs and, as a novelty, it also accounts for pixel elevation through a Digital Elevation Model (DEM).
+Application of SBAC to 19 Landsat 7-ETM+ scenes shows the potential of the proposed pixel-by-pixel atmospheric correction to capture terrain orography or atmospheric variability within the scene.
+LST estimation yields negligible bias and an RMSE of +/- 1.6 K for the full dataset.
+The Landsat Atmospheric Correction Tool (ACT) is also considered for comparison.
+SBAC-ACT LST deviations are analyzed in terms of distance to the image center, surface elevation, and spatial distribution of the atmospheric water content.
+Differences within 3 K are observed.
+These results give us the first insight of the potential of SBAC for the operational pixel-by-pixel atmospheric correction of full thermal images.
+The SBAC tool is expected to help users of satellite single-channel thermal sensors to improve their LST estimates due to its simplicity and robustness.

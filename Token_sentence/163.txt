@@ -1,0 +1,11 @@
+Shanghai, as one of the megacities and economic centers of China, is facing critical water quality challenges.
+This study analyzed the impact of urbanization on the water quality in Shanghai, from 2007 to 2015, using remote sensing (RS) and geographic information system (GIS) techniques.
+Five measurements of water quality were employed: total discharged wastewater volume, general water quality levels, dissolved oxygen (DO), permanganate, and ammonia nitrogen.
+The impacts of urban land-use changes on water quality were examined.
+An urban index was extracted from satellite image classification and was used to quantify the anthropogenic activities.
+In the watershed level, unit watersheds were delineated from topography and stream segments.
+Results showed that the primary contributors of water quality degradation in Shanghai were DO and ammonia nitrogen.
+Both indicators expressed clear seasonal patterns that can be explained by agricultural activities and urbanization processes in Shanghai during the study period.
+Water quality was also regulated through water use policies.
+For example, the degraded water quality in suburban outskirts and improved water quality was achieved through the enforced wastewater discharge regulations in central Shanghai.
+Analytical findings provide spatially explicit information for governmental management on protecting water resources and controlling wastewater emissions, thus, improving the quality of living environments in this ever-growing megacity.

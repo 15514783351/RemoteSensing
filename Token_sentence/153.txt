@@ -1,0 +1,9 @@
+We used unmanned aerial vehicles (UAVs) to carry out a relatively complete population census of large wild herbivores in Maduo County on the Tibetan Plateau in the spring of 2017.
+The effective area covered by aerial surveys was 326.6 km(2), and 23,784 images were acquired.
+Interpretation tag libraries for UAV images were created for wild animals, including Kiang (Equus kiang), Tibetan gazelle (Procapra picticaudata), and blue sheep (Pseudois nayaur), as well as livestock, including yaks and Tibetan sheep.
+Large wild herbivores in the survey transect were identified through manual imagery interpretation.
+Densities ranged from 1.15/km(2) for Kiang, 0.61/km(2) for Tibetan gazelle, 0.62/km(2) for blue sheep, 4.12/km(2) for domestic yak, and 7.34/km(2) for domestic sheep.
+A method based on meadows in the cold and warm seasons was used for estimating the densities and numbers of large wild herbivores and livestock, and was verified against records of livestock numbers.
+Population estimates for Kiang, Tibetan gazelle, blue sheep, domestic yak, and domestic sheep were 17,109, 15,961, 9324, 70,846, and 102,194, respectively.
+Based on published consumption estimates, the results suggest that domestic stock consume 4.5 times the amount of vegetation of large wild herbivores.
+Compared with traditional ground survey methods, performance of UAV remote sensing surveys of large wild herbivore populations was fast, economical and reliable, providing an effective future method for surveying wild animals.

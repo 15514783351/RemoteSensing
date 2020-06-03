@@ -1,0 +1,9 @@
+Through-the-wall radar imaging is a research area which has gathered renewed interest with the development of powerful millimeter-wave sources and detectors.
+Imaging techniques that require some sort of reconstruction can suffer from slow speeds and lack of complexity in the data acquisition phase of the measurements.
+These reconstruction methods can be greatly improved using compressive sensing (CS)-based tools that increase speed during these processes.
+Here, a %V-band single-pixel imaging system based on CS, which utilizes a mechanically controlled spatial light modulator to rapidly acquire the image, is demonstrated for metallic targets placed behind drywall.
+The system uses a frequency-modulated continuous wave W-band transmitter to illuminate the wall and the target.
+The image reflected off the target's field of view is spatially modulated by 10 x 10 array patterned masks and the signals are collected through a heterodyne receiver.
+The system can differentiate and locate a behind-the-wall object through the frequency swept Michelson interferometry analysis, since the strong reflections from the surface of the wall and the object induce an interference effect, which is observed at the receiver.
+The overall design of the optical system is optimized with respect to the geometry of the modulation pattern in the image plane resulting in successfully reconstructed images of objects using CS-based algorithms.
+Using larger optics and uniquely patterned masks such techniques can provide the solutions toward cast-effective, rapid analysis of structural changes in or behind visibly opaque media.

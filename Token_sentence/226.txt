@@ -1,0 +1,6 @@
+Land cover classification using polarimetric synthetic aperture radar (PolSAR) images is an important tool for remote sensing analysis.
+In view that PolSAR image effective interpretation is commonly affected by the absence of discriminative features and the presence of speckle noises, this letter proposes an adaptive nonlocal stacked sparse autoencoder (ANSSAE) to achieve PolSAR image classification.
+It extracts the adaptive nonlocal spatial information by adaptively calculating weighted average values of each pixel from nonlocal regions, which can reduce the influence of speckle noises and retain edge details.
+In the first layer of the ANSSAE, the adaptive nonlocal spatial information is introduced into the objective function to obtain the robust feature representation, whose effects would transfer to the rest of layers.
+Therefore, the ANSSAE can automatically capture spatial-related, robust, and distinguishable features, which can suppress speckle noises and gain accurate classification results.
+Experimental results on two real PolSAR images demonstrate that the proposed approach can significantly improve the classification accuracy.

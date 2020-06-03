@@ -1,0 +1,12 @@
+The Kabul River basin (KRB) of Afghanistan, a lifeline of around 10 million people, has multiplicity of governance, management, and development-related challenges leading to inequity, inadequacy, and unreliability of irrigation water distribution.
+Prior to any uplifting intervention, there is a need to evaluate the performance of irrigation system on a long term basis to identify the existing bottlenecks.
+Although there are several indicators available for the performance evaluation of the irrigation schemes, we used the coefficient of variation (CV) of actual evapotranspiration (ETa) in space (basin, sub-basin, and provincial level), relative evapotranspiration (RET), and temporal CV of RET, to assess the equity, adequacy, and reliability of water distribution, respectively, from 2003 to 2013.
+The ETa was estimated through a surface energy balance system (SEBS) algorithm and the ETa estimates were validated using the advection aridity (AA) method with a R-2 value of 0.81 and 0.77 at Nawabad and Sultanpur stations, respectively.
+The global land data assimilation system (GLDAS) and moderate-resolution imaging spectroradiometer (MODIS) products were used as main inputs to the SEBS.
+Results show that the mean seasonal sub-based RET values during summer (May-September) (0.37 +/- 0.06) and winter (October-April) (0.40 +/- 0.08) are below the target values (RET 0.75) during 2003-2013.
+The CV of the mean ETa, within sub-basins and provinces for the entire study period, has an equitable distribution of water from October-January (0.09 +/- 0.04), whereas the highest inequity (0.24 +/- 0.08) in water distribution is during early summer.
+The range of the CV of the mean ETa (0.04-0.06) on a monthly and seasonal basis shows the unreliability of water supplies in several provinces or sub-basins.
+The analysis of the temporal CV of mean RET highlights the unreliable water supplies across the entire basin.
+The maximum ETa during the study period was estimated for the Shamal sub-basin (552 +/- 43 mm) while among the provinces, Kunar experienced the highest ETa (544 +/- 39 mm).
+This study highlights the dire need for interventions to improve the irrigation performance in time and space.
+The proposed methodology can be used as a framework for monitoring and implementing water distribution plans in future.

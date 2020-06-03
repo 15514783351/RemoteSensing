@@ -1,0 +1,10 @@
+Mexico's largest freshwater body, Lake Chapala, is the main source of drinking water for over 4-million inhabitants.
+This study used satellite and field data to obtain annual estimates of Lake Chapala's area and water volume from 1973 to 2009, as well as water intakes from 1934 to 2013.
+Twenty-one Landsat images (multispectral scanner system, 2, 5, and 7) for the period of 1973 to 2009 were processed.
+Gap filling correction was applied to Landsat 7 enhanced thematic mapper plus scan line corrector-off images.
+Binary water/no-water segmentation was obtained with a Markov random field model using the normalized difference water index.
+An area-based model was developed to calculate water volume, which used the lake's area estimated based on the images as well as an exponential function obtained from area-elevation curves.
+Three of the resulting water/no-water layers were validated against reference points taken from aerial photography.
+Overall accuracies of 77% to 90% were obtained.
+A correlation coefficient of 0.9 resulted when comparing the results from using remote sensing to calculate water volume against field measurements.
+Given the observed reduction in volume, we concluded that it will be difficult to continue to use the lake as the main source of freshwater for the Guadalajara metropolitan area without substantial interventions.

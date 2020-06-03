@@ -1,0 +1,12 @@
+Biodiversity loss remains a global challenge despite international commitment to the United Nations Convention on Biodiversity.
+Biodiversity monitoring methods are often limited in their geographical coverage or thematic content.
+Furthermore, remote sensing-based integrated monitoring methods mostly attempt to determine species diversity from habitat heterogeneity somewhat reflected in the spectral diversity of the image used.
+Up to date, there has been no standardized method for monitoring biodiversity against the backdrop of ecosystem or environmental pressures.
+This study presents a new method for monitoring the impact of oil pollution an environmental pressure on biodiversity at regional scale and presents a case study in the Niger delta region of Nigeria.
+It integrates satellite remote sensing and field data to develop a set of spectral metrics for biodiversity monitoring.
+Using vascular plants of various lifeforms observed on polluted and unpolluted (control) locations, as surrogates for biodiversity, the normalized difference vegetation vigour index (NDVVI) variants were estimated from Hyperion wavelengths sensitive to petroleum hydrocarbons and evaluated for potential use in biodiversity monitoring schemes.
+The NDVVI ranges from 0 to 1 and stems from the presupposition that increasing chlorophyll absorption in the green vegetation can be used as a predictor to model vascular plant species diversity.
+The performances of NDVVI variants were compared to traditional narrowband vegetation indices (NBVIs).
+The results show strong links between vascular plant species diversity and primary productivity of vegetation quantified by the chlorophyll content, vegetation vigour and abundance.
+An NDVVI-based model gave much more accurate predictions of species diversity than traditional NBVIs (R-squared and prediction square error (PSE) respectively for Shannon's diversity = 0.54 and 0.69 for NDVVIs and 0.14 and 0.9 for NBVIs).
+We conclude that NDVVI is a superior remote sensing index for monitoring biodiversity indicators in oil-polluted areas than traditional NBVIs.

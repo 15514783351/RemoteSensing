@@ -1,0 +1,10 @@
+Afromontane forests are biodiversity hotspots and provide essential ecosystem services.
+However, they are under pressure as a result of an expanding human population and the impact of climate change.
+In many instances electric fencing has become a necessary management strategy to protect forest integrity and reduce human-wildlife conflict.
+The impact of confining hitherto migratory elephant populations within forests remains unknown, and monitoring largely inaccessible areas is challenging.
+We explore the application of remote sensing to monitor the impact of confinement, employing the Breaks For Additive Season and Trend (BFAST) time-series decomposition method over a 15-year period on Moderate Resolution Imaging Spectroradiometer (MODIS) Enhanced Vegetation Index (EVI) (MOD13Q1) datasets for two Kenyan forests.
+Results indicated that BFAST was able to identify disturbances from anthropogenic, fire and elephant damage.
+Sequential monitoring enabled the detection of gradual changes in the forest canopy, with degradation and regeneration being observed in both sites.
+Annual rates of forest loss in both areas were significantly lower than reported in other studies on Afromontane forests, suggesting that installing fences has reduced land-use conversion from human-related disturbances.
+Negative changes in EVI were predominantly gradual degradation rather than large-scale, abrupt clearings of the forest.
+Results presented here demonstrate that BFAST can be used to monitor biotic and abiotic drivers of change in Afromontane forests.

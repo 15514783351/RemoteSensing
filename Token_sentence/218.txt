@@ -1,0 +1,6 @@
+With the depletion of fossil fuel energy, geothermal resource exploration has become an important research hotspot around the world.
+Thermal infrared remote sensing technology is a new trend in the field of geothermal resources investigation and exploration, with the advantages of quick, economical study of large areas that have variations in geothermal resources and heat distribution.
+Based on the MODIS thermal infrared remotely sensed data, the split-window algorithm was used to retrieve the surface temperature of the geothermal region in Eastern Liaoning, China.
+The temperature inversion images at four seasons during the year of 2016 were selected, and the high temperature zones in the inversion results were compared with the geothermal features and fault structures in the study area.
+It was found that the spatial distribution relationships were highly similar.
+In conclusion, the distribution of geothermal resources can be inferred by analyzing the inversion results of regional temperatures and geological structures.

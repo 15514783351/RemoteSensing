@@ -1,0 +1,12 @@
+Multiangle remote sensing plays a central role in the development of algorithms for the retrieval of various surface biophysical parameters that are influenced by the reflectance anisotropy.
+Surface reflectance anisotropy is characterized by the Bidirectional Reflectance Distribution Function (BRDF).
+Within the past decade, spaceborne multiangle observations acquired by the MODerate resolution Imaging Spectroradiometer (MODIS) sensor (which has a gridded spatial resolution of 500 m) and by the POLarization and Directionality of Earth Reflectances (POLDER) sensor (which has a spatial resolution of 6 x 7 km) have been used for a wide variety of global applications.
+However, it is necessary to fully understand the variability inherent in the surface BRDF information as retrieved from MODIS and POLDER at these two spatial resolutions to optimize their use.
+In this study, we make use of extensive POLDER Bidirectional Reflectance Factors (BRFs) selected from the entire archive of the POLDER BRDF database and standard MODIS BRDF parameter products (MCD43A1, Collection V005) that were geolocated within the same spatial extents as the POLDER data.
+The variability in surface BRDF is characterized by investigation of three BRDF model parameters as retrieved from MODIS and POLDER and a comprehensive index indicating the variations in the primary dome-bowl BRDF patterns (the anisotropic flat index (AFX)).
+The principal information content contained in these BRDF data is characterized by the general BRDF shapes (the BRDF archetypes) that account for > 90% of the total variance in these BRDF data.
+A hotspotrevised BRDF model is used directly on top of the retrieved model BRDF parameters to capture the hotspot effect associated with these BRDF parameters.
+The main findings of this study show that the variability in surface BRDF, as extracted from the MODIS and POLDER datasets, shares six reciprocal BRDF archetypes.
+However, the 500-m MODIS BRDF data can uniquely capture some additional extreme BRDF shapes mainly due to the data's finer pixel scales.
+These original findings are very important, because subsequent albedo retrievals can be significantly impacted by the use of BRDFs of different resolutions.
+This study provides evidence concerning the influence of spatial resolution on angular variation patterns of optical reflectance as retrieved from the MODIS and POLDER BRDF products.

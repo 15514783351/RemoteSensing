@@ -1,0 +1,10 @@
+Effective feature representations play an important role in remote sensing image analysis tasks.
+With the rapid progress of deep learning techniques, deep features have been widely applied to remote sensing image understanding in recent years and shown powerful ability in image representation.
+The existing deep feature extraction approaches are usually carried out on the whole image directly.
+However, such deep feature representation strategies may not effectively capture the local geometric invariance of target regions in remote sensing images.
+In this paper, we propose a novel region-wise deep feature extraction framework for remote sensing images.
+First, regions that may contain the target information are extracted from one whole image.
+Then, these regions are fed into a pre-trained convolutional neural network (CNN) model to extract regional deep features.
+Finally, the regional deep features are encoded by an improved Vector of Locally Aggregated Descriptors (VLAD) algorithm to generate the feature representation for the image.
+We conducted extensive experiments on remote sensing image classification and retrieval tasks based on the proposed region-wise deep feature extraction framework.
+The comparison results show that the proposed approach is superior to the existing CNN feature extraction methods.

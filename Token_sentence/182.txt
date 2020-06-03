@@ -1,0 +1,11 @@
+The timely estimation of crop biomass and nitrogen content is a crucial step in various tasks in precision agriculture, for example in fertilization optimization.
+Remote sensing using drones and aircrafts offers a feasible tool to carry out this task.
+Our objective was to develop and assess a methodology for crop biomass and nitrogen estimation, integrating spectral and 3D features that can be extracted using airborne miniaturized multispectral, hyperspectral and colour (RGB) cameras.
+We used the Random Forest (RF) as the estimator, and in addition Simple Linear Regression (SLR) was used to validate the consistency of the RF results.
+The method was assessed with empirical datasets captured of a barley field and a grass silage trial site using a hyperspectral camera based on the Fabry-Perot interferometer (FPI) and a regular RGB camera onboard a drone and an aircraft.
+Agricultural reference measurements included fresh yield (FY), dry matter yield (DMY) and amount of nitrogen.
+In DMY estimation of barley, the Pearson Correlation Coefficient (PCC) and the normalized Root Mean Square Error (RMSE%) were at best 0.95% and 33.2%, respectively; and in the grass DMY estimation, the best results were 0.79% and 1.9%, respectively.
+In the nitrogen amount estimations of barley, the PCC and RMSE% were at best 0.97% and 21.6%, respectively.
+In the biomass estimation, the best results were obtained when integrating hyperspectral and 3D features, but the integration of RGB images and 3D features also provided results that were almost as good.
+In nitrogen content estimation, the hyperspectral camera gave the best results.
+We concluded that the integration of spectral and high spatial resolution 3D features and radiometric calibration was necessary to optimize the accuracy.

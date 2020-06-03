@@ -1,0 +1,6 @@
+Synthetic aperture radar (SAR) is one of the most widely employed remote sensing modalities for large-scale monitoring of maritime activity.
+Ship detection in SAR images is a challenging task due to inherent speckle, discernible sea clutter, and the little exploitable shape information the targets present.
+Constant false alarm rate (CFAR) detectors, utilizing various sea clutter statistical models and thresholding schemes, are near ubiquitous in the literature.
+Very few of the proposed CFAR variants deviate from the classical CFAR topology; this letter proposes a modified topology, utilizing superpixels (SPs) in lieu of rectangular sliding windows to define CFAR guardbands and background.
+The aim is to achieve better target exclusion from the background band and reduced false detections.
+The performance of this modified SP-CFAR algorithm is demonstrated on TerraSAR-X and SENTINEL-1 images, achieving superior results in comparison to classical CFAR for various background distributions.

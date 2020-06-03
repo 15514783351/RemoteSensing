@@ -1,0 +1,9 @@
+Scene classification has been successfully applied to the semantic interpretation of large high-resolution images (HRIs).
+The bag-of-words (BOW) model has been proven to be effective but inadequate for HRIs because of the complex arrangement of the ground objects and the multiple types of land cover.
+How to define the scenes in HRIs is still a problem for scene classification.
+The previous methods involve selecting the scenes manually or with a fixed spatial distribution, leading to scenes with a mixture of objects from different categories.
+In this paper, to address these issues, a scene capture method using adjacent segmented images and a support vector machine classifier is proposed to generate scenes dominated by one category.
+The codebook in BOW is obtained from clustering features extracted from all the categories, which may lose the discrimination in some vocabularies.
+Thus, more discriminative visual vocabularies are selected by the introduced mutual information and the proposed intraclass variability balance in each category, to decrease the redundancy of the codebook.
+In addition, a refined fuzzy classification strategy is presented to avoid misclassification in similar categories.
+The experimental results obtained with three different types of HRI data sets confirm that the proposed method obtains classification results better than those obtained by most of the previous methods in all the large HRIs, demonstrating that the selection of representative vocabularies, the refined fuzzy classification, and the scene capture strategy are all effective in improving the performance of scene classification.

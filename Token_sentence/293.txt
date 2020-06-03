@@ -1,0 +1,7 @@
+The societal benefits of understanding climate change through the identification of global carbon dioxide sources and sinks led to the recommendation for NASA's Active Sensing of Carbon Dioxide Emissions over Nights, Days, and Seasons space-based mission for global carbon dioxide measurements.
+For more than 15 years, the NASA Langley Research Center has developed several carbon dioxide active remote sensors using the differential absorption lidar technique operating at 2-mu m wavelength.
+Recently, an airborne double-pulsed integrated path differential absorption lidar was developed, tested, and validated for atmospheric carbon dioxide measurement.
+Results indicated 1.02% column carbon dioxide measurement uncertainty and 0.28% bias over the ocean.
+Currently, this technology is progressing toward triple-pulse operation targeting both atmospheric carbon dioxide and water vapor-the dominant interfering molecule on carbon dioxide remote sensing.
+Measurements from the double-pulse lidar and the advancement of the triple-pulse lidar development are presented.
+In addition, measurement simulations with a space-based IPDA lidar, incorporating new technologies, are also presented to assess feasibility of carbon dioxide measurements from space.

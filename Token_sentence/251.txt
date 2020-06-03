@@ -1,0 +1,9 @@
+Heterogeneous terrain significantly complicates signals received by airborne or satellite sensors.
+It has been demonstrated that both solar direct beam and diffuse skylight illumination conditions are significant factors influencing the anisotropy of reflectance over mountainous areas.
+Several models and methods have been developed to account for topographic effects on surface reflectance at the pixel level in remote sensing.
+However, subtopographic effects are generally neglected for lowspatial-resolution pixels due to the complex law of radiative transfer and the limitations of higher spatial resolution digital elevation models, which can lead to deviations in reflectance estimation.
+Accurately estimating the subtopographic effects on anisotropic reflectance over composite sloping terrain under different illumination conditions presents a challenge for remote sensing models and applications.
+In this paper, the diffused equivalent slope model (dESM) was developed, which is an anisotropic reflectance simulation model coupled with diffuse skylight over composite sloping terrain.
+The corresponding subtopographic impact factor was also proposed to exhibit how microslope topography affects reflectance over composite sloping terrain under different illumination conditions.
+Simulated reflectance data sets simulated by the radiosity method and Moderate Resolution Imaging Spectroradiometer reflectance data were used to evaluate the performance of the dESM model.
+The results reveal that the dESM model can accurately capture the reflectance anisotropy over composite sloping terrain under different illumination conditions, and the subtopographic impact factor can account for the effects of microslope topography, shadow, and illumination conditions.

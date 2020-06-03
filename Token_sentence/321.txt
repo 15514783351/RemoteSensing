@@ -1,0 +1,8 @@
+Passive optical remote sensing of river bathymetry involves establishing a relation between depth and reflectance that can be applied throughout an image to produce a depth map.
+Building upon the Optimal Band Ratio Analysis (OBRA) framework, we introduce sampling strategies for constructing calibration data sets that lead to strong relationships between an image-derived quantity and depth across a range of depths.
+Progressively excluding observations that exceed a series of cutoff depths from the calibration process improved the accuracy of depth estimates and allowed the maximum detectable depth ( ) to be inferred directly from an image.
+Depth retrieval in two distinct rivers also was enhanced by a stratified version of OBRA that partitions field measurements into a series of depth bins to avoid biases associated with under-representation of shallow areas in typical field data sets.
+In the shallower, clearer of the two rivers, including the deepest field observations in the calibration data set did not compromise depth retrieval accuracy, suggesting that was not exceeded and the reach could be mapped without gaps.
+Conversely, in the deeper and more turbid stream, progressive truncation of input depths yielded a plausible estimate of consistent with theoretical calculations based on field measurements of light attenuation by the water column.
+This result implied that the entire channel, including pools, could not be mapped remotely.
+However, truncation improved the accuracy of depth estimates in areas shallower than , which comprise the majority of the channel and are of primary interest for many habitat-oriented applications.

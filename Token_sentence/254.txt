@@ -1,0 +1,8 @@
+The Global Precipitation Measurement (GPM) mission was launched in February 2014; its dual-frequency precipitation radar (DPR) operates at both Ku- and Ka-bands.
+Attenuation in precipitation is typically not negligible, especially at Ka-band.
+Hence, attenuation correction is an important part of the GPM DPR retrieval algorithm.
+The operational algorithm uses a path-integrated attenuation (PIA) obtained by comparing the measured surface return with that expected either from a nearby, nonprecipitating area or from the same area, acquired at a previous, nonprecipitating time.
+This surface reference technique has worked well in most situations but can result in erroneously low estimates of the path attenuation in situations with nonuniform filling of the radar beam, especially at Ka-band due to its larger attenuation.
+This paper explores the existence of relationships between the Ka-band PIA and the characteristics of the measured reflectivity profiles.
+The author finds that PIA is, indeed, related to reflectivity profiles, with strongest correlation between the PIA and the measured rainfall dual-frequency reflectivity ratio just above the surface.
+This relationship could be used as an estimator in the cases with severe nonuniform beam filling.

@@ -1,0 +1,8 @@
+Ocean color data are critical for the monitoring and understanding of biological and ecological processes and phenomena, and the data are also important sources of input data for physical and biogeochemical ocean models.
+The Visible Infrared Imaging Radiometer Suite (VIIRS) onboard the Suomi National Polar-orbiting Partnership has continued to provide global ocean color data since its launch in October 2011.
+However, there are always many missing pixels in the original VIIRS-measured ocean color images due to clouds and various other reasons.
+The data interpolating empirical orthogonal functions (DINEOF) is a method to reconstruct (gap filling) missing data in geophysical data sets based on the empirical orthogonal function.
+In this paper, the DINEOF is applied to VIIRS-derived global Level-3 binned ocean color data of 9-km spatial resolution, and the DINEOF-reconstructed ocean color data are used to fill the gaps of missing data.
+In particular, daily, eight-day, and monthly VIIRS global Level-3 binned ocean color data, including chlorophyll-a concentration, diffuse attenuation coefficient at 490 nm [K-d(490)], and normalized water-leaving radiance spectra [nL(w) (lambda)] at the five VIIRS visible bands, are tested and evaluated.
+To validate and evaluate the gap-filled data, a set of original valid nonmissing pixels in the VIIRS images are selected randomly and treated as missing pixels in the DINEOF process, so that the reconstructed pixels can be compared with the original data.
+Results show that the DINEOF method can successfully reconstruct and gap-fill meso-scale and large-scale spatial ocean features in the global VIIRS Level-3 images, as well as capture the temporal variations of these features.

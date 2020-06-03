@@ -1,0 +1,8 @@
+Flooding is extremely dangerous when a river overflows to inundate an urban area.
+From 1995 to 2016, North Korea (NK) experienced extensive damage to life and property almost every year due to a levee breach resulting from typhoons and heavy rainfall during the summer monsoon season.
+Recently, Hoeryeong City (2016) experienced heavy rain during Typhoon Lionrock, and the resulting flood killed and injured many people (68,900) and destroyed numerous buildings and settlements (11,600).
+The NK state media described it as the most significant national disaster since 1945.
+Thus, almost all annual repeat occurrences of floods in NK have had a severe impact, which makes it necessary to figure out the extent of floods to restore the damaged environment.
+However, this is difficult due to inaccessibility.
+Under such a situation, optical remote sensing (RS) data and radar RS data along with a logistic regression were utilized in this study to develop modeling for flood-damaged area delineation.
+High-resolution web-based satellite imagery was also interpreted to confirm the results of the study.

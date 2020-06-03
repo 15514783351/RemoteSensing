@@ -1,0 +1,11 @@
+Band selection (BS) is a special case of the feature selection problem, and it tries to remove redundant bands and select a few informative and distinctive hands to represent the whole image cube.
+The maximum ellipsoid volume (MEV) method regards the band subset with the maximum volume as the optimal band combination.
+However, the MEV method cannot he directly applied for hyperspectral imagery due to the high dimensionality of the data sets.
+Therefore, we first combine MEV with the sequential forward search (SFS) and propose a new unsupervised BS method called MEV-SFS.
+Furthermore, a subtle relationship between the ellipsoid volume of the band set and the orthogonal projections (OPs) of the candidate bands is observed.
+Based on this relationship, we propose another equivalent method, namely, the OP-based BS (OPBS) method.
+OPBS is the fast version of MEV-SFS, and it has a better computational efficiency and the potential to determine the number of hands to be selected.
+We specifically explain the rationality of the MEV-based methods (MEV-SFS and OPBS) and illustrate their theoretical significance and physical meaning from different aspects.
+Theoretical analysis also demonstrates that OPBS can be regarded as a model or framework for BS, and thus, we further propose a third novel BS method named the OPBS-information divergence (OPBS-ID) method, which is a variant of OPBS.
+OPBS-ID can achieve a better classification performance than OPBS in many cases.
+Experimental results on different hyperspectral data sets demonstrate that the proposed methods have high computational efficiency, and the selected bands can achieve satisfactory classification performances.

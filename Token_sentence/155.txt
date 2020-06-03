@@ -1,0 +1,12 @@
+The U.S. Environmental Protection Agency banned the use of polychlorinated biphenyls (PCBs) in 1979, due to the high environmental and public health risks with which they are associated.
+However, PCBs continue to persist in the San Francisco Bay (SFB), often at concentrations deemed unsafe for humans.
+In situ PCB monitoring within the SFB is extremely limited, due in large part to the high monetary costs associated with sampling.
+Here we offer a cost effective alternative to in situ PCB monitoring by demonstrating the feasibility of indirectly quantifying PCBs in the SFB via satellite remote sensing using a two-step approach.
+First, we determined the relationship between in situ PCB concentrations and suspended sediment concentrations (SSC) in the SFB.
+We then correlated in situ SSC with spatially and temporally consistent Landsat 8 and Sentinel 2A reflectances.
+We demonstrate strong relationships between SSC and PCBs in all three SFB sub-embayments (R-2 > 0.28-0.80, p < 0.01), as well as a robust relationship between SSC and satellite measurements for both Landsat 8 and Sentinel 2A (R-2 > 0.72, p < 0.01).
+These relationships held regardless of the atmospheric correction regime that we applied.
+The end product of these relationships is an empirical two-step relationship capable of deriving PCBs from satellite imagery.
+Our approach of estimating PCBs in the SFB by remotely sensing SSC is extremely cost-effective when compared to traditional in situ techniques.
+Moreover, it can also be utilized to generate PCB concentration maps for the SFB.
+These maps could one day serve as an important tool for PCB remediation in the SFB, as they can provide valuable insight into the spatial distribution of PCBs throughout the bay, as well as how this distribution changes over time.

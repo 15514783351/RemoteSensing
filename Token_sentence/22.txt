@@ -1,0 +1,6 @@
+With the rapid development of remote sensing technology, how to accurately detect changes that have occurred on the land surface has been a critical task, particularly when images come from different satellite sensors.
+In this letter, we propose an unsupervised change detection method for heterogeneous synthetic aperture radar (SAR) and optical images based on the logarithmic transformation feature learning framework.
+First, the logarithmic transformation is applied to the SAR image that aims to achieve similar statistical distribution properties as the optical image.
+Then, high-level feature representations can be learned from the transformed image pair via joint feature extraction, which are used to select reliable samples for training a neural network classifier.
+When it is trained well, a robust change map can be obtained, thus identifying changed regions accurately.
+The experimental results on three real heterogeneous data sets demonstrate the effectiveness and superiority of the proposed method compared with other existing state-of-the-art approaches.

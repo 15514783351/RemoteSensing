@@ -1,0 +1,8 @@
+Remote sensing tools (RS) can contribute to a better understanding of the diversity of natural and semi-naturals habitats, their spatial distribution, and their conservation status.
+RS can also provide a generic set of derived indicators to support local to regional habitat monitoring.
+Here we propose a set of synthetic continuous textural indices computed from high spatial resolution airborne images for the characterization of vegetation structure in very heterogeneous landscape mosaics.
+These indices are based on Fourier-based textural ordination (FOTO) of very-high-resolution images.
+We investigate the relationship between textural indices and a set of common landscape metrics derived from vegetation maps, identifying four strata of interest: bare soil, herbs, low ligneous, and high ligneous.
+We identify two continuous textural indices, the first one being related to vegetation strata fragmentation and the second being related to the dominance of high ligneous.
+The combination of these two textural indices with the Normalized Difference Vegetation Index (NDVI) provides a synoptic and accurate overview of the spatial organization of the different vegetation strata.
+The methodological approach presented herein has a generic value in response to national conservation targets in the context of mapping relevant habitat indicators.

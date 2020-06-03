@@ -1,0 +1,7 @@
+The global optimal solution (GOS) has proven to be very accurate for deriving water surface velocities from contemporaneous image pairs, but previous studies have used shore-based radars or satellite measurements with resolutions on the order of a kilometer or tens of meters to establish this.
+In contrast, the objective of this paper is to derive a GOS velocity field from infrared (IR) (3-5 mu m) images having a 1-m pixel size.
+Because IR images can frequently exhibit a low signalto-noise ratio, a newly developed GOS technique with a local similarity metric is used to retrieve velocities from such low-contrast data sets.
+To demonstrate the utility of this new method, we use airborne data collected in the tidal Potomac River over 11 days and spatially varying flood, ebb, and slack conditions.
+The resulting GOS-derived velocity estimates are compared against acoustic Doppler current profiler (ADCP) measurements taken simultaneously with the airborne collections.
+Velocity magnitudes and directions are found to have GOS versus ADCP correlations of 0.93 and 0.99, respectively.
+This high correlation suggests that the GOS technique may be applicable to a variety of lower contrast imagery that can now be collected by a low-altitude remotely controlled aircraft.

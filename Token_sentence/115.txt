@@ -1,0 +1,20 @@
+Land degradation (LD) is one of the most catastrophic outcomes of long-lasting drought events and anthropogenic activities.
+Assessing climate and human-induced impacts on land can provide information for decision makers to mitigate the effects of these phenomena.
+The Northeastern region of Brazil (NEB) is the most populous dryland on the planet, making it a highly vulnerable ecosystem especially when considering the lingering drought that started in 2012.
+The present work consisted of detecting trends in biomass [leaf area index (LAI)] anomalies as indicators of LD in NEB.
+We also assessed how the loss of vegetation impacts the LD cycle, by measuring trends in albedo and evapotranspiration (ET).
+LAI, albedo and ET data were derived from MODIS sensors at 8-day temporal and 500 m spatial resolutions.
+For precipitation anomalies, we relied on CHIRPS-v2 10-day temporal at 5 km spatial resolution data.
+For detecting trends, we applied the Theil-Sen slope analysis on time series of MODIS LAI, albedo and ET images.
+Trend analysis was performed for the periods ranging from 2002-2012 (no severe droughts) to 2002-2016 (including the last drought).
+LAI trends were more pronounced and had a stronger signal than ET and albedo, therefore, LAI was our choice for mapping LD.
+The first analysis highlighted the human-induced LD prone areas whereas the last detected drought-induced LD prone areas.
+Considering only the trending areas, which was about 23.4% of the total, 4.5% of this area has undergone human-induced degradation whereas drought was responsible for 73%, although, not mutually exclusive.
+As reported in the literature and official data, grazing intensification might be a factor driving human-induced degradation.
+We noticed that the range of variation of LAI is narrow and even narrower for albedo, which demonstrates that land surface response is more influenced by soil reflectivity rather than the characteristic sparse vegetation coverage (LAI ranging from 0.04 to 0.4 in the Caatinga biome), which can barely alter albedo.
+Finally, the effects of LD on ET anomalies were assessed by Granger causality and impulse-response analyses as means to link land surface feature changes to the hydrological cycle.
+Albedo had a slightly weaker impulse than LAI on ET whereas precipitation played a major role.
+These relations are site-specific and, land surface features (biomass and albedo) showed to have a more substantial influence on ET in severely degraded areas.
+We concluded that drought led to trends indicating LD prone areas in NEB and the degradation cycle has positive feedback derived from ET reduction resulting in an increased net moisture deficit, although the latter statement has yet to be further investigated.
+The study warns of the desertification risk that NEB is facing and the need for the authorities to take action to mitigate degradation and drought effects on both traditionally surveyed (desertification nuclei) and newfound LD prone areas.
+We also highlight the limitation of confirming LD, as to date there is no post-drought data available and, lessons learned from the Sahel case make us cautious about claiming that an area is in fact degraded.

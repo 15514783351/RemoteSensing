@@ -1,0 +1,7 @@
+A Bayesian classifier mapped the Burned Area (BA) in the Northeastern Siberian boreal forest (70 degrees N 120 degrees E-60 degrees N 170 degrees E) from 1982 to 2015.
+The algorithm selected the 0.05 degrees (similar to 5 km) Long-Term Data Record (LTDR) version 3 and 4 data sets to generate 10-day BA composites.
+Landsat-TM scenes of the entire study site in 2002, 2010, and 2011 assessed the spatial accuracy of this LTDR-BA product, in comparison to Moderate-Resolution Imaging Spectroradiometer (MODIS) MCD45A1 and MCD64A1 BA products.
+The LTDR-BA algorithm proves a reliable source to quantify BA in this part of Siberia, where comprehensive BA remote sensing products since the 1980s are lacking.
+Once grouped by year and decade, this study explored the trends in fire activity.
+The LTDR-BA estimates contained a high interannual variability with a maximum of 2.42 million ha in 2002, an average of 0.78 million ha/year, and a standard deviation of 0.61 million ha.
+Going from 6.36 in the 1980s to 10.21 million ha BA in the 2010s, there was a positive linear BA trend of approximately 1.28 million ha/decade during these last four decades in the Northeastern Siberian boreal forest.

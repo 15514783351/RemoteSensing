@@ -1,0 +1,10 @@
+Land cover change detection (LCCD) based on bi-temporal remote sensing images plays an important role in the inventory of land cover change.
+Due to the benefit of having spatial dependency properties within the image space while using remote sensing images for detecting land cover change, many contextual information-based change detection methods have been proposed in past decades.
+However, there is still a space for improvement in accuracies and usability of LCCD.
+In this paper, a LCCD method based on adaptive contextual information is proposed.
+First, an adaptive region is constructed by gradually detecting the spectral similarity surrounding a central pixel.
+Second, the Euclidean distance between pairwise extended regions is calculated to measure the change magnitude between the pairwise central pixels of bi-temporal images.
+All the bi-temporal images are scanned pixel by pixel so the change magnitude image (CMI) can be generated.
+Then, the Otsu or a manual threshold is employed to acquire the binary change detection map (BCDM).
+The detection accuracies of the proposed approach are investigated by three land cover change cases with Landsat bi-temporal remote sensing images and aerial images with very high spatial resolution (0.5 m/pixel).
+In comparison to several widely used change detection methods, the proposed approach can produce a land cover change inventory map with a competitive accuracy.

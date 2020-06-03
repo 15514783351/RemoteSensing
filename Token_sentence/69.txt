@@ -1,0 +1,9 @@
+Downward surface solar radiation (DSSR) plays an important role in the earth's surface energy budget.
+However, it has significant spatial-temporal heterogeneity over the rugged terrain.
+To accurately capture DSSR, many analytical terrain parameter algorithms based on digital elevation models (DEMs) have been proposed.
+However, the uncertainties of the DSSR components associated with these algorithms remain unclear.
+In this letter, we compared three types of terrain parameter algorithms and their respective USSR component uncertainties at different spatial scales by using 3-D discrete anisotropic radiative model simulations under different atmospheric conditions.
+The comparison results indicated that differences in slopes, sky view factors, and terrain view factors can be up to 4 degrees, 0.165 degrees, and 0.264 degrees, respectively.
+For a high atmospheric visibility, the maximum discrepancies of direct solar irradiance and adjacent terrain-reflected irradiance over the high reflective surface ((e.g., fresh snow and ice)) are 26.7 and 42.8 W .m(2) , respectively.
+In addition, for a low atmospheric visibility, a maximum difference of 31 W .m(2) is identified for diffuse skylight.
+These uncertainties are nonnegligible when using a high-resolution DEM ((e.g., 30 m)), but as the DEM resolution becomes coarser, the uncertainties decrease.

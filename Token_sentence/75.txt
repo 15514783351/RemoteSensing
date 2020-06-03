@@ -1,0 +1,8 @@
+Time-sequence remote sensing images are usually captured under varying acquisition conditions due to atmospheric differences, lighting condition, humidity etc.
+Comparing the spectral values of the well-registered images taken at a different time is a complicated issue due to the non-linear spectrum distortion caused by these effects.
+Atmospheric correction can eliminate part of the errors, while precisely removing it requires many other in-situ data such as the weather condition and optical aerosol depth.
+We propose an algorithm that performs spatial-temporal inferences that correct the spectral values through a data-driven approach - we developed a simple 3D spatiotemporal filtering method that uses the time-sequence imagery themselves to homogenize the spectral property of similar objects while being heterogeneous to objects with significant differences.
+We have performed extensive experiments using medium resolution Landsat dataset and high-resolution Planet imagery, by evaluating the classification results from both classic machine learning (sample selected from the current image) and transfer learning (samples selected from one dataset and applied to the other dataset).
+The experiments results show that the proposed 3D spatiotemporal filter can improve the accuracy of classification using transfer learning by approximate to 5%, approximate to 15%, and = approximate to 2%.
+We have also demonstrated that the enhanced time-sequence image offers much better change detection outputs using just a simple image differencing method.
+The improved results in typical remote sensing tasks indicate our proposed method being effective for time-sequence data preprocessing.

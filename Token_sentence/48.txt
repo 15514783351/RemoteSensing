@@ -1,0 +1,2 @@
+The LiDAR-derived Canopy height model (CHM), due to its wide applications in forestry, is important for foresters.
+Before a CHM can be considered a valuable, objective source of information about a canopy surface, it must be properly interpolated and preprocessed, which may sometimes be challenging, especially in case of multilayer and multispecies forest.

@@ -1,0 +1,9 @@
+Carbon sink estimation and ecological assessment of forests require accurate forest type mapping.
+The traditional survey method is time consuming and labor intensive, and the remote sensing method with high-resolution, multi-spectral commercial satellite images has high cost and low availability.
+In this study, we explore and evaluate the potential of freely-available multi-source imagery to identify forest types with an object-based random forest algorithm.
+These datasets included Sentinel-2A (S2), Sentinel-1A (S1) in dual polarization, one-arc-second Shuttle Radar Topographic Mission Digital Elevation (DEM) and multi-temporal Landsat-8 images (L8).
+We tested seven different sets of explanatory variables for classifying eight forest types in Wuhan, China.
+The results indicate that single-sensor (S2) or single-day data (L8) cannot obtain satisfactory results; the overall accuracy was 54.31% and 50.00%, respectively.
+Compared with the classification using only Sentinel-2 data, the overall accuracy increased by approximately 15.23% and 22.51%, respectively, by adding DEM and multi-temporal Landsat-8 imagery.
+The highest accuracy (82.78%) was achieved with fused imagery, the terrain and multi-temporal data contributing the most to forest type identification.
+These encouraging results demonstrate that freely-accessible multi-source remotely-sensed data have tremendous potential in forest type identification, which can effectively support monitoring and management of forest ecological resources at regional or global scales.

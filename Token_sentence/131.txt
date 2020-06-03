@@ -1,0 +1,12 @@
+Following the Kumamoto earthquake in April 2016, landslides occurred in the Minamiaso village of Japan.
+Classification of remotely sensed imagery has been useful for mapping of the landslide area.
+Many studies have focused on using object-based classification of the imagery to derive landslide maps.
+Also, those studies used shape or texture analysis, which requires significant time and labor, and expensive commercial software.
+The purpose of this research was to develop a methodology to map the landslide area rapidly and economically using object-based classification with true color satellite images.
+Publicly available, RapidEye images taken before and after the landslide were used to save cost.
+Segmentation of the imagery was completed with the mean shift algorithm in the open source noncommercial remote sensing software, Orfeo toolbox.
+In addition, a maximum likelihood classification tool was built in a Python framework (open source freeware) to classify the objects created from Orfeo toolbox.
+For initial classification of each RapidEye image for both pre- and post-landslide, the overall accuracies were 91% and 88%, and Kappa statistics were 0.89 and 0.85, respectively.
+The landslide area was estimated as 979,815 m(2) with an accuracy of 98% after human-guided refinement of the landslide features.
+Every procedure was implemented using open source remote sensing or geographic information system technologies, which provided cost efficiency while simultaneously providing freedom from commercial license restrictions.
+Also, these open source technologies provided highly flexible interoperability with a classification framework developed using Python.

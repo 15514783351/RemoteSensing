@@ -1,0 +1,10 @@
+Actual evapotranspiration is one of the most important component for efficient water management and planning.
+Until recently, evapotranspiration computations and measurements have been performed locally.
+But, in recent years, actual evapotranspiration computations can be calculated regionally thanks to improvements on remote sensing discipline and satellites.
+Surface Energy Balance Algorithm for Land (SEBAL) is one of the most commonly preferred technics for actual evapotranspiration mapping.
+However, this algorithm has some difficulties such as mismatch with Landsat 8 and hot-wet pixel selection which require expert knowledge.
+In this paper, a novel SEBAL based approach (SEBAL-BSA), which can use Landsat 8 images as data and can automatically perform hot-wet pixel selection using Backtracking Search Algorithm (BSA) with ground control points, has been proposed.
+SEBAL-BSA was developed and tested using January 22-2015, April 28-2015 and July 01-2015 dated Landsat 8 images in Akarsu Irrigation Water User Association command area in the cukurova Region of Turkey and actual evapotranspiration mapping was realized without albedo measurements.
+Accuracy of SEBAL-BSA has been examined by comparing values of predefined ground truth points and values obtained from proposed approach.
+According to results of parametric matched pairs T test and nonparametric Wilcoxon sign rank test, SEBAL-BSA is highly successful.
+Applications also show that the SEBAL-BSA is a user-friendly approach for institutions and organizations related to water authorization and management.

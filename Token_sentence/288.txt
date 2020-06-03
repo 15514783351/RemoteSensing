@@ -1,0 +1,9 @@
+Daily evapotranspiration (ET) is of great significance among various practical applications including water management, drought monitoring, and climate change study.
+The ET estimations from remotely sensed models are usually instantaneous values.
+Various upscaling methods have been developed to extrapolate the instantaneous ET to daily scale.
+In the applications of these methods, the accuracy of daily ET estimation relies on both the accuracy of instantaneous ET calculation and the upscaling methods.
+This paper used the decoupling model to estimate daily ET directly, according to the constancy of the decoupling coefficient (Omega) in the model in a diurnal cycle, without the calculation of instantaneous ET.
+The estimated daily ET was compared with the Eddy covariance measurements which were corrected by the Bowen ratio method to close the energy imbalances.
+The result from field data alone showed that the coefficient of determination (R-2) of daily ET estimation was 0.860, with a root-mean-square error (RMSE) of 18.2 W/m(2), and a bias of -4.7 W/m(2).
+Combining MODIS data and field data, the estimated daily ET had a R2 of 0.860, a RMSE of 21.6 W/m(2), and a bias of -5.0 W/m(2).
+Therefore, it is feasible and effective to obtain daily ET using remote-sensing based instantaneous Omega to replace daily value in the decoupling model.

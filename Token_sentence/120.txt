@@ -1,0 +1,8 @@
+Inhalation of airborne particulate matter (PM) is associated with a variety of adverse health outcomes.
+However, the relative toxicity of specific PM types-mixtures of particles of varying sizes, shapes, and chemical compositions-is not well understood.
+A major impediment has been the sparse distribution of surface sensors, especially those measuring speciated PM.
+Aerosol remote sensing from Earth orbit offers the opportunity to improve our understanding of the health risks associated with different particle types and sources.
+The Multi-angle Imaging SpectroRadiometer (MISR) instrument aboard NASA's Terra satellite has demonstrated the value of near-simultaneous observations of backscattered sunlight from multiple view angles for remote sensing of aerosol abundances and particle properties over land.
+The Multi-Angle Imager for Aerosols (MAIA) instrument, currently in development, improves on MISR's sensitivity to airborne particle composition by incorporating polarimetry and expanded spectral range.
+Spatiotemporal regression relationships generated using collocated surface monitor and chemical transport model data will be used to convert fractional aerosol optical depths retrieved from MAIA observations to near-surface PM10, PM2.5, and speciated PM2.5.
+Health scientists on the MAIA team will use the resulting exposure estimates over globally distributed target areas to investigate the association of particle species with population health effects.

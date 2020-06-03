@@ -1,0 +1,12 @@
+The use of remote sensing to monitor surface water bodies has gradually matured.
+Long-term serial water change analysis and floods monitoring are currently research hotspots of remote sensing hydrology.
+However, these studies are also faced with some problems, such as coarse temporal or spatial resolution of some remote sensing data.
+In general, flood monitoring requires high temporal resolution, and small-scale surface water extraction requires high spatial resolution.
+The machine learning method has been proven to be effective against long-term serial surface water extraction, such as random forests (RFs).
+MODIS data are well suited for large-scale surface water dynamic analysis and flood monitoring because of its short return cycle and medium spatial resolution.
+In this paper, the Yangtze River Basin (YRB) in China was selected as the study area, and two MODIS products (MOD09A1 and MOD13Q1) and RF method were used to extract the surface water from 2000 to 2016.
+Considering the disadvantages of temporal or spatial resolution of these two MODIS products, this study also presents a data fusion method to combine them and get higher spatiotemporal resolution water results.
+Finally, 762 surface water maps from 2000 to 2016 are obtained, whose temporal and spatial resolution is every eight days and 250 m, respectively.
+In addition, water extent variation is analyzed and compared to observed precipitation data.
+The main conclusions are as follows: (1) this constructed approach for long-term serial surface water extraction based on the RF classifier is feasible, and a good fusion method is used to obtain the surface water body with higher spatiotemporal resolution; (2) the maximum area of the surface water extent is 48.53 x 10(3) km(2), and seasonal and permanent water areas are 20.51 x 10(3) km(2) and 28.01 x 10(3) km(2), respectively; (3) surface water area is increasing in the YRB, such that seasonal water area decreased by 3450 km(2), and the permanent water area increased by 3565 km(2) in 2001-2015; (4) precipitation is the main factor causing variation in the surface water bodies, and they both show an increasing trend in 2000-2016.
+As such, the approach is worth referring to other remote sensing applications, and these products are very both valuable for water resource management and flood monitoring in the study area.

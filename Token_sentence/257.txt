@@ -1,0 +1,9 @@
+Multitask learning (MTL) has recently yielded impressive results for classification of remotely sensed data due to its ability to incorporate shared information across multiple tasks.
+However, it remains a challenging issue to achieve robust classification results in the case that the data are from nonlinear subspaces.
+In this paper, we propose a kernel low-rank MTL (KL-MTL) method to handle multiple features from the 2-D variational mode decomposition (2-D-VMD) domain for multi-/hyperspectral classification.
+On the one hand, a nonrecursive 2-D-VMD method is applied to extract various features [i.e., intrinsic mode functions (IMFs)] of the original data concurrently.
+Compared with the existing 2-D empirical mode decomposition, 2-D-VMD has much stronger mathematical foundation and does not need any recursive sifting process.
+On the other hand, KL-MTL is proposed for classification by taking the extracted IMFs as features of multiple tasks.
+In KL-MTL, the low-rank representation formulated by nuclear norm can capture global structure of multiple tasks, while the kernel tricks are utilized for nonlinear extension of the lowrank MTL.
+Moreover, the optimization problem in KL-MTL is solved by the inexact augmented Lagrangian method.
+Compared with several state-of-the-art feature extraction and classification methods, the experimental results using both multi-/ hyperspectral images demonstrate that the proposed method has satisfactory classification performance.

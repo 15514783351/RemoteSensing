@@ -1,0 +1,9 @@
+This study proposed a green-red band quasianalytical algorithm, QAA-GRI, and evaluates its performance using an in situ dataset from Lake Qiandaohu, a drinking water source, in China.
+First, by shifting the reference wavelength from 555 to 510 nm, a green-red index (GRI) can be calculated from remote sensing reflectance at 510, 560, and 620 nm, and the index was then used to retrieve the total absorption coefficients at the reference band, a(510).
+Second, a semianalytical model based on a (510) and the GRI was deduced to establish the QAA-GRI, replacing the empirical model in quasianalytical algorithm version 5 (QAA-v5).
+The QAA-GRI was applied to retrieve absorption coefficients from an in situ dataset of Lake Qiandaohu, and the QAA-GRI's performance was compared with that of QAA-v5 and another red-green QAA-based approach (QAA-RGR).
+The results demonstrate that, for this dataset, the QAA-GRI exhibited better performance ((R-2 = 0.81, mean absolute percentage error, MAPE = 15.7%)), which indicated a clear improvement in the accuracy of absorption coefficient retrieval, compared with QAA-v5 ((R-2 = 0.56, MAPE = 21.2%)) and QAA-RGR ((R-2 = 0.67, MAPE = 22.6%)).
+In addition, to illustrate the QAA-GRI's assumptions and its applicability, the QAA-GRI was also applied to an in situ dataset from Taihu Lake, a highly turbid and eutrophic water source.
+As predicted, when applied to Taihu Lake, the QAA-GRI did not perform as well as it did when applied to Lake Qiandaohu because of the former's extremely high turbidity, which can cause greater uncertainty with regard to backscattering coefficients.
+This study suggests that the QAA-GRI is better suited to the retrieval of absorption coefficients from drinking water resources.
+Our algorithm will also have potential applications to satellite data from the Medium Resolution Imaging Spectrometer or Ocean and Land Color Instrument.

@@ -1,0 +1,12 @@
+The Andaman Sea in the Indian Ocean has been a classical study region for Internal Solitary Waves (ISWs) for several decades.
+Papers such as Osborne and Burch (1980) usually describe mode-1 packets of ISWs propagating eastwards, separated by distances of around 100 km.
+In this paper, we report on shorter period solitary-like waves that are consistent with a mode-2 vertical structure, which are observed along the Ten Degree Channel, and propagate side-by-side the usual large mode-1 solitary wave packets.
+The mode-2 waves are identified in TerraSAR-X images because of their distinct surface signatures, which are reversed when compared to those that are typical of mode-1 ISWs in the ocean.
+These newly observed regularly-spaced packets of ISW-like waves are characterized by average separations of roughly 30 km, which are far from the nominal mode-1 or even the mode-2 internal tidal wavelengths.
+On some occasions, five consecutive and regularly spaced mode-2 ISW-like wave envelopes were observed simultaneously in the same TerraSAR-X image.
+This fact points to a tidal generation mechanism somewhere in the west shallow ridges, south of the Nicobar Islands.
+Furthermore, it implies that unusually long-lived mode-2 waves can be found throughout the majority of the fortnightly tidal cycle.
+Ray tracing techniques are used to identify internal tidal beams as a possible explanation for the generation of the mode-2 solitary-like waves when the internal tidal beam interacts with the ocean pycnocline.
+Linear theory suggests that resonant coupling with long internal waves of higher-mode could explain the longevity of the mode-2 waves, which propagate for more than 100 km.
+Owing to their small-scale dimensions, the mode-2 waves may have been overlooked in previous remote sensing images.
+The enhanced radiometric resolution of the TerraSAR-X, alongside its wide coverage and detailed spatial resolutions, make it an ideal observational tool for the present study.

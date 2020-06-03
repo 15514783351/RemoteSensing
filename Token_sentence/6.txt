@@ -1,0 +1,11 @@
+We developed an approach to estimate snow water equivalent (SWE) through interpolation of spatially representative point measurements using a k-nearest neighbors (k-NN) algorithm and historical spatial SWE data.
+It accurately reproduced measured SWE, using different data sources for training and evaluation.
+In the central-Sierra American River basin, we used a k-NN algorithm to interpolate data from continuous snow-depth measurements in 10 sensor clusters by fusing them with 14 years of daily 500-m resolution SWE-reconstruction maps.
+Accurate SWE estimation over the melt season shows the potential for providing daily, near real-time distributed snowmelt estimates.
+Further south, in the Merced-Tuolumne basins, we evaluated the potential of k-NN approach to improve real-time SWE estimates.
+Lacking dense ground-measurement networks, we simulated k-NN interpolation of sensor data using selected pixels of a bi-weekly Lidar-derived snow water equivalent product.
+k-NN extrapolations underestimate the Lidar-derived SWE, with a maximum bias of -10 cm at elevations below 3000 m and +15 cm above 3000 m.
+This bias was reduced by using a Gaussian-process regression model to spatially distribute residuals.
+Using as few as 10 scenes of Lidar-derived SWE from 2014 as training data in the k-NN to estimate the 2016 spatial SWE, both RMSEs and MAEs were reduced from around 20-25 cm to 10-15 cm comparing to using SWE reconstructions as training data.
+We found that the spatial accuracy of the historical data is more important for learning the spatial distribution of SWE than the number of historical scenes available.
+Blending continuous spatially representative ground-based sensors with a historical library of SWE reconstructions over the same basin can provide real-time spatial SWE maps that accurately represents Lidar-measured snow depth; and the estimates can be improved by using historical Lidar scans instead of SWE reconstructions.

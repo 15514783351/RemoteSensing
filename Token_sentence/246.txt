@@ -1,0 +1,11 @@
+Geographical object-based image analysis (GEOBIA) is widely used for the processing of fine spatial resolution images, with increased research on contextual modelling and classification related to GEOBIA.
+Specifically, a previously developed object-based image classification method, known as geostatistically weighted k-NN (gk-NN) method, has shown advantages in increasing classification accuracy.
+The gk-NN method incorporates spatial weighting into the k-NN classifier through modelling spatial covariance of underlying area classes.
+However, change-of-support problem (COSP) due to different geometries of image objects is not considered therein.
+In this paper, we propose a method based on geostatistical de-regularization and regularization for quantifying spatial dependence in area-class occurrences and accounting for scale discrepancy in image objects and pixels.
+In this new modelling approach, an area-weighted (AW) distance measure is applied for modelling spatial covariance pertaining to sample image objects.
+The covariance model fitted with image objects sample data is de-regularized to a point-support one, so the spatial covariance over unsampled image objects can then be computed through regularization of a point-support model (RP).
+Unlike the previous modelling approach in the object based gk-NN classification, whereby spatial dependence modelling is based on centroids of image objects, this method accounts for change of support and incorporates the geometry of image objects in modelling.
+The new modelling method was tested on three remote-sensing image subsets with different environments, using regular and irregular segmentation methods at hierarchical scales.
+It was confirmed that the RP method leads to largely significant increases in classification accuracies (with an average increase of 38.09% in classification accuracy with eighteen cases), compared with that by geostatistical modelling with image object centroids.
+The proposed method can be used for the modelling of spatial dependence in block-support data which are common in many geospatial applications.

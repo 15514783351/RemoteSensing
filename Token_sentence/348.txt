@@ -1,0 +1,10 @@
+The scanning infrared focal plane array (IRFPA) suffers from stripe-like non-uniformity due to the usage of many detectors, especially when working with a large time scale.
+Typical calibration systems tend to block the sensor aperture and expose the detectors to an on-board blackbody calibration source.
+They may also point at deep space.
+Full aperture calibration sources of this type tend to be large and expensive.
+To address these problems, a dynamic non-uniformity correction (NUC) method is proposed based on a modulated internal calibration device.
+By employing the on-board calibration device to generate a dynamic scene and fully integrating the system characteristics of the scanning IRFPA into the scene-based non-uniformity correction (SBNUC) algorithm, on-orbit high dynamic range NUC is achieved without blocking the field of view.
+Here we simulate an internal calibration system alternative, where a dynamic calibration signal is superimposed on the normal imagery, thus requiring no mechanisms and a smaller size.
+This method using this type of calibrator shows that when the sensor is pointing at deep space for calibration, it provides an effective non-uniformity correction of the imagery.
+After performing the proposed method, the NU of the two evaluation images was reduced from the initial 12.99% and 8.72% to less than 2%.
+Compared to other on-board NUC methods that require an extended reference blackbody source, this proposed approach has the advantages of miniaturization, a short calibration time, and strong adaptability.

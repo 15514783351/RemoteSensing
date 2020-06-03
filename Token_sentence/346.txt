@@ -1,0 +1,10 @@
+Field net primary productivity (NPP) is useful in research modeling of regional and global carbon cycles and for validating results by remote sensing or process-based models.
+In this study, we used multiple models of NPP estimation and vegetation classification methods to study Chinese vegetation NPP characteristics, trends, and drivers using 7618 field measurements from the 1960s, 1980s, and 2000s.
+The values of other relevant NPP models, as well as process-based simulation and remote sensing models, were compared.
+Our results showed that NPP ranged from 3 to 12,407 gCm(-2)year(-1) with a mean value of 571 gCm(-2)year(-1).
+Vegetation NPP gradually decreased from the southeast to the northwest.
+Forest, farmland, and grassland NPP was 1152, 294, and 518 gCm(-2)year(-1), respectively.
+Total NPP of grassland was higher than that of farmland.
+Total terrestrial NPP decreased from 3.58 to 3.41 Pg Cyear(-1) from the 1960s to the 2000s, a decadal decrease of 4.7%.
+Total NPP in forests and grasslands consistently showed a decreasing trend and decreased by 0.46 Pg Cyear(-1)and 0.16 Pg Cyear(-1), respectively, whereas NPP for farmland showed an opposite trend, with a growth of 0.45 Pg Cyear(-1).
+Our research findings filled gaps in the information regarding NPP for the entire landmass of China based on field data from a long-term time series and provide valuable information and a basis for validation analyses by remote sensing models, as well as a robust quantification of carbon estimation to anticipate future development at the national and global scale.

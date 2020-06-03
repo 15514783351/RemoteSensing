@@ -1,0 +1,8 @@
+Several remote sensing proxies, such as image texture, have been used to describe the spatial variation of different tropical forest's attributes at medium scales.
+Fourier transformed ordination (FOTO) and gray level co-occurrence matrix (GLCM) are two texture methods frequently used in these studies but seldom compared.
+Therefore, the objective of this study was to compare the potential of these metrics to describe and predict structural and diversity attributes of a tropical swamp forest located in southeast Mexico.
+FOTO and GLCM textures were extracted from the panchromatic (Pan) band, the near-infrared (NIR) and red (R), of a very high spatial resolution (VHSR) image.
+Six different types of models that incorporated between one and three texture variables were constructed to describe each forest attribute.
+Simpson (R-2 = 0.71) and Shannon (R-2 = 0.67) diversity indices followed by the aboveground biomass (R-2 = 0.65) were the attributes that obtained models with a higher goodness-of-fit values.
+In terms of its modeling potential, GLCM greatly surpassed FOTO textures.
+Our results show that VHSR textures (especially R- and NIR-derived GLCM metrics) allow for a reliable estimation of important tropical swamp forest attributes associated with its diversity and structure.

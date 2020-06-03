@@ -1,0 +1,5 @@
+To obtain spatial feature distributions from the mixed pixels of remote sensing images and increase the accuracy of land-cover classification and recognition, a double-calculated spatial attraction model (DSAM) based on the combination of spatial attraction model (SAM) and pixel swapping model (PSM) is presented and verified by introducing the law of universal gravitation to describe the attraction between pixels.
+In DSAM, SAM was used to improve the initialization algorithm of PSM, and the optimization algorithm of PSM was improved accordingly.
+Using a SPOT-5 remote sensing image, related subpixel mapping (SPM) experiments were performed to verify the SPM effect of DSAM and to test its accuracy.
+The experimental results indicated that the DSAM SPM results were superior to the SPM results of SAM and PSM.
+DSAM was proven effective and applicable for the SPM of remotely sensed images, and the model can improve the accuracy of SPM and landcover classification.

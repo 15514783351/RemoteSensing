@@ -1,0 +1,10 @@
+Total phosphorus (TP) is an important factor of eutrophication.
+The accurate monitoring of TP concentration is conducive to the management of water environments.
+To improve the accuracy of TP remote sensing inversion, this paper improved and studied the following three aspects.
+First, a new optical classification method was constructed to classify water into two different types.
+Compared with other classification methods, the proposed method can be more effective for improving the accuracy of TP inversion.
+Second, data regression analysis and fitting (DRF), back propagation neural network (BP) and random forest (RF) were used to build TP inversion models based on the different water type.
+The validation results indicated that the DRF performed best, with the highest precision for all water types, and was suitable for TP inversion.
+Finally, the performance of the classification and inversion algorithms on Sentinel-3 data was evaluated and one image was acquired for mapping the TP concentration in Taihu Lake.
+All in all, this study improves the accuracy of TP inversion by combining the new classification algorithm with DRF.
+This is significant for the development of class-based water quality parameter inversion algorithms for water color remote sensing, and this approach can be applied in the effective management and control of the eutrophication of lake environments.

@@ -1,0 +1,8 @@
+Evapotranspiration (ET) is an important component of the eco-hydrological process.
+Comprehensive analyses of ET change at different spatial and temporal scales can enhance the understanding of hydrological processes and improve water resource management.
+In this study, monthly ET data and meteorological data from 57 meteorological stations between 2000 and 2014 were used to study the spatiotemporal changes in actual ET and the associated causes in the Hai Basin.
+A spatial analysis was performed in GIS to explore the spatial pattern of ET in the basin, while parametric t-test and nonparametric Mann-Kendall test methods were used to analyze the temporal characteristics of interannual and annual ET.
+The primary causes of the spatiotemporal variations were partly explained by detrended fluctuation analysis.
+The results were as follows: (i) generally, ET increased from northwest to southeast across the basin, with significant differences in ET due to the heterogeneous landscape.
+Notably, the ET of water bodies was highest, followed by those of paddy fields, forests, cropland, brush, grassland and settlement; (ii) from 2000 to 2014, annual ET exhibited an increasing trend of 3.7 mm per year across the basin, implying that the excessive utilization of water resources had not been alleviated and the water resource crisis worsened; (iii) changes in vegetation coverage, wind speed and air pressure were the major factors that influenced interannual ET trends.
+Temperature and NDVI largely explained the increases in ET in 2014 and can be used as indicators to evaluate annual ET and provide early warning for associated issues.

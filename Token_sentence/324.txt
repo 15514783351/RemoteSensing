@@ -1,0 +1,8 @@
+China is one of the countries with the most abundant bamboo forest resources in the world, and Zhejiang province is among the top-3 Chinese provinces with richest bamboo forests.
+For rational bamboo forests management, it is of great significance to study the spatiotemporal dynamic changes of Aboveground Carbon (AGC) stocks of bamboo forest in Zhejiang.
+In this study, remote sensing variables, such as spectral, vegetation indices and texture features of bamboo forest in Zhejiang, were extracted from 32 Landsat TM and OLI images got from four different years (2000, 2004, 2008 and 2014).
+These variables were subsequently selected with stepwise regression method to build an estimation model of AGC of the bamboo forests.
+The results showed that (1) the accuracy of bamboo forest remote sensing information extracted from the four different years was high with a classification accuracy of >76.26% and an accuracy of users of >91.62%.
+The classification area of bamboo forest was highly consistent with the area from forest resource inventory, and the area accuracy was over 96.50%; (2) the estimation model performed well in predicting the AGC in Zhejiang for different years.
+The correlation coefficient for estimated and measured AGC was between 63% and 72% with low root mean square error; (3) the derived AGC of the bamboo forests in Zhejiang province increased gradually from 2000 to 2014, with the AGC density of 6.75 Mgha(-1), 10.95 Mgha(-1), 15.25 Mgha(-1) and 19.07 Mgha(-1) respectively, and the average annual growth of 0.88 Mgha(-1).
+The spatiotemporal evolution of bamboo forest AGC in Zhejiang province had a close relationship with the gradual expansion of bamboo forest in the province and the differentiation of management levels in different regions.

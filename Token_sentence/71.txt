@@ -1,0 +1,10 @@
+A novel method based on the fusion of spectral, texture, and shape features is proposed for the segmentation of high spatial resolution remote sensing images.
+The method uses the region merging idea to get the final segmentation result on the basis of initial segmentation.
+Texture features of the regions are obtained by the nonsubsampled contourlet transform.
+An integrated region merging criterion is built by combining the texture, spectral, and shape features.
+To ensure the efficiency of the method, the region adjacency graph and the nearest neighbor graph are used to maintain the adjacency relations in the region merging stage.
+The global optimization strategy is adopted to realize the image segmentation gradually.
+Two experiments are performed to verify the effectiveness of the proposed method.
+One experiment validates the influence of the merging criteria with different feature combinations on the segmentation results.
+Another experiment compares the effect of the method with the segmentation methods embedded in ENVI and eCognition.
+Experimental results show that the method can make full use of the features of the images to achieve accurate and efficient segmentations.

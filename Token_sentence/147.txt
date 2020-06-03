@@ -1,0 +1,12 @@
+Microwave radar is a well-established tool for all-weather monitoring of film slicks which appear in radar imagery of the surface of water bodies as areas of reduced backscatter due to suppression of short wind waves.
+Information about slicks obtained with single-band/one-polarized radar seems to be insufficient for film characterization; hence, new capabilities of multi-polarization radars for monitoring of film slicks have been actively discussed in the literature.
+In this paper the results of new experiments on remote sensing of film slicks using dual co-polarized radarsa satellite TerraSAR-X and a ship-based X-/C-/S-band radarare presented.
+Radar backscattering is assumed to contain Bragg and non-Bragg components (BC and NBC, respectively).
+BC is due to backscattering from resonant cm-scale wind waves, while NBC is supposed to be associated with wave breaking.
+Each of the components can be eliminated from the total radar backscatter measured at two co-polarizations, and contrasts of Bragg and non-Bragg components in slicks can be analyzed separately.
+New data on a damping ratio (contrast) characterizing reduction of radar returns in slicks are obtained for the two components of radar backscatter in various radar bands.
+The contrast values for Bragg and non-Bragg components are comparable to each other and demonstrate similar dependence on radar wave number; BC and NBC contrasts grow monotonically for the cases of upwind and downwind observations and weakly decrease with wave number for the cross-wind direction.
+Reduction of BC in slicks can be explained by enhanced viscous damping of cm-scale Bragg waves due to an elastic film.
+Physical mechanisms of NBC reduction in slicks are discussed.
+It is hypothesized that strong breaking (e.g., white-capping) weakly contributes to the NBC contrast because of cleaning of the water surface due to turbulent surfactant mixing associated with wave crest overturning.
+An effective mechanism of NBC reduction due to film can be associated with modification of micro-breaking wave features, such as parasitic ripples, bulge, and toe, in slicks.

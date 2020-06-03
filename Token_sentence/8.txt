@@ -1,0 +1,10 @@
+A novel approach to characterize the physiological conditions of plants from hyperspectral remote sensing data through the numerical inversion of a light version of the SCOPE model is proposed.
+The combined retrieval of vegetation biochemical and biophysical parameters and Sun-induced chlorophyll fluorescence (F) was investigated exploiting high resolution spectral measurements in the visible and near-infrared spectral regions.
+First, the retrieval scheme was evaluated against a synthetic dataset.
+Then, it was applied to very high resolution (sub-nanometer) canopy level spectral measurements collected over a lawn treated with different doses of a herbicide (Chlorotoluron) known to instantaneously inhibit both Photochemical and Non-Photochemical Quenching (PQ and NPQ, respectively).
+For the first time the full spectrum of canopy F, the fluorescence quantum yield (Phi(F)), as well as the main vegetation parameters that control light absorption and reabsorption, were retrieved concurrently using canopy-level high resolution apparent reflectance (rho*) spectra.
+The effects of pigment content, leaf/canopy structural properties and physiology were effectively discriminated.
+Their combined observation over time led to the recognition of dynamic patterns of stress adaptation and stress recovery.
+As a reference, F values obtained with the model inversion were compared to those retrieved with state of the art Spectral Fitting Methods (SFM) and SpecFit retrieval algorithms applied on field data.
+Phi(F) retrieved from rho* was eventually compared with an independent biophysical model of photosynthesis and fluorescence.
+These results foster the use of repeated hyperspectral remote sensing observations together with radiative transfer and biochemical models for plant status monitoring.

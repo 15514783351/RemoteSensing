@@ -1,0 +1,12 @@
+The potential for estimating streamflow in large continental rivers from satellite observations of river hydraulic variables has been well recognized.
+However this has not been widely applied to smaller regional rivers.
+In this study, we investigated the reliability of calibrating a hydrological model for the upper Yalongjiang River Basin on the Qinghai-Tibet Plateau, based solely on river water surface widths derived from four high spatial resolution commercial satellite images: two from QuickBird and one each from IKONOS and WorldView-1.
+The model was forced using satellite-based meteorological datasets and calibrated using remotely sensed river widths.
+In situ gauged data are not used for modeling, making the approach applicable for ungauged basins.
+To shift the calibration objective from streamflow to river width, the hydrological model is connected to the at-a station hydraulic geometry (AHG) relationship.
+Generalized likelihood uncertainty estimation was used for automatic calibration and to better quantify simulation uncertainty.
+After constraining the model parameter space solely to the river width observations, the Nash-Sutcliffe Efficiency values for the streamflow simulated using the calibrated model reached 64.3% in the calibration period and 55.8% in the validation period.
+When calibrating the model using river width datasets with designed measurement error associated with riparian canopy, the influences of error on model simulation were less than expected.
+This was because the effect of the error was counteracted by adjustment of the AHG parameters.
+Both superimposing updated ranges for the AHG parameters and further constraining the model output using hydrological signature information following calibration reduced simulation uncertainty, particularly with use of the latter method.
+This study demonstrates the potential for application of the proposed calibration method to regional ungauged basins lacking ground streamflow observation data, and provides insights into how remote sensing data can be more effectively integrated with hydrological modeling.

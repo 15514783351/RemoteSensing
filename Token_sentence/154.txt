@@ -1,0 +1,12 @@
+Since over 70% of carbon emissions are from urban areas, it is of great importance to develop an effective measurement technique that can accurately monitor atmospheric CO2 in global urban areas.
+Remote sensing could be an effective way to achieve this goal.
+However, due to high aerosol loading in urban areas, there are large, inadequately resolved areas in the CO2 products acquired by passive remote sensing.
+China is planning to launch the Atmospheric Environment Monitoring Satellite (AEMS) equipped with a CO2-light detecting and ranging (LIDAR) system.
+This work conducted a feasibility study on obtaining city-scale column CO2 volume mixing ratios (XCO2) using the LIDAR measurements.
+A performance framework consisting of a sensor model, sampling model, and environmental model was proposed to fulfill our demand.
+We found that both the coverage and the accuracy of the LIDAR-derived city-scale XCO2 values were highly dependent on the orbit height.
+With an orbit height of 450 km, random errors of less than 0.3% are expected for all four metropolitan areas tested in this work.
+However, random errors of less than 0.3% were obtained in only two metropolitan areas with an orbit height of 705 km.
+Our simulations also showed that off-nadir sampling would improve the performance of a CO2-Integrated Path Differential Absorption (IPDA) LIDAR system operating in a 705 km orbit.
+These results indicate that an active remote sensing mission could help to effectively measure XCO2 values in urban areas.
+More detailed studies are needed to reveal the potential of such equipment for improving the verification of carbon emissions and the estimation of urban carbon fluxes.

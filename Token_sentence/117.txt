@@ -1,0 +1,10 @@
+Numerous methods have been successfully applied to estimate the regional impervious surface dynamics based on spectral or spatial information from remote sensing imagery.
+However, previous methods mainly focused on mapping impervious surfaces at annual or decadal time scales.
+Few studies have attempted to map impervious surface dynamics at finer time scales, such as on a seasonal time scale using temporal information.
+This study aims to map regional impervious surface dynamics on a seasonal time scale by using time series Landsat data.
+The semi-supervised support vector machine (SVM) algorithm was employed for classifying impervious surfaces based on temporal characteristics, which were derived from seasonal time series biophysical composition index (BCI) and seasonal time series modified normalized difference impervious surface index (NDISI).
+The proposed method was validated over the Wuhan urban agglomeration (WUA) in China from 2000 to 2016.
+The results showed that impervious surfaces in the Wuhan urban agglomeration increased from 903.24 km(2) in 2000 to 3989.49 km(2) in 2016, with an annual growth rate of 20.10%.
+Additionally, the proposed method yielded reasonable average overall classification accuracy (up to 88%).
+Our results demonstrated that the proposed method could accurately map seasonal impervious surface dynamics based on temporal characteristics.
+This study could enable the monitoring of time-intensive impervious surfaces at a regional scale using remote sensing data.

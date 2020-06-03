@@ -1,0 +1,6 @@
+We propose a new approach for automatic refinement of unorganized point clouds captured by LiDAR scanning systems.
+Given a point cloud, our method first abstracts the input data into super voxels via over segmentations, and then builds a K-nearest neighbor graph on these voxel nodes.
+Abstracting into voxel representation provides a means to generate an elastic wireframe over the original data.
+An iterative resampling method is then introduced to project resampling points to all potential surfaces considering repulsion constraints from both interior and exterior of voxels.
+Our point consolidation process contributes to accurate normal estimation, uniform point distribution, and sufficient sampling density.
+Experiments and comparisons have demonstrated that the proposed method is effective on point clouds from a variety of datasets.

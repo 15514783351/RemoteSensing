@@ -1,0 +1,6 @@
+3D building models are an essential data infrastructure for various applications in a smart city system, since they facilitate spatial queries, spatial analysis, and interactive visualization.
+Due to the highly complex nature of building structures, automatically reconstructing 3D buildings from point clouds remains a challenging task.
+In this paper, a Roof Attribute Graph (RAG) method is proposed to describe the decomposition and topological relations within a complicated roof structure.
+Furthermore, top-down decomposition and bottom-up refinement processes are proposed to reconstruct roof parts according to the Gestalt laws, generating a complete structural model with a hierarchical topological tree.
+Two LiDAR datasets from Guangdong (China) and Vaihingen (Germany) with different point densities were used in our study.
+Experimental results, including the assessment on Vaihingen standardized by the International Society for Photogrammetry and Remote Sensing (ISPRS), show that the proposed method can be used to model 3D building roofs with high quality results as demonstrated by the completeness and correctness metrics presented in this paper.

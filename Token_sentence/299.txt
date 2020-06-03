@@ -1,0 +1,9 @@
+Modelling ecological niches across vast distribution ranges in remote, high mountain regions like the Himalayas faces several data limitations, in particular nonavailability of species occurrence data and fine-scale environmental information of sufficiently high quality.
+Remotely sensed data provide key advantages such as frequent, complete, and long-term observations of land surface parameters with full spatial coverage.
+The objective of this study is to evaluate modelled climate data as well as remotely sensed data for modelling the ecological niche of Betula utilis in the subalpine and alpine belts of the Himalayan region covering the entire Himalayan arc.
+Using generalized linear models (GLM), we aim at testing factors controlling the species distribution under current climate conditions.
+We evaluate the additional predictive capacity of remotely sensed variables, namely remotely sensed topography and vegetation phenology data (phenological traits), as well as the capability to substitute bioclimatic variables from downscaled numerical models by remotely sensed annual land surface temperature parameters.
+The best performing model utilized bioclimatic variables, topography, and phenological traits, and explained over 69% of variance, while models exclusively based on remotely sensed data reached 65% of explained variance.
+In summary, models based on bioclimatic variables and topography combined with phenological traits led to a refined prediction of the current niche of B. utilis, whereas models using solely climate data consistently resulted in overpredictions.
+Our results suggest that remotely sensed phenological traits can be applied beneficially as supplements to improve model accuracy and to refine the prediction of the species niche.
+We conclude that the combination of remotely sensed land surface temperature parameters is promising, in particular in regions where sufficient fine-scale climate data are not available.

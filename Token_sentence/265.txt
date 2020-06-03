@@ -1,0 +1,9 @@
+Remote sensing images with high-spatial and high-temporal (HSHT) resolution are difficult to be consistently achieved with a single polar orbit satellite because of the trade-off between spatial and temporal resolution.
+However, blending algorithms have been developed to synthesize HSHT images from low-spatial but high-temporal resolution images and high-spatial but low-temporal resolution images.
+One example is a widely used weight-function-based method known as the enhanced spatial and temporal adaptive reflectance fusion model (ESTARFM).
+Similar-pixels play a key role in the prediction accuracy of this model, and their identification is influenced by the method used, the number of classes, and the moving window size.
+However, influence of these parameters on the final prediction accuracy has not been thoroughly examined.
+Therefore, this study assesses the accuracy of ESTARFM when similar-pixels are identified by two separate methods using different numbers of classes and moving window sizes.
+The results indicated that the class-image-based method outperformed the threshold-based method in most cases and the increase of moving window size generally improved the accuracy for both methods.
+However, the improvement was minor and accuracy degraded in some cases if the moving window was too large.
+In addition, the ESTARFM program was optimized in this study, and its computational efficiency was improved compared with previous studies.

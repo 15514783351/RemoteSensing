@@ -1,0 +1,14 @@
+Object-based image analysis (OBIA) has gained widespread popularity for creating maps from remotely sensed data.
+Researchers routinely claim that OBIA procedures outperform pixel-based procedures; however, it is not immediately obvious how to evaluate the degree to which an OBIA map compares to reference information in a manner that accounts for the fact that the OBIA map consists of objects that vary in size and shape.
+Our study reviews 209 journal articles concerning OBIA published between 2003 and 2017.
+We focus on the three stages of accuracy assessment: (1) sampling design, (2) response design and (3) accuracy analysis.
+First, we report the literature's overall characteristics concerning OBIA accuracy assessment.
+Simple random sampling was the most used method among probability sampling strategies, slightly more than stratified sampling.
+Office interpreted remotely sensed data was the dominant reference source.
+The literature reported accuracies ranging from 42% to 96%, with an average of 85%.
+A third of the articles failed to give sufficient information concerning accuracy methodology such as sampling scheme and sample size.
+We found few studies that focused specifically on the accuracy of the segmentation.
+Second, we identify a recent increase of OBIA articles in using per-polygon approaches compared to per-pixel approaches for accuracy assessment.
+We clarify the impacts of the per-pixel versus the per polygon approaches respectively on sampling, response design and accuracy analysis.
+Our review defines the technical and methodological needs in the current per-polygon approaches, such as polygon-based sampling, analysis of mixed polygons, matching of mapped with reference polygons and assessment of segmentation accuracy.
+Our review summarizes and discusses the current issues in object-based accuracy assessment to provide guidance for improved accuracy assessments for OBIA.

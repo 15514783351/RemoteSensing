@@ -1,0 +1,5 @@
+Since the beginning of the soil moisture and ocean salinity mission, the pervading presence of radio frequency interferences (RFI) has been one of the mast problematic issues.
+The effect of an RFI is not just a hot spot but also six tails along the three main axes, and the general presence of ripples which degrade the quality of L1 brightness temperature snapshots.
+The standard mitigation technique is to apply an apodization (Blackman), but such a low-pass filter leaves traces of the tails and spreads the signal of the main lobes.
+New RFI mitigation techniques, such as nodal sampling, are very effective in reducing the impact of tails and ripples, but in some cases they lead to the spread of the RFI main lobe, with a significant loss of data on the affected area.
+In this letter, we propose a new technique to reduce their spread by an adaptive thresholding on a bandpass filtered version of the snapshot, with a significant recovery of data.

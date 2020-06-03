@@ -1,0 +1,6 @@
+Remote sensing image pan sharpening has attracted researchers' interest, since spatial resolution of multispectral (MS) image can be enhanced by injecting spatial details of a panchromatic image to MS image.
+In this paper, a novel sparse representation based pan sharpening method is proposed to overcome the disadvantages of traditional methods such as color distortion and blurring effect.
+This learning based method utilizes a compact single dictionary generated from texture information of high-resolution MS images in order to provide more effective and robust pan sharpening.
+Two data sets acquired from IKONOS and Quick-bird satellites are used to evaluate the performance and robustness of the proposed algorithm.
+The proposed method is compared with nine well-known component substitution and multiresolution analysis methods and a state-of-art method using several quality measurement indices with references.
+The experimental results demonstrate that the proposed algorithm is competitive or superior to other conventional methods in terms of visual and quantitative analysis, as it preserves spectral information and provides high quality spatial details in the final product image.

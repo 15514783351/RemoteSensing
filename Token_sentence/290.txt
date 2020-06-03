@@ -1,0 +1,7 @@
+This paper analyzes and compares multiple techniques for estimating the mean square slope (MSS) of surface waves during Hurricane Ike in the Gulf of Mexico and studiesthe correlation of the MSS estimates with wind speed measurements along the same tracks.
+Three separate instrumentscollected measurements in parallel, including a GPS reflectometry (GPS-R) receiver, a stepped frequency microwave radiometer (SFMR), and a wideswath radar altimeter (WSRA).
+These datasets were used to study the correlation between the flight level and near-surface wind and MSS during Hurricane Ike in 2008.
+The GPS-R, SFMR, and WSRA instruments recorded temporally and spatially coincident data during two passes over the hurricane eye.
+This paper estimates the ocean surface MSS using GPS-R for two eye transects using: a least squares model fitting technique, the reflected signal waveform width, and an integration of the reflected signals in an area around the peak.
+Subsequently, the correlations between the GPS-R and WSRA MSS estimates and the SFMR wind speed estimates are compared to reveal regions of high and low surface MSS to wind speed correlation.
+Finally, a relationship between wind and MSS was derived from the GPS-R and SFMR data and is compared to existing MSS/wind models, including the results obtained by Katzberg et al. for hurricane conditions.

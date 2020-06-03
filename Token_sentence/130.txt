@@ -1,0 +1,8 @@
+Deep learning has been applied to many fields due to its capability for unsupervised feature learning.
+However, it is unsuitable for remote sensing image classification of deep convolutional networks due to the regular and fixed shape of receptive fields in current methods, which cannot freely adapt for ground objects with various shapes and scales.
+To tackle this problem, we propose object-based deep convolutional autoencoders (ODCAEs) to encode high-resolution remote sensing image features automatically.
+The receptive fields of deep convolutional autoencoders were designed based on a fractal net evolution approach to adapt for various ground objects in images, retaining category purity while providing adequate information.
+We collected 109,333 samples of seven classes from high-resolution satellite images over various locations to train the ODCAE, which encoded high level features automatically, coupled with a support vector machine for classification.
+We assessed the classification results using two WorldView-II image locations.
+The proposed ODCAE approach achieved higher accuracy than three manual design feature systems.
+Thus, the proposed ODCAE approach is useful and efficient for feature learning problems for high-resolution remote sensing images.

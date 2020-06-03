@@ -1,0 +1,10 @@
+Building extraction from remotely sensed imagery plays an important role in urban planning, disaster management, navigation, updating geographic databases, and several other geospatial applications.
+Several published contributions dedicated to the applications of deep convolutional neural networks (DCNN) for building extraction using aerial/satellite imagery exists.
+However, in all these contributions, high accuracy is always obtained at the price of extremely complex and large network architectures.
+In this paper, we present an enhanced fully convolutional network (FCN) framework that is designed for building extraction of remotely sensed images by applying conditional random fields (CRFs).
+The main objective is to propose a methodology selecting a framework that balances high accuracy with low network complexity.
+A modern activation function, namely, the exponential linear unit (ELU), is applied to improve the performance of the fully convolutional network (FCN), thereby resulting in more accurate building prediction.
+To further reduce the noise (falsely classified buildings) and to sharpen the boundaries of the buildings, a post-processing conditional random fields (CRFs) is added at the end of the adopted convolutional neural network (CNN) framework.
+The experiments were conducted on Massachusetts building aerial imagery.
+The results show that our proposed framework outperformed the fully convolutional network (FCN), which is the existing baseline framework for semantic segmentation, in terms of performance measures such as the F1-score and IoU measure.
+Additionally, the proposed method outperformed a pre-existing classifier for building extraction using the same dataset in terms of the performance measures and network complexity.

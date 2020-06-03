@@ -1,0 +1,9 @@
+The thermal environment in residential areas is directly related to the living quality of residents.
+Therefore, it is important to understand thermal heterogeneity and ways to regulate temperature in residential neighborhoods.
+We investigated the spatial heterogeneity and temporal dynamics of air temperatures in 20 residential neighborhoods within the 5th ring road of Beijing, China.
+We further explored how the variations in air temperature were related to the patterns of the surrounding greenspace at different scales.
+We found that: (1) large air temperature differences existed among residential neighborhoods, with hourly maximum differences in air temperature reaching 5.30 degrees C on hot summer days; (2) not only the percentage but also the spatial configuration (e.g., edge density) of greenspace affected the local air temperature; and (3) the effects of spatial greenspace patterns on air temperature were scale dependent and varied by season.
+For example, increasing the proportion of greenspace in surrounding areas within a 100-m radius and increasing the edge density within radii from 500 to 1000 m could lower air temperatures in summer but not affect air temperatures in winter.
+In addition, decreasing the edge density of greenspaces within a 100-m radius of the surrounding areas would lead to an increase in air temperature in winter but not affect the air temperature in summer.
+These results extend our understanding of thermal environments and their relationships with greenspace patterns at the microscale (i.e., residential neighborhoods).
+They also provide useful information for urban planners to optimize greenspace patterns under better thermal conditions at the neighborhood scale.

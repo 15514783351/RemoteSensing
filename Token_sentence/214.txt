@@ -1,0 +1,8 @@
+We implemented a change detection method based on a multitemporal object using a chi-square method and iterative trimming to find the changed object in the past.
+Trapping in the sample data does not obey Gaussian distribution, and the detection result is not ideal.
+To fix this problem, we proposed a method based on the law of cosines with a box-whisker plot.
+First, using the incremental segmentation method to segment the image and selecting the optimum combination of spatial, spectral, and contextual features by the Optimum Index Factor method, we constructed the feature space of different time images.
+Then, the law of cosines was used to calculate the change index of every object.
+Finally, we identified changed objects by analyzing the change index using the box-whisker plot.
+High-resolution remote sensing images of GF-1 were used as the experimental data.
+The experimental results show that the correct detection accuracy and omissions rate accuracy are much better than the results of the traditional multitemporal-object-based change detection.

@@ -1,0 +1,8 @@
+The mapping of urban areas at regional to global scales is a crucial task due to its value for environmental monitoring, habitat and biodiversity conservation, and decision-making.
+In most current applications, two techniques (i.e., supervised classification and data fusion) are widely applied in large-scale urban mapping.
+However, the costly training sample collection, inadequate data-source descriptions, and diverse urban characteristics (e.g., shape, size, socioeconomic status, and physical environment) are challenging problems for the urban mapping approaches.
+In this context, aiming at effectively deriving accurate urban areas at a large scale, we propose a novel ensemble support vector machine (SVM) method which consists of three steps: 1) the automatic generation of training data to reduce labor costs; 2) the construction of an ensemble SVM model to effectively combine the multisource data (including remote sensing and socioeconomic data); and 3) an adaptive patch-based thresholding technique to tackle the diverse urban characteristics.
+The proposed method is employed to map urban areas of China in 2005 and 2010, and the resulting maps are compared with the existing urban maps for 287 prefecture-level cities.
+It is found that our results present a satisfactory superiority, especially in challenging small cities, with a significant improvement in median Kappa (0.174 for 2005 and 0.203 for 2010).
+When incorporating moderate-resolution imaging spectroradiometer multispectral data as an additional source, the Kappa coefficient can be further raised by 0.028 for 2010.
+In general, the proposed method shows great potential for accurately mapping urban areas at regional, continental, or even global scales in a cost-effective manner.

@@ -1,0 +1,11 @@
+While remote sensing has increasingly been applied to estimate a biodiversity directly through optical diversity, there is a need to better understand the mechanisms behind the optical diversity-biodiversity relationship.
+Here, we examined the relative contributions of species richness, evenness, and composition to the spectral reflectance, and consider factors confounding the remote estimation of species diversity in a prairie ecosystem experiment at Cedar Creek Ecosystem Science Reserve, Minnesota.
+We collected hyperspectral reflectance of 16 prairie species using a tram-mounted imaging spectrometer, and a full-range field spectrometer with a leaf clip, and simulated plot-level images from both instruments with different species richness, evenness and composition.
+Two optical diversity metrics were explored: the coefficient of variation (CV) of spectral reflectance in space and classified species derived from Partial Least Squares Discriminant Analysis (PLS-DA), a spectral classification method.
+Both optical diversity metrics (CV and PLS-DA classified species) were affected by species richness and evenness.
+Diversity metrics that combined species richness and evenness together ((e.g, Shannon's index)) were more strongly correlated with optical diversity than either metric alone.
+Image-derived data were influenced by both leaf traits and canopy structure and showed larger spectral variability than leaf clip data, indicating that sampling methods influence optical diversity.
+Leaf and canopy traits both contributed to optical diversity, sometimes in complex or contradictory ways.
+Large within-species variation sometimes confounded biodiversity estimation from optical diversity, and a single species markedly altered the optical-biodiversity relationship.
+Biodiversity estimation from CV was strongly influenced by soil background, while estimation from PLS-DA classified species was not sensitive to soil background.
+These findings are consistent with recent empirical studies and demonstrate that modeling approaches can be used to explore effects of spatial scale and guide regional studies of biodiversity estimation using high spatial and spectral resolution remote sensing.

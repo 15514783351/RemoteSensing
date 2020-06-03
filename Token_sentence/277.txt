@@ -1,0 +1,12 @@
+The xanthophyll cycle regulates the energy flow to photosynthetic reaction centres of plant leaves.
+Changes in the de-epoxidation state (DEPS) of xanthophyll cycle pigments can be observed as changes in the leaf absorption of light with wavelengths between 500 to 570 nm.
+These spectral changes can be a good remote sensing indicator of the photosynthetic efficiency, and are traditionally quantified with a two-band physiologically based optical index, the Photochemical Reflectance Index (PRI).
+In this paper, we present an extension of the plant leaf radiative transfer model Fluspect (Fluspect-CX) that reproduces the spectral changes in a wide band of green reflectance: a radiative transfer analogy to the PRI.
+The idea of Fluspect-CX is to use in vivo specific absorption coefficients for two extreme states of carotenoids, representing the two extremes of the xanthophyll de-epoxidation, and to describe the intermediate states as a linear mixture of these two states.
+The 'photochemical reflectance parameter' (C-x) quantifies the relative proportion of the two states.
+Fluspect-CX simulates leaf chlorophyll fluorescence (ChlF) excitation-emission matrices, as well as reflectance (R) and transmittance (7) spectra as a function of leaf structure, pigment contents and C.
+We describe the calibration of the model and test its performance using various experimental datasets.
+Furthermore, we retrieved C-x from optical measurements of various datasets.
+The retrieved C-x correlates well with xanthophyll DEPS (R-2 = 0.57), as well with non-photochemical quenching (NPQ) of fluorescence (R-2 = 0.78).
+The correlation with NPQ enabled us to incorporate Fluspect-CX in the model SCOPE to scale the processes to the canopy level.
+Introducing the dynamic green reflectance into a radiative transfer model provides new means to study chlorophyll fluorescence and PRI dynamics on leaf and canopy scales, which is crucial for the remote sensing.

@@ -1,0 +1,10 @@
+The continuum of the SWIR (short-wave infrared) signals from 1320 to 1650 nm contains valuable information for effectively diagnosing water, chlorophyll, and nitrogen content.
+The SWIR spectra of in situ spectroradiometric data and airborne spectrometric images are frequently contaminated by significant noise.
+Based on a Logistic-Gaussian complex signal model (LGCM), the noise-free signals at 1330-1349 and 1411-1430 nm wavelengths can provide critical bases for restoring the 1350-1410 nm wavelength signals for a single point of data.
+This paper proposes a generalized LGCM (GLGCM) technique to expand the ability of LGCM to process large data with variant reflectance values.
+A 12-year-old red cypress plantation located in a central Taiwan temperate forest was selected for this study.
+Hundreds of reflectance spectra of tree crowns were obtained using an ASD FR Spectroradiometer.
+The in-laboratory blank test showed that the GLGCM technique was able to achieve sufficient performance with an RMSE (root mean square error) of 0.0015 +/- 0.0005 and 0.0011 +/- 0.0005 for the front-edge and end-edge signal bases respectively, and 0.0014 +/- 0.0006 in between the two signal bases.
+A significant level of noise between -0.2 and 0.4 was successfully removed from the in situ contaminated reflectance in the 1350-1410 nm wavelengths.
+The estimation bias for the signals of front-edge and end-edge bases was low, averaging 0.0031 +/- 0.0003 and 0.0032 +/- 0.0012.
+The consistency between the blank test and the in situ experimental results indicates that the GLGCM technique has potential in using batch processing to fix the problem of the noisy SWIR spectra in spectroradiometeric data and also airborne spectrometric images.

@@ -1,0 +1,11 @@
+Atmospheric methane has been increasing since the beginning of the industrial era due to anthropogenic emissions.
+Methane has many sources, both natural and anthropogenic, and there continues to be considerable uncertainty regarding the contribution of each source to the total methane budget.
+Thus, remote sensing techniques for monitoring and measuring methane emissions are of increasing interest.
+Recently, the Airborne Visible-Infrared Imaging Spectrometer - Next Generation (AVIRIS-NG) has proven to be a valuable instrument for quantitative mapping of methane plumes.
+Despite this success, uncertainties remain regarding the sensitivity of the retrieval algorithms, including the influence of albedo and the impact of surfaces that may cause spurious signals.
+To explore these sensitivities, we applied the Iterative Maximum a Posterior Differential Optical Absorption Spectroscopy (IMAP-DOAS) methane retrieval algorithm to synthetic reflected radiances with variable methane concentrations, albedo, surface cover, and aerosols.
+This allowed for characterizing retrieval performance, including potential sensitivity to variable surfaces, low albedo surfaces, and surfaces known to cause spurious signals.
+We found that dark surfaces (below 0.10 mu Wcm(-2) nm(-1) sr(-1) at 2139 nm), such as water and green vegetation, and materials with absorption features in the 2200-2400 nm range caused higher errors in retrieval results.
+We also found that aerosols have little influence on retrievals in the SWIR.
+Results from the synthetic scene are consistent with those observed in IMAP-DOAS retrievals for real AVIRIS-NG scenes containing methane plumes from a waste dairy lagoon and coal mine ventilation shafts.
+Understanding the effect of surface properties on methane retrievals is important given the increased use of AVIRIS-NG to map gas plumes from a diversity of sources over variable landscapes.

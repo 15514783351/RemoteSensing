@@ -1,0 +1,10 @@
+In semi-arid conditions, nitrogen (N) is the main limiting factor of crop yield after water, and its accurate quantification remains essential.
+Recent studies have demonstrated that solar-induced chlorophyll fluorescence (SW) quantified from hyperspectral imagery is a reliable indicator of photosynthetic activity in the context of precision agriculture and for early stress detection purposes.
+The role of fluorescence might be critical to our understanding of N levels due to its link with photosynthesis and the maximum rate of carboxylation (Vcmax) under stress.
+The research presented here aimed to assess the contribution played by airborne-retrieved solar-induced chlorophyll fluorescence (SIF) to the retrieval of N under irrigated and rainfed Mediterranean conditions.
+The study was carried out at three field sites used for wheat phenotyping purposes in Southern Spain during the 2015 and 2016 growing seasons.
+Airborne campaigns acquired imagery with two hyperspectral cameras covering the 400-850 nm (20 cm resolution) and 950-1750 mn (50 cm resolution) spectral regions.
+The performance of multiple regression models built for N quantification with and without including the airborne-retrieved SIF was compared with the performance of models built with plant traits estimated by model inversion, and also with standard approaches based on single spectral indices.
+Results showed that the accuracy of the models for N retrieval increased when chlorophyll fluorescence was included (r(LOOCV )(2)>= 0.92; p < 0.0005) as compared to models only built with chlorophyll a + b (C-ab), dry matter (C-m) and equivalent water thickness (C-w) plant traits (r(LOOCV)(2) ranged from 0.68 to 0.77; p < 0.005).
+Moreover, nitrogen indices (NIs) centered at 1510 nm yielded more reliable agreements with N concentration (r(2) = 0.69) than traditional chlorophyll indices (TCARI/ OSAVI r(2) = 0.45) and structural indices (NDVI r(2) = 0.57) calculated in the VNIR region.
+This work demonstrates that under irrigated and non-irrigated conditions, indicators directly linked with photosynthesis such as chlorophyll fluorescence improves predictions of N concentration.

@@ -1,0 +1,9 @@
+Together with the continuous development of passive microwave surface soil moisture (SSM) products from newly launched satellites, it is necessary to perform reliable validations to assess their accuracy.
+With this aim, a new "bottom-up" validation approach is proposed based on the synergistic use of in situ SSM measurements from the soil moisture measurement station network (REMEDHUS) of the University of Salamanca, Salamanca, Spain, and optical/thermal infrared observations over 18 cloud-free days from Landsat-8.
+An SSM estimation method using the boundary information from the land surface temperature and normalized difference vegetation index triangle space was developed for regional SSM mapping.
+The retrieved SSM reached a relatively good performance (mean R 2 and rootmean-squared error of 0.64 and 0.033 ne/m(3), respectively).
+Then, the regional SSM was aggregated into the grid-cell scale of the Advanced Microwave Scanning Radiometer 2 (AMSR2) L3 high-resolution (0.1 degrees /10 km) soil moisture product to validate it both at network and grid-cell levels.
+At the network level, the derived regional SSM showed a good agreement with the averaged in situ measurements over the network (R = 0.731).
+However, at the grid-cell level, small variations were observed for the cells over the network between the estimates and the AMSR2 product, with negative biases (-0.044 to -0.090 m(3)/m(3)) and positive correlations (R > 0.25) for most cells.
+In addition, it is shown that the descending product has a slightly better performance than does the ascending one.
+The preliminary assessments suggested that the proposed method provides new insights into the validation of passive microwave soil moisture products, while avoiding the common issue related to the big disparity in spatial scales between satellite observation and in situ measurements.

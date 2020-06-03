@@ -1,0 +1,11 @@
+Microwave imagery has a distinct advantage over optical imagery in high-latitude areas because it allows data to be acquired independently of cloud cover and solar illumination.
+Synthetic aperture radar (SAR)-based monitoring has become increasingly important for understanding the state and dynamics of permafrost landscapes at the regional scale.
+This study presents a permafrost landscape mapping method that uses multi-temporal TerraSAR-X backscatter intensity and interferometric coherence information.
+The proposed method can classify permafrost landscape features and map the two most important features in sub-arctic permafrost environments: permafrost-affected areas and thermokarst ponds.
+First, a land cover map is generated through the combined use of object-based image analysis (OBIA) and classification and regression tree (CART) analysis.
+An overall accuracy of 98% is achieved when classifying rock and water bodies, and an accuracy of 79% is achieved when discriminating between different vegetation types with one year of single-polarized acquisitions.
+Second, the distributions of the permafrost affected areas and thermokarst ponds are derived from the classified landscapes.
+Permafrost-affected areas are inferred from the relationship between vegetation cover and the existence of permafrost, and thermokarst pond distributions are directly inherited from the land cover map.
+The two mapped features exhibit good agreement with manually delineated references.
+The proposed method can produce permafrost landscape maps in complex sub-arctic environments and improve our understanding of the effects of climate change on permafrost landscapes.
+This classification strategy can be transferred to other time-series SAR datasets, e.g., Sentinel-1, and other heterogeneous environments.

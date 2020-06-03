@@ -1,0 +1,10 @@
+Consistent and scalable estimation of vegetation structural parameters-essential to understanding forest ecosystems-is widely investigated through remote sensing imaging spectroscopy.
+NASA's proposed spaceborne mission, the Hyperspectral Infrared Imager (HyspIRI), will measure spectral radiance from 380 to 2500 nm in 10-nm contiguous bands with a 60-m ground sample distance (GSD) and provide a global benchmark from which future changes can be assessed.
+The historic foci of spectrometers have been foliar/canopy biochemistry and species classification; however, given the relatively large GSD of a spaceborne instrument, there is uncertainty as to the effects of subpixel vegetation structure on observed radiance.
+This paper, therefore, evaluates the linkages between the withinpixel vegetation structure and imaging spectroscopy signals at the pixel level.
+We constructed a realistic virtual forest scene representing the National Ecological Observatory Network (NEON) Pacific Southwest domain site.
+Anticipated HyspIRI data (60-m GSD) for this site were then simulated using the physicsdriven Digital Imaging and Remote Sensing Image Generation (DIRSIG) model.
+Both the models were first validated via comparison to overflow classic Airborne Visible/Infrared Imaging Spectrometer and NEON's imaging spectrometer (NIS).
+Then, to assess the impact of within-pixel: 1) tree canopy cover (CC); 2) tree positioning; and 3) distribution on large-footprint HyspIRI signals, we generated the variations of the baseline virtual forest scene and measured the anticipated spectral radiance using DIRSIG.
+Results indicate that HyspIRI is sensitive to subpixel vegetation structural variation in the visible to a short-wavelength infrared spectrum due to vegetation structural changes.
+This has implications for improving the system's suitability for consistent global vegetation structural assessments by adapting calibration strategies to account for this subpixel variation.

@@ -1,0 +1,11 @@
+Urban land-use mapping is a significant yet challenging task in the field of remote sensing.
+Although numerous classification methods have been developed for obtaining land-use information in urban areas, the accuracy and efficiency of these methods are insufficient to meet the requirements of real-world applications such as urban planning and land management.
+In recent years, deep learning techniques, especially deep convolutional neural networks (DCNN), have achieved an astonishing level of performance in image classification.
+However, the traditional DCNN methods do not focus on multispectral remote sensing images with more than three channels, and they are limited by their training samples.
+In addition, these methods uniformly decompose large images into small processing units, which chop up the land-use patterns and produce land-use maps with obvious "blocks".
+In this study, a semi-transfer deep convolutional neural network (STDCNN) approach is proposed to overcome these weaknesses.
+The proposed STDCNN has three parts: one part involves a transferred DCNN with deep architecture; another part is designed to analyze multispectral images; and the final part fuses the first two parts into a classification layer.
+Moreover, a skeleton-based decomposing method using street block data is devised to maintain the integrity of the land-use patterns.
+In two case studies, the proposed method is used to generate urban land-use maps from a WorldView-3 image of a 143 km(2) area of Hong Kong and a WorldView-2 image of a 25 km(2) area of Shenzhen.
+The results show that the proposed STDCNN obtains an overall accuracy (OA) of 91.25% and a Kappa coefficient (Kappa) of 0.903 for Hong Kong land-use classification, and an OA of 80% and a Kappa of 0.780 for Shenzhen land-use classification.
+In addition, due to the proposed skeleton-based decomposition method, the proposed method can produce better land-use maps for real-world urban applications.

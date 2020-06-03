@@ -1,0 +1,14 @@
+The microwave scatterometer is one of the most effective instruments in ocean remote sensing, which urges the need for some theoretical models to accurately estimate the scattering coefficient of the sea surface.
+For the simulation of the scattering from an ocean surface, the sea spectrum, or its inverse Fourier transform, autocorrelation function is essential.
+Currently, many sea spectral models have been proposed for describing sea waves.
+However, which spectrum should be adopted during electromagnetic (EM) computations?
+A systematic comparison of these models is needed to evaluate their accuracies.
+In this paper, we focus on numerical simulations of scattering from a rough sea surface in monostatic and bistatic configurations by using six different sea spectral models and the first-order small slope approximation (SSA-1).
+First, sea spectral models proposed by Elfouhaily et al., Hwang et al., Romeiser et al., Apel et al., Fung et al., and Pierson et al., are compared with each other from different points of view, e.g., the omnidirectional parts, the angular spreading functions, the autocorrelation functions, and the slope variances.
+We find that the spectra given by Elfouhaily and Hwang could reflect realistic wind sea waves more accurately.
+Then, the scattering coefficients are simulated in fully monostatic and bistatic configurations.
+Regarding the monostatic scattering, the results simulated using EM scattering models are compared with those obtained from the measured UAVSAR data in the L band and the empirical model CMOD5 in the C band.
+Comparisons are made for various incident angles, wind speeds, and wind directions.
+Meanwhile, special attention is paid to low to moderate incident angles.
+The comparisons show that, it is difficult to find one certain spectral model to simulate scattering coefficient accurately under all wind speeds or wind directions.
+Accurate estimations will be obtained using different methods according to different situations.

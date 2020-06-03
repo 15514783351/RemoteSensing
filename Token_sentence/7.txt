@@ -1,0 +1,9 @@
+Passive ocean color remote sensing has revolutionized our ability to quantify the horizontal distribution of phytoplankton across the ocean surface.
+Lidar technology can provide remotely sensed estimates of the vertical distribution of optical properties and suspended particles in natural waters, significantly improving our ability to model upper ocean biogeochemical processes.
+In this study, we constructed and deployed a ship-based lidar system to measure laser backscattering and linear depolarization profiles in the coastal Mid-Atlantic ranging from estuarine to oceanic conditions, and across the Gulf of Maine (GoM).
+The instrument identified layers with different backscattering intensity in stratified waters of the coastal Mid-Atlantic and produced system attenuation coefficients (K-sys) approximating the absorption coefficient (a(pg)) of particulate + dissolved matter.
+The linear depolarization ratio was strongly related to in situ measurements of the particulate backscattering ratio (b(bp)/b(p)).
+Measurements of K-sys and linear depolarization made across the GoM corresponded well with simultaneous in situ observations performed aboard the M/V Nova Star and by an autonomous glider deployed along the transect.
+The relationship between K-sys, and a(pg) differed between sampling schemes, likely due to differences in the deployment geometries (e.g., height, nadir angle).
+These results support the proposition that ship-based lidar systems can provide a powerful tool for remotely measuring the vertical distributions of optical properties and geochemical constituents (e.g., particles) in the upper ocean.
+Continued development of compact lidar systems for deployment on ships, moorings, and autonomous platforms has the potential to greatly improve the quality and scope of a variety of oceanographic investigations.

@@ -1,0 +1,8 @@
+Airborne remote sensing approaches to natural gas leak detection have recently become a viable alternative to traditional in situ surveillance methods.
+However, there have been few formal studies addressing the advantages and disadvantages of the various kinds of instruments typically employed for this purpose.
+This investigation compares the theoretical performances of differential absorption lidar systems operating near 1.65 and 3.3 mu m.
+The random errors affecting these instruments' respective retrievals were simulated over a range of aircraft altitudes and observed natural gas concentrations.
+It was found that the 3.3-mu m system is capable of measuring smaller leaks with less error than the 1.65-mu m system but only when flying at lower altitudes.
+The noise floors of the 1.65- and 3.3-mu m instruments simulated in this particular analysis are similar to 0.1 and similar to 1.4 ppmm, respectively.
+However, when flying at altitudes >similar to 220 m or observing leaks with concentrations >similar to 500 ppmm, the 1.65-mu m system exhibits better precision than the 3.3- mu m system.
+These results demonstrate that it may be more appropriate to employ one instrument over the other depending on the surveillance scenario at hand.

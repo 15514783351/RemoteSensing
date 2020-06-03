@@ -1,0 +1,11 @@
+Monitoring scene-level land-use in urban coastal zones has become a critical and challenging task, due to the rising risk of marine disasters and the greater number of scene classes such as harbors.
+Since street blocks are physical containers of different classes of land-use in urban zones, some scene classification methods based on high-spatial-resolution remote sensing images take blocks segmented by roads as classification units.
+However, these methods extract handcrafted low-level features from remote sensing images, limiting their ability to represent street blocks.
+To extract semantically meaningful representations of street blocks, the sparse auto-encoder (SAE) model was employed for local feature extraction in this paper and a multi-level method based on the fusion of local features was proposed for block-based land-use scene classification in urban coastal zones.
+First, convolved feature maps of street blocks were extracted by taking the hidden layer of the SAE as convolution kernels.
+Then, the local features were fused at three levels to generate more robust and discriminative representations of patches in convolved feature maps.
+The combination patterns and the absolute relationship of local features were captured at the first and second level, respectively.
+A convolution neural network was utilized to make the local features more discriminative to semantic information at the third level.
+Finally, the bag-of-visual-words model was employed to generate global features for street blocks.
+The proposed method was tested for Qingdao, China using Gaofen-2 (GF-2) satellite images and an overall accuracy of 83.80% was achieved in the study area.
+The classification results indicate that the proposed method in concert with GF-2 images has potential for accurately monitoring land-use scenes in urban coastal zones.

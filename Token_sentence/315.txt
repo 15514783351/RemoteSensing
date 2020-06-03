@@ -1,0 +1,12 @@
+Previous studies have shown that thermal infrared radiation (TIR) changes with stress for loaded rocks.
+TIR changes were mainly attributed to temperature change without considering the change in surface emissivity.
+And it remains unclear whether there was a change in emissivity during the rock loading process.
+Therefore, based on the spectral radiance observations in this paper, an experimental study involving the emissivity variation in the 8.0-13.0 m range for elastic loaded quartz sandstone under outdoor conditions was conducted.
+The experiments yield the following results.
+First, a variation in the stress condition led to the emissivity change in addition to the temperature change.
+The spectral radiance change was the combined result of the temperature changes and emissivity changes.
+Second, the emissivity changes linearly with the stress change, and the amplitude is relatively large in the 8.0-10.0 m range.
+The waveband features of emissivity variation are the main factor leading to the waveband features of stress-induced radiance change.
+Third, the explanations for the changes in temperature and emissivity during loading process are analyzed.
+And the significance and difficulty for further satellite remote sensing purpose is discussed.
+The experimental results provide an experimental foundation for crustal stress field monitoring.

@@ -1,0 +1,8 @@
+Droughts can severely reduce the productivity of agricultural lands and forests.
+The United States Department of Agriculture (USDA) Southeast Regional Climate Hub (SERCH) has launched the Lately Identified Geospecific Heightened Threat System (LIGHTS) to inform its users of potential water deficiency threats.
+The system identifies droughts and other climate anomalies such as extreme precipitation and heat stress.
+However, the LIGHTS model lacks input from soil moisture observations.
+This research aims to develop a simple and easy-to-interpret soil moisture and drought warning indexstandardized soil moisture index (SSI)by fusing the space-borne Soil Moisture Active Passive (SMAP) soil moisture data with the North American Land Data Assimilation System (NLDAS) Noah land surface model (LSM) output.
+Ground truth soil moisture data from the Soil Climate Analysis Network (SCAN) were collected for validation.
+As a result, the accuracy of using SMAP to monitor soil moisture content generally displayed a good statistical correlation with the SCAN data.
+The validation through the Palmer drought severity index (PDSI) and normalized difference water index (NDWI) suggested that SSI was effective and sensitive for short-term drought monitoring across large areas.

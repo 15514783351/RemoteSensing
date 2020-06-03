@@ -1,0 +1,6 @@
+We solve the problem of scene recognition from very high-resolution optical satellite remote sensing (RS) images by exploring the notion of mid-level feature mining.
+The existing mid-level feature extraction techniques are based on applying feature encodings over a set of discriminatively selected localized feature descriptors from the images.
+Such techniques inherently suffer from two shortcomings: 1) the local descriptors are not enough discriminative, since they are mostly based on sole invariant feature transform (SIFT) like ad hoc features and 2) the definition of a robust ranking function to select discriminative local features is nontrivial.
+As a remedy, we propose a pattern mining-based approach for an efficient discovery of mid-level visual elements, which considers convolutional neural network features of the category-independent region proposals extracted from the images as the local descriptors.
+While the region proposals depict better semantic information than the SIFT like features, the proposed pattern mining strategy can efficiently highlight the correlations between such local descriptors and the class labels.
+Experimental results suggest that the proposed technique outperforms a number of existing mid-level feature descriptors for the standard optical RS data sets.

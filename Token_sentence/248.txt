@@ -1,0 +1,10 @@
+This paper presents a novel hierarchical approach to solving structure-from-motion (SFM) problems.
+The algorithm begins with small local reconstructions based on nonlinear bundle adjustment (BA).
+These are then joined in a hierarchical manner using a strategy that requires solving a linear least squares optimization problem followed by a nonlinear transform.
+The algorithm can handle ordered monocular and stereo image sequences.
+Two stereo images or three monocular images are adequate for building each initial reconstruction.
+The bulk of the computation involves solving a linear least squares problem and, therefore, the proposed algorithm avoids three major issues associated with most of the nonlinear optimization algorithms currently used for SFM: the need for a reasonably accurate initial estimate, the need for iterations, and the possibility of being trapped in a local minimum.
+Also, by summarizing all the original observations into the small local reconstructions with associated information matrices, the proposed Linear SFM manages to preserve all the information contained in the observations.
+The paper also demonstrates that the proposed problem formulation results in a sparse structure that leads to an efficient numerical implementation.
+The experimental results using publicly available datasets show that the proposed algorithm yields solutions that are very close to those obtained using a global BA starting with an accurate initial estimate.
+The C/C++ source code of the proposed algorithm is publicly available at https://github.com/LiangZhaoPKUlmperial/LinearSFM.

@@ -1,0 +1,8 @@
+Feature matching, which refers to establishing reliable correspondences between two sets of feature points, is a critical prerequisite in feature-based image registration.
+This paper proposes a simple yet surprisingly effective approach, termed as guided locality preserving matching, for robust feature matching of remote sensing images.
+The key idea of our approach is merely to preserve the neighborhood structures of potential true matches between two images.
+We formulate it into a mathematical model, and derive a simple closed-form solution with linearithmic time and linear space complexities.
+This enables our method to accomplish the mismatch removal from thousands of putative correspondences in only a few milliseconds.
+To handle extremely large proportions of outliers, we further design a guided matching strategy based on the proposed method, using the matching result on a small putative set with a high inlier ratio to guide the matching on a large putative set.
+This strategy can also significantly boost the true matches without sacrifice in accuracy.
+Experiments on various real remote sensing image pairs demonstrate the generality of our method for handling both rigid and nonrigid image deformations, and it is more than two orders of magnitude faster than the state-of-the-art methods with better accuracy, making it practical for real-time applications.

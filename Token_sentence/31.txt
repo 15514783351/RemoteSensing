@@ -1,0 +1,14 @@
+Accurate assessments of forest resources rely on ground truth data that are collected via in-situ measurements, which are fundamental for all other statistical- and/or remote-sensing-based deductions on quantified forest attributes.
+The major bottleneck of the current in-situ observation system is that the data collection is time consuming, and, thus, limited in extent, which potentially biases any further inferences made.
+Consequently, conventional field-data-collection approaches can hardly keep pace with the coverage, scale and frequency required for contemporary and future forest inventories.
+In-situ measurements from mobile platforms seem to be a promising technique to solve this problem and are estimated at least 10 times faster than static techniques (e.g., terrestrial laser scanning, TLS) at the plot level.
+However, the mobile platforms are still at the very early stages of development, and it is unclear which three-dimensional (3D) forest measurements the mobile systems can provide and at what accuracy.
+This study presents a quantitative evaluation of the performance of mobile platforms in a variety of forest conditions and through a comparison with state-of-the-art static in-situ observations.
+Two mobile platforms were used to collect field data, where the same laser-scanning system was both mounted on top of a vehicle and wore by an operator.
+The static in-situ observation from TLS is used as a baseline for the evaluation.
+All point clouds involved were processed through the same processing chain and compared to conventional manual measurement.
+The evaluation results indicate that the mobile platforms can assess homogeneous forests as well as static observations, but they cannot yet assess heterogeneous forest as required by practical applications.
+The major challenge is twofold: mobile-data coverage and accuracy.
+Future research should focus on the robust registration techniques between strips, especially in complex forest conditions, since errors of data registration results in significant impacts on tree attributes estimation accuracy.
+In cases that the spatial inconstancy cannot be eliminated, attributes estimation in single strips, i.e., the multi single-scan approach, is an alternative.
+Meanwhile, operator training deserves attention since the data quality from mobile platforms is partly determined by the operators' selection of trajectory in the field.

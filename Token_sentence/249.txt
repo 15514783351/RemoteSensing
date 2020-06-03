@@ -1,0 +1,7 @@
+Conventional classification algorithms have shown great success for balanced classes.
+In remote sensing applications, it is often the case that classes are imbalanced.
+This paper proposes a novel solution to solve the problem of imbalanced training samples in hyperspectral image classification.
+It consists of two parts: one is for large-size sample sets and the other is for small-size sets.
+Specifically, an algorithm based on the orthogonal complement subspace projection (OCSP) is proposed to select samples from large-size classes, and an algorithm also based on OCSP is proposed to create artificial samples for small-size ones.
+The impact on representation-based classifiers, i.e., sparse and collaborative representation classifiers and traditional classifiers (e.g., support vector machine), is investigated.
+Experimental results demonstrate that the proposed solution can outperform other existing solutions in the literature.

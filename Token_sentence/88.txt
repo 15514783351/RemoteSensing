@@ -1,0 +1,12 @@
+The most recent Global Slavery Index estimates that there are 40.3 million people enslaved globally.
+The UN's Agenda 2030 for Sustainable Development Goal number 8, section 8.7 specifically refers to the issue of forced labour: ending modern slavery and human trafficking, including child labour, in all forms by 2025.
+Although there is a global political commitment to ending slavery, one of the biggest barriers to doing so is having reliable and timely, spatially explicit and scalable data on slavery activity.
+The lack of these data compromises evidence-based action and policy formulation.
+Thus, to meet the challenge of ending modern slavery new and innovative approaches, with an emphasis on efficient use of resources (including financial) are needed.
+This paper demonstrates the fundamental role of remote sensing as a source of evidence.
+We provide an estimate of the number of brick kilns across the 'Brick Belt' that runs across south Asia.
+This is important because these brick kilns are known sites of modern-day slavery.
+This paper reports the first rigorous estimate of the number of brick kilns present and does so using a robust method that can be easily adopted by key agencies for evidence-based action ((i.e, NGOs, etc.)) and is based on freely available and accessible remotely sensed data.
+From this estimate we can not only calculate the scale of the slavery problem in the Brick Belt, but also calculate the impact of slavery beyond that of the enslaved people themselves, on, for example, environmental change and impacts on ecosystem services this links to other Sustainable Development Goals.
+As the process of achieving key Sustainable Development Goal targets will show, there are global benefits to ending slavery - this will mean a better world for everyone: safer, greener, more prosperous, and more equal.
+This is termed here a Freedom Dividend.

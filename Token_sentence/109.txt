@@ -1,0 +1,10 @@
+Accurate information about ocean surface currents is of high importance for many purposes.
+Traditional ways of measuring surface currents using instruments immersed in water are associated with various challenges, as well as high installation and maintenance costs.
+Algorithms and hardware used to measure surface currents based on marine X-band radar images have been steadily improved during the recent decades.
+Such systems can now provide the user with current measurements with high accuracy in local areas of interest and with no need for underwater equipment, both from fixed sites and from moving installations, such as vessels.
+The primary focus of the work presented in this paper is to examine the measurement accuracy of an X-band radar-based system.
+For this purpose, field trials have been arranged and data acquired from a fixed platform in the North Sea in November 2015 and December 2015 and from a research vessel in the Norwegian Sea and the Barents Sea in November 2016.
+Data are analyzed, measured time series are compared to reference measurements and tidal current models, and statistical estimates of the measurement accuracy are calculated.
+Root-mean-square measurement errors of 0.032 m/s and 9.1 degrees for magnitude and direction, respectively, are estimated for the fixed installation.
+Correlation coefficients are 0.93 and 0.94 for east-west and north-south components, respectively.
+A pooled standard deviation of 0.059 m/s is estimated for the moving installation.

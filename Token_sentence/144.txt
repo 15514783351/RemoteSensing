@@ -1,0 +1,6 @@
+The French/Indian altimeter project Satellite with ARGOS and AltiKa (SARAL) completed its nominal 3-year mission on the historical European Remote-sensing Satellite (ERS) orbit in Spring 2016.
+In order to extend the lifetime of the satellite as much as possible, the agencies in charge of SARAL decided to initiate a so-called drifting phase where the satellite altitude is no longer maintained.
+In this paper we describe how the ocean mesoscale sampling capability of SARAL has been preserved during the drifting phase by initiating it at a specific altitude: the optimal starting point was approximately 1 km above the historical ERS/ENVIronment SATellite (ENVISAT) orbit.
+This strategy secured the ocean mesoscale sampling capability of SARAL drifting phase (DP) for 6 years or more.
+We also generalize these findings: any altimeter could follow SARAL's drifting phase strategy if their maneuvering capability is limited.
+Lastly, we explain how an altimetry mission or an entire altimeter constellation could be operated without any form of altitude control: some specific altitude bands (e.g., near 1230 km) guarantee a high-quality mesoscale sampling for years or decades even if the altitude is not maintained.

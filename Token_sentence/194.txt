@@ -1,0 +1,10 @@
+Due to technical and budget limitations, there are inevitably some trade-offs in the design of remote sensing instruments, making it difficult to acquire high spatiotemporal resolution remote sensing images simultaneously.
+To address this problem, this paper proposes a new data fusion model named the deep convolutional spatiotemporal fusion network (DCSTFN), which makes full use of a convolutional neural network (CNN) to derive high spatiotemporal resolution images from remotely sensed images with high temporal but low spatial resolution (HTLS) and low temporal but high spatial resolution (LTHS).
+The DCSTFN model is composed of three major parts: the expansion of the HTLS images, the extraction of high frequency components from LTHS images, and the fusion of extracted features.
+The inputs of the proposed network include a pair of HTLS and LTHS reference images from a single day and another HTLS image on the prediction date.
+Convolution is used to extract key features from inputs, and deconvolution is employed to expand the size of HTLS images.
+The features extracted from HTLS and LTHS images are then fused with the aid of an equation that accounts for temporal ground coverage changes.
+The output image on the prediction day has the spatial resolution of LTHS and temporal resolution of HTLS.
+Overall, the DCSTFN model establishes a complex but direct non-linear mapping between the inputs and the output.
+Experiments with MODerate Resolution Imaging Spectroradiometer (MODIS) and Landsat Operational Land Imager (OLI) images show that the proposed CNN-based approach not only achieves state-of-the-art accuracy, but is also more robust than conventional spatiotemporal fusion algorithms.
+In addition, DCSTFN is a faster and less time-consuming method to perform the data fusion with the trained network, and can potentially be applied to the bulk processing of archived data.

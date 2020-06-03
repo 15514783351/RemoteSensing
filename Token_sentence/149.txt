@@ -1,0 +1,11 @@
+The Eastern Lagoon of New Caledonia (ELNC) is a semi-enclosed system surrounded by an extensive coral reef barrier.
+The system has been suffering impacts from climate variability and anthropogenic activities, including mining exploitation.
+Satellite monitoring is thus an essential tool to detect such changes.
+The present study aimed to assess the bio-optical variability of the ELNC and examine the applicability of ocean colour algorithms, using in situ bio-optical and radiometric data, collected during the March 2014 CALIOPE 2 cruise.
+The chlorophyll a concentration (Chla) varied from 0.13-0.72 mg.m(-3), and the coastal stations were spectrally dominated by non-algal particles (NAP) and coloured dissolved organic matter (CDOM) (>80% of the total non-water absorption at 443 nm), due to the contribution of allochthonous sources.
+The phytoplankton specific absorption was generally lower (mean, 0.049 m(2).mg Chla(-1)) than typical values observed for the corresponding Chla range, as well as the spectral slopes of the absorption of CDOM plus NAP (a(dg)) (mean, 0.016 nm(-1)) and of the particle backscattering coefficient (b(bp)) (mean, 0.07 nm(-1)).
+The remote sensing reflectance obtained using two in-water approaches and modelled from Inherent Optical Properties (IOPs) showed less than 20% relative percent differences (RPD).
+Chla estimates were highly biased for the empirical (OC4 and OC3) and semi-analytical (GSM, QAA, GIOP, LMI) algorithms, especially at the coastal stations.
+Excluding these stations, the GSM01 yielded the best retrievals with 35-40% RPD. a(dg)(443) was well retrieved by all algorithms with similar to 18% RPD, and b(bp)(443) with similar to 40% RPD.
+Turbidity algorithms also performed reasonably well (30% RPD), showing the capacity and usefulness of the derived products to monitor the water quality of the ELNC, provided accurate atmospheric correction of the satellite data.
+Regionally tuned algorithms may potentially improve the Chla retrievals, but better parameterization schemes that consider the spatiotemporal variability of the specific IOPs are still needed.

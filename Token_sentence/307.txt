@@ -1,0 +1,11 @@
+Synthetic aperture radar automatic target recognition (SAR-ATR) has made great progress in recent years.
+Most of the established recognition methods are supervised, which have strong dependence on image labels.
+However, obtaining the labels of radar images is expensive and time-consuming.
+In this paper, we present a semi-supervised learning method that is based on the standard deep convolutional generative adversarial networks (DCGANs).
+We double the discriminator that is used in DCGANs and utilize the two discriminators for joint training.
+In this process, we introduce a noisy data learning theory to reduce the negative impact of the incorrectly labeled samples on the performance of the networks.
+We replace the last layer of the classic discriminators with the standard softmax function to output a vector of class probabilities so that we can recognize multiple objects.
+We subsequently modify the loss function in order to adapt to the revised network structure.
+In our model, the two discriminators share the same generator, and we take the average value of them when computing the loss function of the generator, which can improve the training stability of DCGANs to some extent.
+We also utilize images of higher quality from the generated images for training in order to improve the performance of the networks.
+Our method has achieved state-of-the-art results on the Moving and Stationary Target Acquisition and Recognition (MSTAR) dataset, and we have proved that using the generated images to train the networks can improve the recognition accuracy with a small number of labeled samples.

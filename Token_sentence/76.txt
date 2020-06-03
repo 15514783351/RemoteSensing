@@ -1,0 +1,9 @@
+Every year, large areas of savannas and woodlands burn due to natural conditions and land management practices.
+Given the relevant level of greenhouse gas emissions produced by biomass burning in tropical regions, it is becoming even more important to clearly define historic fire regimes so that prospective emission reduction management strategies can be well informed, and their results Measured, Reported, and Verified (MRV).
+Thus, developing tools for accurately, and periodically mapping burned areas, based on cost advantageous, expedite, and repeatable rigorous approaches, is important.
+The main objective of this study is to investigate the potential of novel Genetic Programming (GP) methodologies for classifying burned areas in satellite imagery over savannas and tropical woodlands and to assess if they can improve over the popular and currently applied methods of Maximum Likelihood classification and Classification and Regression Tree analysis.
+The tests are performed using three Landsat images from Brazil (South America), Guinea-Bissau (West Africa) and the Democratic Republic of Congo (Central Africa).
+Burned areas were digitized on-screen to produce mapped information serving as surrogate ground-truth.
+Validation results show that all methods provide an overestimation of burned area, but GP achieves higher accuracy values in two of the three cases.
+GP is the most versatile machine learning method available today, but still largely underused in remote sensing.
+This study shows that standard GP can produce better results than two classical methods, and illustrates its versatility and potential in becoming a mainstream method for more difficult tasks involving the large amounts of newly available data.

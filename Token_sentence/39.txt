@@ -1,0 +1,8 @@
+With the development of hardwares such as mobile devices and portable depth cameras, on-line 3D reconstruction on the mobile devices with depth streams as input turns to be possible and promising.
+Most existing systems use volumetric representation methods to fuse the depth images and use ICP algorithm to estimate the poses of cameras.
+However, ICP tracker suffers from large drift in scenes containing insufficient geometric information.
+To deal with this problem, we propose a stability based sampling method which select different number of point-pairs in different windows according to their geometric stability.
+In addition, we fuse the ICP tracker with the IMU information through an analysis of the condition number.
+Then we apply the stability based sampling method to the spatially hashed volumetric representation.
+Qualitative and quantitative evaluations of tracking accuracy and 3D reconstruction results show that our method outperforms the current state-of-the-art systems, especially in scenes lacking sufficient geometric information.
+In total, our method achieves frame rates 20 Hz on an Apple iPad Air 2 and 200 Hz on a Nvidia GeForce GTX 1060 GPU.

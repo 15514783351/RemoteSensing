@@ -1,0 +1,9 @@
+Rapid, reliable, and continuous information is an essential component in disaster monitoring and management.
+Remote sensing data could be a solution, but often cannot provide continuous data due to an absence of global coverage and weather and daylight dependency.
+To overcome these challenges, this study makes use of weather and day/light independent Sentinel-1 data with a global coverage to monitor localized effects of different types of disasters using the Coherence Change-Detection (CCD) technique.
+Coherence maps were generated from Synthetic Aperture Radar (SAR) images and used to classify areas of change and no change in six study areas.
+These sites are located in Syria, Puerto Rico, California, and Iran.
+The study areas were divided into street blocks, and the standard deviation was calculated for the coherence images for each street block over entire image stacks.
+The study areas were classified by land-use type to reveal the spatial variation in coherence loss after a disaster.
+While temporal decorrelation exhibits a general loss in coherence over time, disaster occurrence, however, indicates a significant loss in coherence after an event.
+The variations of each street block from the average coherence for the entire image stack, as measured by a high standard deviation after a particular disaster, is an indication of disaster induced building damage.

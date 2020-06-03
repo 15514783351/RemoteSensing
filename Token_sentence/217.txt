@@ -1,0 +1,9 @@
+This paper presents a novel content-based remote sensing (RS) image retrieval system that consists of the following.
+First, an image description method that characterizes both spatial and spectral information content of RS images.
+Second, a supervised retrieval method that efficiently models and exploits the sparsity of RS image descriptors.
+The proposed image description method characterizes the spectral content by three different novel spectral descriptors that are: raw pixel values, simple bag of spectral values and the extended bag of spectral values descriptors.
+To model the spatial content of RS images, we consider the well-known scale invariant feature transform-based bag of visual words approach.
+With the conjunction of the spatial and the spectral descriptors, RS image retrieval is achieved by a novel sparse reconstruction-based RS image retrieval method.
+The proposed method considers a novel measure of label likelihood in the framework of sparse reconstruction-based classifiers and generalizes the original sparse classifier to the case both single-label and multi-label RS image retrieval problems.
+Finally, to enhance retrieval performance, we introduce a strategy to exploit the sensitivity of the sparse reconstruction-based method to different dictionary words.
+Experimental results obtained on two benchmark archives show the effectiveness of the proposed system.

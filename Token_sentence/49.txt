@@ -1,0 +1,12 @@
+This study evaluated the potential of five seasonal high resolution Pleiades satellite images for improving urban tree species classification in the City of Tampa, FL, USA.
+We assessed and compared the capabilities of individual and combined Pleiades images acquired during different seasons for classifying the urban tree species to understand the seasonal effect on tree species mapping accuracy.
+The seven species and groups included sand live oak (Quercus geminata), laurel oak ((Q. laurifolia)), live oak ((Q. virginiana)), pine (species group), palm (species group), camphor (Cinnamomum camphora), and magnolia (Magnolia grandifiora).
+A multi-level classification system was adopted to classify image objects of the tree species and groups.
+Species classification performance was compared between the five individual seasonal Pleiades images, between two combined dry-wet season images, and between the optimal single season and combined dry-wet season image data.
+Shade image objects were spectrally normalized to similar sunlit image objects.
+The tree species fraction features were extracted from the seasonal images using the Mixture Tuned Matching Filtering approach and used as additional features to a set of spectral and spatial/textural features.
+Random Forest, Support Vector Machine and Linear Discriminant Analysis classifiers were used to classify the seven tree species and groups with image objects features.
+The experimental results indicate significantly improved tree species mapping accuracies using late spring season (April) image compared to all other seasonal images ((p < 0.01)), and combined dry-wet season images performed even better.
+Results suggest a significant seasonal effect on tree species classification.
+The results also demonstrate that the Random Forest outperformed the Support Vector Machine and Linear Discriminant Analysis classifiers for tree species classification.
+Therefore, in practice, it is important to choose appropriate seasonal remote sensing data for mapping tree species.

@@ -1,0 +1,12 @@
+Changes in the plant community composition due to biological invasion result in extensive changes to the ecosystem structure and functioning.
+Encroachment of Chir pine (Pinus roxburghii) in Banj oak (Quercus leucotrichophora) habitats in the western Himalaya is a well-established phenomenon and in due course eliminates the latter completely.
+Monitoring the impact of Chir pine incursion into Banj oak habitats is important for conservation and management of the oak ecosystems in western Himalaya.
+A remote-sensing-based classification method has been developed to precisely map and measure the potentially invaded forest areas in part of the western Himalaya.
+Timely identification of location and extent of invaded pine areas provides the opportunity to control the invasion.
+Temporal Landsat 8 OLI satellite data were used for temporal vegetation index database.
+Fuzzy-based, possibilistic C-means classifier is a soft classification technique used to identify the oak habitats and its coexistence with Chir pine.
+The outputs were validated using field data.
+A total of 33.16 +/- 10.01 km(2) was estimated as the mixed class showing coexistence of Banj oak and Chir pine.
+The overall accuracy was found to be 0.86 +/- 0.06 from the error matrix based on the estimated area proportion.
+In addition to providing a method for mapping coexistence of Banj oak and Chir pine, this study also provides information on the potential extent of the incursion of Chir pine in Banj oak forests in the western Himalaya.
+The critical information on potential area under invasion provides forest managers to take essential steps to minimize the incursion.

@@ -1,0 +1,11 @@
+Soil moisture, especially surface soil moisture (SSM), plays an important role in the development of various natural hazards that result from extreme weather events such as drought, flooding, and landslides.
+There have been many remote sensing methods for soil moisture retrieval based on microwave or optical thermal infrared (TIR) measurements.
+TIR remote sensing has been popular for SSM retrieval due to its fine spatial and temporal resolutions.
+However, because of limitations in the penetration of optical TIR radiation and cloud cover, TIR methods can only be used under clear sky conditions.
+Microwave SSM retrieval is based on solid physical principles, and has advantages in cases of cloud cover, but it has low spatial resolution.
+For applications at the local scale, SSM data at high spatial and temporal resolutions are important, especially for agricultural management and decision support systems.
+Current remote sensing measurements usually have either a high spatial resolution or a high temporal resolution, but not both.
+This study aims to retrieve SSM at both high spatial and temporal resolutions through the fusion of Moderate Resolution Imaging Spectroradiometer (MODIS) and Land Remote Sensing Satellite (Landsat) data.
+Based on the universal triangle trapezoid, this study investigated the relationship between land surface temperature (LST) and the normalized difference vegetation index (NDVI) under different soil moisture conditions to construct an improved nonlinear model for SSM retrieval with LST and NDVI.
+A case study was conducted in Iowa, in the United States (USA) (Lat: 42.2 degrees similar to 42.7 degrees, Lon: -93.6 degrees similar to-93.2 degrees), from 1 May 2016 to 31 August 2016.
+Daily SSM in an agricultural area during the crop-growing season was downscaled to 120-m spatial resolution by fusing Landsat 8 with MODIS, with an R-2 of 0.5766, and RMSE from 0.0302 to 0.1124 m(3)/m(3).

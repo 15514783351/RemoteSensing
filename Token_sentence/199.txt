@@ -1,0 +1,11 @@
+Evaporation (E) and transpiration (T) information is crucial for precise water resources planning and management in arid and semiarid areas.
+Two-source energy balance (TSEB) methods based on remotely-sensed land surface temperature provide an important modeling approach for estimating evapotranspiration (ET) and its components of E and T.
+Approaches for accurate decomposition of the component temperature and E/T partitioning from ET based on TSEB requires careful investigation.
+In this study, three TSEB models are used: (i) the TSEB model with the Priestley-Taylor equation, i.e., TSEB-PT; (ii) the TSEB model using the Penman-Monteith equation, i.e., TSEB-PM, and (iii) the TSEB using component temperatures derived from vegetation fractional cover and land surface temperature (VFC/LST) space, i.e., TSEB-T-C-T-S.
+These models are employed to investigate the impact of component temperature decomposition on E/T partitioning accuracy.
+Validation was conducted in the large-scale campaign of Heihe Watershed Allied Telemetry Experimental Research-Multi-Scale Observation Experiment on Evapotranspiration (HiWATER-MUSOEXE) in the northwest of China, and results showed that root mean square errors (RMSEs) of latent and sensible heat fluxes were respectively lower than 76 W/m(2) and 50 W/m(2) for all three approaches.
+Based on the measurements from the stable oxygen and hydrogen isotopes system at the Daman superstation, it was found that all three models slightly overestimated the ratio of E/ET.
+In addition, discrepancies in E/T partitioning among the three models were observed in the kernel experimental area of MUSOEXE.
+Further intercomparison indicated that different temperature decomposition methods were responsible for the observed discrepancies in E/T partitioning.
+The iterative procedure adopted by TSEB-PT and TSEB-PM produced higher LEC and lower T-C when compared to TSEB-T-C-T-S.
+Overall, this work provides valuable insights into understanding the performances of TSEB models with different temperature decomposition mechanisms over semiarid regions.

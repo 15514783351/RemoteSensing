@@ -1,0 +1,7 @@
+Hyperspectral images have the advantages of high spectral resolution and abundant spectral information, which helps researchers to analyze, process, and monitor land surface information.
+However, it also faces problems such as low degree of automatic data processing and poor timeliness of information extraction.
+This timeliness is due to the high dimensionality when extracting the target information in hyperspectral image.
+To solve this problem, a practical real-time hyperspectral anomaly detection system enhanced by graphics processing unit (GPU) is designed.
+The push-broom imaging spectrometers are adopted to obtain the image data lineby-line; then, the real-time anomaly detection algorithm based on QR decomposition is optimized using GPU (i.e., A QR decomposition is a decomposition of a matrix A into a product A = QR of an orthogonal matrix Q and an upper triangular matrix R).
+The results show that the parallel algorithm based on GPU is up to about 26 times faster than the serial algorithm based on central processing unit.
+This indicates that the proposed scheme significantly enhances the implementation efficiency while maintaining the accuracy of the results and can meet the application requirements of real-time anomaly detection well.

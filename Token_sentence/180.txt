@@ -1,0 +1,13 @@
+The photochemical reflectance index (PRI) is calculated from vegetation narrowband reflectance in two bands in the visible part of the spectrum.
+Variations in PRI are associated with changes in the xanthophyll cycle pigments which regulate the light use efficiency of vegetation.
+Correlations have been found between remotely-sensed PRI and various photosynthetic productivity parameters at the scales from leaves to landscapes.
+Environmental satellites can provide only an instantaneous value of this index at the time of overpass.
+The diurnal course of needle (leaf) PRI needs to be known in order to link the instantaneous values robustly with photosynthetic parameters at time scales exceeding one day.
+This information is not currently available in the scientific literature.
+Here we present the daily cycle of Scots pine needle and canopy PRI in a southern boreal forest zone in the presence of direct solar radiation during the peak growing season of two consecutive years.
+We found the PRI of the needles which are exposed to direct radiation to have a distinct diurnal cycle with constant or slightly increasing values before noon and a daily minimum in the afternoon.
+The cycle in needle PRI was not correlated with that in the incident photosynthetic photon flux density (PPFD).
+However, when PPFD was above 1000 mol m(-2) s(-1), approximately between 8 a.m. and 5 p.m., needle PRI was correlated with the light use efficiency (LUE), measured with shoot chambers.
+The timing of the minimum needle PRI coincided with the minimum canopy value, as measured by an independent sensor above the canopy, but the correlation between the two variables was not significant.
+Our field results corroborate the applicability of needle PRI in monitoring the daily variation in LUE.
+However, to apply this to remote sensing of seasonal photosynthetic productivity, the daily cycle of leaf PRI needs to be known for the specific vegetation type.

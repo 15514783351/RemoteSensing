@@ -1,0 +1,9 @@
+Small slope approximation (SSA) is a widely accepted approach in sea surface electromagnetic (EM) scattering studies.
+Nevertheless, the spatial sample interval used for sea surface should be around or even smaller than one-eighth of the incident wavelength to ensure EM scattering calculation accuracy, which requires a huge amount of computation, creating an obstacle to scattering numerical simulation, especially for high microwave band incident waves and large sea surface scenes.
+In this paper, a novel realization approach for SSA is proposed to significantly decrease the computation demands and computer memory requirements in sea surface scattering simulation.
+First, the sea surface is decomposed into two scales, and each scale has its own spatial sample interval.
+Then, the inclination state of the large-scale sea surface is determined under a specific wind speed.
+After that, scattering calculations of a typical surface cell with a finely sampled structure are completed and saved in all possible situations.
+Finally, scattering results for all the cells of a concrete sea surface are extracted from the saved cell scattering data base.
+From the different kinds of scattering result comparisons, it is demonstrated that this novel SSA realization approach can attain almost similar scattering results to exact SSA.
+This approach can be broadly applied in composite scattering studies, and remote sense imaging simulation of large sea surfaces with multiple targets.

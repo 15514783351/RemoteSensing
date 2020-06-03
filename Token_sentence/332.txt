@@ -1,0 +1,13 @@
+Knowledge of the spatial and temporal variability of near-surface water vapor is of great importance to successfully model reliable radio communications systems and forecast atmospheric phenomena such as convective initiation and boundary layer processes.
+However, most current methods to measure atmospheric moisture variations hardly provide the temporal and spatial resolutions required for detection of such atmospheric processes.
+Recently, considering the high correlation between refractivity variations and water vapor pressure variations at warm temperatures, and the good temporal and spatial resolution that weather radars provide, the measurement of the refractivity with radar became of interest.
+Firstly, it was proposed to estimate refractivity variations from radar phase measurements of ground-based stationary targets returns.
+For that, it was considered that the backscattering from ground targets is stationary and the vertical gradient of the refractivity could be neglected.
+Initial experiments showed good results over flat terrain when the radar and target heights are similar.
+However, the need to consider the non-zero vertical gradient of the refractivity over hilly terrain is clear.
+Up to date, the methods proposed consider previous estimation of the refractivity gradient in order to correct the measured phases before the refractivity estimation.
+In this paper, joint estimation of the refractivity variations at the radar height and the refractivity vertical gradient variations using scan-to-scan phase measurement variations is proposed.
+To reduce the noisiness of the estimates, a least squares method is used.
+Importantly, to apply this algorithm, it is not necessary to modify the radar scanning mode.
+For the purpose of this study, radar data obtained during the Refractivity Experiment for H2O Research and Collaborative Operational Technology Transfer (REFRACTT_2006), held in northeastern Colorado (USA), are used.
+The refractivity estimates obtained show a good performance of the algorithm proposed compared to the refractivity derived from two automatic weather stations located close to the radar, demonstrating the possibility of radar based refractivity estimation in hilly terrain and non-homogeneous atmosphere with high spatial resolution.

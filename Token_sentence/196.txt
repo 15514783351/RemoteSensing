@@ -1,0 +1,11 @@
+Infrared image segmentation plays a significant role in many burgeoning applications of remote sensing, such as environmental monitoring, traffic surveillance, air navigation and so on.
+However, the precision is limited due to the blurred edge, low contrast and intensity inhomogeneity caused by infrared imaging.
+To overcome these challenges, a level set method using global and local information is proposed in this paper.
+In our method, a hybrid signed pressure function is constructed by fusing a global term and a local term adaptively.
+The global term is represented by the global average intensity, which effectively accelerates the evolution when the evolving curve is far away from the object.
+The local term is represented by a multi-feature-based signed driving force, which accurately guides the curve to approach the real boundary when it is near the object.
+Then, the two terms are integrated via an adaptive weight matrix calculated based on the range value of each pixel.
+Under the framework of geodesic active contour model, a new level set formula is obtained by substituting the proposed signed pressure function for the edge stopping function.
+In addition, a Gaussian convolution is applied to regularize the level set function for the purpose of avoiding the computationally expensive re-initialization.
+By iteration, the object of interest can be segmented when the level set function converges.
+Both qualitative and quantitative experiments verify that our method outperforms other state-of-the-art level set methods in terms of accuracy and robustness with the initial contour being set randomly.

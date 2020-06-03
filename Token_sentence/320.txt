@@ -1,0 +1,7 @@
+The climate-induced decrease in fish catches in South Korea has been a big concern over the last decades.
+The increase in sea surface temperature (SST) due to climate change has led to not only a decline in fishery landings but also a shift in the fishing grounds of several fish species.
+The habitat suitability index (HSI), a reliable indicator of the capacity of a habitant to support selected species, has been widely used to detect and forecast fishing ground formation.
+In this study, the catch data of the chub mackerel and satellite-derived environmental factors were used to calculate the HSI for the chub mackerel in the South Sea, South Korea.
+More than 80% of the total catch was found in areas with an SST of 14.72-25.72 degrees C, chlorophyll-a of 0.30-0.92 mg m(-3), and primary production of 523.7-806.46 mg C m(-2) d(-1).
+Based on these results, the estimated climatological monthly HSI from 2002 to 2016 clearly showed that the wintering ground of the chub mackerel generally formed in the South Sea of South Korea, coinciding with the catch distribution during the same period.
+This outcome implies that our estimated HSI can yield a reliable prediction of the fishing ground for the chub mackerel in the East/Japan Sea and South Sea of South Korea.

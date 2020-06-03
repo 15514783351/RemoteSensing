@@ -1,0 +1,10 @@
+Local invariant features from computer vision community have recently been widely applied to the matching of remote sensing images.
+However, these features are mainly designed to handle geometric distortions, and are sensitive to complex radiometric differences between multisensor images.
+To address this issue, this paper proposes an effective local invariant feature that is sufficiently robust to both geometric and radiometric changes.
+The proposed feature is built based on the phase congruency model that is invariant to illumination and contrast variation.
+It consists of a feature detector named MMPC-Lap and a feature descriptor named local histogram of orientated phase congruency (LHOPC).
+MMPC-Lap is constructed by using the minimum moment of phase congruency for feature detection with an automatic scale location technique, which is used to detect stable keypoints in image scale space.
+Subsequently, LHOPC derives the feature descriptor for a keypoint by utilizing an extended phase congruency feature with an advanced descriptor configuration.
+Finally, correspondences are achieved by evaluating the similarity of the feature descriptors.
+The proposed MMPC-Lap and LHOPC have been evaluated under different imaging conditions (spectral, temporal, and scale changes).
+The results obtained on a variety of remote sensing images demonstrate its excellent performance with respect to the state-of-the-art local invariant features, especially for cases where there are complex radiometric differences.

@@ -1,0 +1,10 @@
+A method to assess global land surface water (fw) inundation dynamics was developed by exploiting the enhanced fw sensitivity of L-band (1.4 GHz) passive microwave observations from the Soil Moisture Active Passive (SMAP) mission.
+The L-band fw (fw(LBand)) retrievals were derived using SMAP H-polarization brightness temperature (T-b) observations and predefined L-band reference microwave emissivities for water and land end-members.
+Potential soil moisture and vegetation contributions to the microwave signal were represented from overlapping higher frequency T-b observations from AMSR2.
+The resulting fw(LBand) global record has high temporal sampling (1-3 days) and 36-km spatial resolution.
+The fw(LBand) annual averages corresponded favorably (R = 0.85, p-value < 0.001) with a 250-m resolution static global water map (MOD44W) aggregated at the same spatial scale, while capturing significant inundation variations worldwide.
+The monthly fw(LBand) averages also showed seasonal inundation changes consistent with river discharge records within six major US river basins.
+An uncertainty analysis indicated generally reliable fw(LBand) performance for major land cover areas and under low to moderate vegetation cover, but with lower accuracy for detecting water bodies covered by dense vegetation.
+Finer resolution (30-m)fw(LBand) results were obtained for three sub-regions in North America using an empirical downscaling approach and ancillary global Water Occurrence Dataset (WOD) derived from the historical Landsat record.
+The resulting 30-m fw(LBand) retrievals showed favorable spatial accuracy for water (commission error 31.46%, omission error 30.20%) and land (commission error 0.87%, omission error 0.96%) classifications and seasonal wet and dry periods when compared to independent water maps derived from Landsat-8 imagery.
+The new fw(LBand) algorithms and continuing SMAP and AMSR2 operations provide for near real-time, multi-scale monitoring of global surface water inundation dynamics and potential flood risk.

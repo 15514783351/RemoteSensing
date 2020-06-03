@@ -1,0 +1,9 @@
+The knowledge of atmospheric column water vapor concentration is crucial for compensating water absorption effects in remote sensing data.
+Several algorithms for the estimation of such a parameter were proposed in the past.
+One of the most effective algorithms is the atmospheric precorrected differential absorption (APDA) technique.
+APDA relies on a simplified radiative transfer model (RTM) that does not account for the spatial variability of the adjacency effects.
+In this paper, we study the impact of the simplified RTM assumption on the performance of the algorithm by exploiting a more realistic and well-established RTM.
+Starting from such a model, we derive a new water retrieval algorithm called low-rank subspace projection-based water estimator.
+It exploits the high degree of spectral correlation experienced in the reflectances of most of the existing materials.
+An extensive experimental analysis is carried out on simulated data in order to assess and compare the performance of the two algorithms.
+Simulation results allow the critical analysis of the two algorithms by highlighting their strengths and drawbacks.

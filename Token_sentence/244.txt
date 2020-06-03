@@ -1,0 +1,11 @@
+Spectral unmixing provides, for each pixel in the image, an estimated vector of fractional abundances that correspond to pure signatures, known as endmembers (EMs).
+Standard unmixing techniques rely only on spectral information and each pixel is solved as an individual entity.
+Recent studies show that incorporating the image's spatial information enhances accuracy of the unmixing results.
+Spatial information may allow better selection of relevant EMs, for each pixel, rather than utilizing all potential EMs in solving the spectral mixing problem.
+To implement this approach, we developed a new method for spatially adaptive spectral unmixing called Gaussian-based spatially adaptive unmixing (GBSAU).
+GBSAU fits for each EM, a surface by a series of spatial anisotropic 2D Gaussians whose sum represents the EM's fraction distribution over the whole image.
+These analytical surfaces facilitate a sparse solution for the unmixing process by spatial localization of EMs, which is then used to determine an adaptive subset of actual EMs for each pixel.
+The performance of our novel method was compared with that of the state-of-art spatially adaptive unimximg method, sparse unmixing via variable splitting augmented Lagrangian and total variation (SUnSAL-TV) as well as with two ordinary non-spatial methods, sparse unmixing by variable splitting and augmented Lagrangian (SUnSAL) and vectorized code projected gradient descent unmixing (VPGDU).
+The comparison was carried out on both simulated and real hyperspectral images.
+The results obtained with GBSAU indicated a significant improvement in the overall accuracy of the unmixing process compared with both spatially adaptive and ordinary methods.
+Quantitatively, GBSAU reduces the average mean absolute error (MAE) of the results by similar to 15%, for cases with SNR = 30 db and 20 db, and by similar to 30% for cases with SNR = 10 db and 5 db.

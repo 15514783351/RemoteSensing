@@ -1,0 +1,7 @@
+Biological soil crusts (BSC) encompassing green algae, cyanobacteria, lichens, bryophytes, heterotrophic bacteria and microfungi are keystone species in arid environments because of their role in nitrogen- and carbon-fixation, weathering and soil stabilization, all depending on the photosynthesis of the BSC.
+Despite their importance, little is known about the BSCs of the Atacama Desert, although especially crustose chlorolichens account for a large proportion of biomass in the arid coastal zone, where photosynthesis is mainly limited due to low water availability.
+Here, we present the first hyperspectral reflectance data for the most wide-spread BSC species of the southern Atacama Desert.
+Combining laboratory and field measurements, we establish transfer functions that allow us to estimate net photosynthesis rates for the most common BSC species.
+We found that spectral differences among species are high, and differences between the background soil and the BSC at inactive stages are low.
+Additionally, we found that the water absorption feature at 1420 nm is a more robust indicator for photosynthetic activity than the chlorophyll absorption bands.
+Therefore, we conclude that common vegetation indices must be taken with care to analyze the photosynthesis of BSC with multispectral data.

@@ -1,0 +1,8 @@
+Urban planning to solve environmental problems in Latin American cities requires information that commonly does not exist or, if it does exist, is at different scales, which makes the information incomparable.
+Therefore, a quantitative approach is proposed to assess an urban environmental quality index (UEQI) for Cali, Colombia, integrating remote sensing and census data.
+Landsat TM images were used to extract biophysical indicators: land surface temperature (LST), normalized difference vegetation index (NDVI), soil adjusted vegetation index (SAVI), leaf wetness content index (LWCI), normalized humid index (NHI), normalized difference built-up index (NDBI), and normalized difference impervious surface index (NDISI).
+These seven indicators were integrated with seven socioeconomic indicators obtained from census data using multivariate statistical analysis to determine the UEQ index at the commune level.
+The results showed consistent correlation among the indicators, and the highest values of UEQI occurred in communes with less built-up areas and more green areas.
+There were statistically significant differences among the index at the commune level.
+Therefore, communes were categorized into five classes (very good, good, moderate, poor and very poor environmental quality) according to the index to determine the most critical interventions to be made by planning and decision-making institutions.
+This method could be applied to similar cities using large-scale administrative units.

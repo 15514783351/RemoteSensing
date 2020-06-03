@@ -1,0 +1,14 @@
+Urban geometry and materials combine to create complex spatial, temporal and directional patterns of longwave infrared (LWIR) radiation.
+Effective anisotropy (or directional variability) of thermal radiance causes remote sensing (RS) derived urban surface temperatures to vary with RS view angles.
+Here a new and novel method to resolve effective thermal anisotropy processes from LWIR camera observations is demonstrated at the Comprehensive Outdoor Scale MOdel (COSMO) test site.
+Pixel-level differences of brightness temperatures reach 18.4 K within one hour of a 24-h study period.
+To understand this variability, the orientation and shadowing of surfaces is explored using the Discrete Anisotropic Radiative Transfer (DART) model and Blender three-dimensional (3D) rendering software.
+Observed pixels and the entire canopy surface are classified in terms of surface orientation and illumination.
+To assess the variability of exitant longwave radiation (M-LW) from the 3D COSMO surface (M-LW(3D)), the observations are prescribed based on class.
+The parameterisation is tested by simulating thermal images using a camera view model to determine camera perspectives of M-LW(3D) fluxes.
+The mean brightness temperature differences per image (simulated and observed) are within 0.65 K throughout a 24-h period.
+Pixel-level comparisons are possible with the high spatial resolution of M(LW)(3D )and DART camera view simulations.
+At this spatial scale ( < 0.10 m), shadow hysteresis, surface sky view factor and building edge effects are not completely resolved by M-LW(3D).
+By simulating apparent brightness temperatures from multiple view directions, effective thermal anisotropy of M(LW)(3D )is shown to be up to 6.18 K.
+The developed methods can be extended to resolve some of the identified sources of sub-facet variability in realistic urban settings.
+The extension of DART to the interpretation of ground-based RS is shown to be promising.

@@ -1,0 +1,16 @@
+Advances in remote sensing have led to the use of satellite-derived rainfall products to complement the sparse rain gauge data.
+Although these products are globally and some regional bias corrected, they often show substantial differences relative to ground measurements attributed to local and external factors that require systematic consideration.
+A decreasing rain gauge network inhibits the continuous validation of these products.
+Our proposal to deal with this problem was to use a Bayesian approach to merge the existing historical rain gauge information to create consistent satellite rainfall data for long-term applications.
+Monthly bias correction was applied to Climate Hazards Group Infrared Precipitation with Stations (CHIRPS v2) using a corresponding gridded (0.05 degrees) rain gauge data over East Africa for 33 years (1981-2013).
+The first 22 years were utilized to derive error fields which were then applied to independent CHIRPS data for 11 years for validation.
+Assessments of the approach's influence on the rainfall estimates spatially and temporally were explored.
+Results showed a significant spatial reduction of the underestimation and overestimation of systematic errors at both monthly and yearly scales.
+The reduced errors increased with increased rainfall amounts, hence was less so in the relatively drier months.
+The overall monthly reduction of Root Mean Square Difference (RMSD) was between 4% and 60%, and the Mean Absolute Error (MAE) was between 1% and 63%, while the correlations improved by up to 21%.
+Yearly, the RMSD was reduced between 17% and 49%, and the MAE between 13% and 48%, while the increase in correlations was between 9% and 17%.
+Decreased yearly bias correction corresponded with years of high rainfall associated with El Nino.
+Results for the assessments of the effectiveness of the Bayesian approach showed that it was more effective in reducing systematic errors related to rainfall magnitudes, but its performance decreased in areas of sparse rain gauge network that insufficiently represented rainfall variabilities.
+This affected areas of deep convection, leading to minimal overestimation reductions associated with the cirrus effect.
+Conversely, significant corrections were during years of low rainfall from shallow convections.
+The approach is suitable for long-term applications where consistencies of mean errors can be assumed.

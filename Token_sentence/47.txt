@@ -1,0 +1,4 @@
+Since 2007, green tides caused by massive blooms of Enteromorpha prolifera have occurred in the Yellow Sea during April and September every year.
+Generally, the macroalgae first gathered around the Jiangsu coastline and then moved northeastward toward the Shandong Peninsula, but the paths and distribution of green tides have featured obvious inter-annual variation.
+Here, we describe a new method to forecasting the drift path of green tides with some climate indices such as Nino3.4.
+This method may help policy makers to develop a strategy to prevent green tide disasters and mitigate the consequence more effectively.

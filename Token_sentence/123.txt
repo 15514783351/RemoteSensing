@@ -1,0 +1,9 @@
+Bayesian network classifiers (BNCs) are now among the most used supervised probabilistic methods for remote sensing image classification.
+Our contribution lies in two principal points.
+First, the investigation of the applicability of Kruskal's algorithm constructs the optimal tree structure of multinet Bayeisan network classifier (MBNC).
+Second, the focus on MBNC's advantages is over other classical BNCs, such as naive Bayes classifier (NBC), tree augmented naive Bayes classifier (TANC), forest augmented naive Bayes classifier (FANC), and state-of-the art competitor classifiers such as maximum likelihood classifier (MLC) and support vector machine (SVM) classifier.
+While classical BNCs have a mere network for all predefined classes, MBNC has as many local Bayesian networks as the predefined classes.
+Hence, through a statistical evaluation and a visual inspection, our objective is to emphasize the contribution of MBNC to enhance the accuracy of urban land cover map obtained by classification of remotely sensed image.
+Performances of developed BNCs (NBC, TANC, FANC, and MBNC) are experimentally assessed using a multispectral image acquired on July 12, 2010, by Alsat-2A Algerian satellite.
+Based on a confusion matrix, overall accuracy, and Kappa statistic, results indicate that MBNC largely outperforms classical BNCs (NBC, TANC, and FANC) and probabilistic MLC, but performs slightly better than an SVM classifier.
+Due to its specific-class local network, MBNC gives a powerful tool for a better discrimination between different correlated spectral classes.

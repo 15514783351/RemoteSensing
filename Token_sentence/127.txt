@@ -1,0 +1,8 @@
+Mapping of peanut crops is essential in supporting peanut production, yield prediction, and commodity forecasting.
+While ground-based surveys can be used over small areas, the development of remote-sensing technologies could provide rapid and inexpensive crop area estimates with high accuracy over large regions.
+Some of these recent earth observation satellite systems, such as the Project for On-Board Autonomy Vegetation (PROBA-V), have the advantage of increased spatial and temporal resolution.
+With a study area located in the South Burnett region, Queensland, Australia, the primary aim of this study was to assess the ability of time-series PROBA-V 100-m normalized difference vegetation index (NDVI) for peanut crop mapping.
+Two datasets, i.e., PROBA-V NDVI time-series imagery and the corresponding phenological parameters generated from TIMESAT data analysis technique, were classified using maximum likelihood classification, spectral angle mapper, and minimum distance classification algorithms.
+The results show that among all methods used, the application of MLC in PROBA-V NDVI time series produced very good overall accuracy, i.e., 92.75%, with producer and user accuracy of each class <= 78.79%.
+For all algorithms tested, the mapping of peanut cropping areas produced satisfactory classification results, i.e., 75.95% to 100%.
+Our study confirmed that the use of finer resolution 100 m of PROBA-V imagery (i.e., relative to MODIS 250-m data) has contributed to the success of mapping peanut and other crops in the study area.

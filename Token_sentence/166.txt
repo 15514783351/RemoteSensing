@@ -1,0 +1,14 @@
+The increasing frequency of fires inhibits the estimation of carbon reserves in boreal forest ecosystems because fires release significant amounts of carbon into the atmosphere through combustion.
+However, less is known regarding the effects of vegetation succession processes on ecosystem C-flux that follow fires.
+This paper describes intra- and inter-annual vegetation restoration trajectories via MODIS time-series and Landsat data.
+The temporal and spatial characteristics of the natural succession were analyzed from 2000 to 2016.
+Finally, we regressed post-fire MODIS EVI, LST and LSWI values onto GPP and NPP values to identify the main limiting factors during post-fire carbon exchange.
+The results show immediate variations after the fire event, with EVI and LSWI decreasing by 0.21 and 0.31, respectively, and the LST increasing to 6.89 degrees C.
+After this initial variation, subsequent fire-induced variations were significantly smaller; instead, seasonality began governing the change characteristics.
+The greatest differences in EVI, LST and LSWI were observed in August and September compared to those in other months (0.29, 6.9 and 0.35, respectively), including July, which was the second month after the fire.
+We estimated the mean EVI recovery periods under different fire intensities (approximately 10, 12 and 16 years): the LST recovery time is one year earlier than that of the EVI.
+GPP and NPP decreased after the fire by 22-45 g C.m(-2).month(-1) (30-80%) and 0.13-0.35 kg C.m(-2).year(-1) (20-60%), respectively.
+Excluding the winter period, when no photosynthesis occurred, the correlation between the EVI and GPP was the strongest, and the correlation coefficient varied with the burn intensity.
+When changes in EVI, LST and LSWI after the fire in the boreal forest were more significant, the severity of the fire determined the magnitude of the changes, and the seasonality aggravated these changes.
+On the other hand, the seasonality is another important factor that affects vegetation restoration and land-surface energy fluxes in boreal forests.
+The strong correlations between EVI and GPP/NPP reveal that the C-flux can be simply and directly estimated on a per-pixel basis from EVI data, which can be used to accurately estimate land-surface energy fluxes during vegetation restoration and reduce uncertainties in the estimation of forests' carbon reserves.

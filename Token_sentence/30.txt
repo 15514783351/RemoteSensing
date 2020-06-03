@@ -1,0 +1,10 @@
+Semantic segmentation of LiDAR and high-resolution aerial imagery is one of the most challenging topics in the remote sensing domain.
+Deep convolutional neural network (CNN) and its derivatives have recently shown the abilities in pixel-wise prediction of remote sensing data.
+Many existing deep learning methods fuse LiDAR and high-resolution aerial imagery towards an inter-modal mode and thus overlook the intra-modal statistical characteristics.
+Additionally, the patch-based CNNs could generate the salt-and-pepper artifacts as characterized by isolated and spurious pixels on the object boundaries and patch edges leading to unsatisfied labelling results.
+This paper presents a semantic segmentation scheme that combines multi-filter CNN and multi-resolution segmentation (MRS).
+The multi-filter CNN aggregates LiDAR data and high-resolution optical imagery by multi modal data fusion for semantic labelling, and the MRS is further used to delineate object boundaries for reducing the salt-and-pepper artifacts.
+The proposed method is validated against two datasets: the ISPRS 2D semantic labelling contest of Potsdam and an area of Guangzhou in China labelled based on existing geodatabases.
+Various designs of data fusion strategy, CNN architecture and MRS scale are analyzed and discussed.
+Compared with other classification methods, our method improves the overall accuracies.
+Experiment results show that our combined method is an efficient solution for the semantic segmentation of LiDAR and high-resolution imagery.

@@ -1,0 +1,10 @@
+Haze removal is a pre-processing step that operates on at-sensor radiance data prior to the physically based image correction step to enhance hazy imagery visually.
+Most current haze removal methods focus on point-to-point operations and utilize information in the spectral domain, without taking consideration of the multi-scale spatial information of haze.
+In this paper, we propose a multi-scale residual convolutional neural network (MRCNN) for haze removal of remote sensing images.
+MRCNN utilizes 3D convolutional kernels to extract spatial-spectral correlation information and abstract features from surrounding neighborhoods for haze transmission estimation.
+It takes advantage of dilated convolution to aggregate multi-scale contextual information for the purpose of improving its prediction accuracy.
+Meanwhile, residual learning is utilized to avoid the loss of weak information while deepening the network.
+Our experiments indicate that MRCNN performs accurately, achieving an extremely low validation error and testing error.
+The haze removal results of several scenes of Landsat 8 Operational Land Imager (OLI) data show that the visibility of the dehazed images is significantly improved, and the color of recovered surface is consistent with the actual scene.
+Quantitative analysis proves that the dehazed results of MRCNN are superior to the traditional methods and other networks.
+Additionally, a comparison to haze-free data illustrates the spectral consistency after haze removal and reveals the changes in the vegetation index.

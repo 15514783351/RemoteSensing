@@ -1,0 +1,10 @@
+Forest biophysical variables derived from remote sensing observations are vital for climate research.
+The combination of structurally and radiometrically accurate 3D virtual forests with radiative transfer (RT) models creates a powerful tool to facilitate the calibration and validation of remote sensing data and derived biophysical products by helping us understand the assumptions made in data processing algorithms.
+We present a workflow that uses highly detailed 3D terrestrial laser scanning (TLS) data to generate virtual forests for RT model simulations.
+Our approach to forest stand reconstruction from a co-registered point cloud is unique as it models each tree individually.
+Our approach follows three steps: (1) tree segmentation; (2) tree structure modelling and (3) leaf addition.
+To demonstrate this approach, we present the measurement and construction of a one hectare model of the deciduous forest in Wytham Woods (Oxford, UK).
+The model contains 559 individual trees.
+We matched the TLS data with traditional census data to determine the species of each individual tree and allocate species-specific radiometric properties.
+Our modelling framework is generic, highly transferable and adjustable to data collected with other TLS instruments and different ecosystems.
+The Wytham Woods virtual forest is made publicly available through an online repository.

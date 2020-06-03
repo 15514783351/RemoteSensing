@@ -1,0 +1,10 @@
+Poverty has emerged as one of the chronic dilemmas facing the development of human society during the twenty first century.
+Accurately identifying regions of poverty could lead to more effective poverty-alleviation programs.
+This study used a new type of remote-sensing data, NPP-VIIRS, to locate poverty-stricken areas based on nighttime light, taking Chongqing Municipality as a sample, and constructed a multidimensional poverty index (MPI) system, guided by a well-known and widely used conceptual framework of sustainable livelihood.
+A regression model was constructed and results were correlated with those using the average nighttime light index.
+The model was then tested on Shaanxi Province, and average relative error of the estimated MPI was only 11.12%.
+These results showed that multidimensional poverty had a high spatial concentration effect at the regional scale.
+We then applied the index nationwide, at the county scale, analyzing 2852 counties, which we divided into seven classifications, based on the MPI: extremely low, low, relatively low, medium, relatively high, high, and extremely high.
+Eight hundred forty-eight counties in 26 provinces were identified as multidimensionally poor.
+Among these, 254 were absolutely poor counties and 543 were relatively poor counties; 195 of these are not on the list of poverty-stricken counties as identified by income levels alone.
+By improving the accuracy of targeting, this method of identifying multidimensional poverty areas could help the Chinese government improve the effectiveness of poverty reduction strategies, and it could also be used as a reference for other countries or regions that seek to target poor areas that suffer multidimensional deprivation.

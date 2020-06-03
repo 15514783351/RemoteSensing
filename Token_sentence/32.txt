@@ -1,0 +1,6 @@
+Laser scanning generates a point cloud from which geometries can be extracted, but most methods struggle to do this automatically, especially for the entirety of an architecturally complex building (as opposed to that of a single facade).
+To address this issue, this paper introduces the Improved Slicing Method (ISM), an innovative and computationally-efficient method for three-dimensional building segmentation.
+The method is also able to detect opening boundaries even on roofs (e.g. chimneys), as well as a building's overall outer boundaries using a local density analysis technique.
+The proposed procedure is validated by its application to two architecturally complex, historic brick buildings.
+Accuracies of at least 86% were achieved, with computational times as little as 0.53 s for detecting features from a data set of 5.0 million points.
+The accuracy more than rivalled the current state of the art, while being up to six times faster and with the further advantage of requiring no manual intervention or reliance on a priori information.
